@@ -6,7 +6,7 @@ This repository contains artifacts for the paper titled "Integrating LLM-based T
 
 Below are the list of applications and textfield IDs used in our text generation quality evaluation (RQ1 ~ RQ4)
 
-| App Name                                       | Textfield ID                |
+| App Name (App ID)                                      | Textfield ID                |
 |------------------------------------------------|-----------------------------|
 | org.koitharu.kotatsu                           | searchView_198_119          |
 | AOL_News_Mail_Video_v6.47.2                    | search_edit_text_182_66     |
