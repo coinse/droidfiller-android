@@ -1,0 +1,49 @@
+{
+  "previous_actions": [
+    [
+      {
+        "index": "0",
+        "package": "org.koitharu.kotatsu",
+        "class": "android.widget.Button",
+        "text": "Done",
+        "resource-id": "android:id/button1",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[744,1819][920,1951]",
+        "displayed": "true"
+      },
+      "107684743"
+    ],
+    [
+      {
+        "index": "0",
+        "package": "org.koitharu.kotatsu",
+        "class": "android.widget.Button",
+        "text": "Close",
+        "resource-id": "android:id/button2",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[480,1578][656,1710]",
+        "displayed": "true"
+      },
+      "1255524253"
+    ]
+  ],
+  "current_screen": "-1399196902"
+}

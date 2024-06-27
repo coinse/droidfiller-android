@@ -1,0 +1,50 @@
+{
+  "previous_actions": [
+    [
+      {
+        "index": "0",
+        "package": "com.instagram.android",
+        "class": "android.widget.Button",
+        "text": "Create new account",
+        "resource-id": "com.instagram.android:id/sign_up_with_email_or_phone",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[44,1123][1036,1255]",
+        "displayed": "true"
+      },
+      "288818880"
+    ],
+    [
+      {
+        "index": "0",
+        "package": "com.instagram.android",
+        "class": "android.widget.Button",
+        "text": "US +1",
+        "content-desc": "United States",
+        "resource-id": "com.instagram.android:id/country_code_picker",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[77,1070][268,1202]",
+        "displayed": "true"
+      },
+      "940013962"
+    ]
+  ],
+  "current_screen": "1381772643"
+}

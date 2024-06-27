@@ -1,0 +1,27 @@
+{
+  "previous_actions": [
+    [
+      {
+        "index": "1",
+        "package": "com.aol.mobile.aolapp",
+        "class": "android.widget.EditText",
+        "text": "Search",
+        "resource-id": "com.aol.mobile.aolapp:id/alternate_search_edit_text",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "false",
+        "focused": "false",
+        "long-clickable": "true",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[166,94][1052,192]",
+        "displayed": "true"
+      },
+      "398348377"
+    ]
+  ],
+  "current_screen": "-2077864795"
+}

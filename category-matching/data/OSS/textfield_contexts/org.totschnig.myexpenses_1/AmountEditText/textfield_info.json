@@ -1,0 +1,20 @@
+{
+  "index": "1",
+  "package": "org.totschnig.myexpenses",
+  "class": "android.widget.EditText",
+  "text": "0",
+  "resource-id": "org.totschnig.myexpenses:id/AmountEditText",
+  "checkable": "false",
+  "checked": "false",
+  "clickable": "true",
+  "enabled": "true",
+  "focusable": "true",
+  "focused": "false",
+  "long-clickable": "true",
+  "password": "false",
+  "scrollable": "false",
+  "selected": "false",
+  "bounds": "[459,499][904,623]",
+  "displayed": "true",
+  "sent_text": "2000"
+}

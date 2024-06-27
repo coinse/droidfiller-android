@@ -1,0 +1,20 @@
+{
+  "index": "0",
+  "package": "ru.ok.android",
+  "class": "android.widget.AutoCompleteTextView",
+  "text": "Mobile phone or e-mail address",
+  "resource-id": "ru.ok.android:id/text_login",
+  "checkable": "false",
+  "checked": "false",
+  "clickable": "true",
+  "enabled": "true",
+  "focusable": "true",
+  "focused": "false",
+  "long-clickable": "true",
+  "password": "false",
+  "scrollable": "false",
+  "selected": "false",
+  "bounds": "[66,448][1014,555]",
+  "displayed": "true",
+  "sent_text": "+821066622455"
+}

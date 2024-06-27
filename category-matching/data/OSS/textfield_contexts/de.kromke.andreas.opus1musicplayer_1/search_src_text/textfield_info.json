@@ -1,0 +1,20 @@
+{
+  "index": "0",
+  "package": "de.kromke.andreas.opus1musicplayer",
+  "class": "android.widget.AutoCompleteTextView",
+  "text": "Search\u2026",
+  "resource-id": "de.kromke.andreas.opus1musicplayer:id/search_src_text",
+  "checkable": "false",
+  "checked": "false",
+  "clickable": "true",
+  "enabled": "true",
+  "focusable": "true",
+  "focused": "true",
+  "long-clickable": "true",
+  "password": "false",
+  "scrollable": "false",
+  "selected": "false",
+  "bounds": "[111,71][837,170]",
+  "displayed": "true",
+  "sent_text": "Lofi"
+}

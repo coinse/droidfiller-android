@@ -1,0 +1,21 @@
+{
+  "index": "0",
+  "package": "com.waze",
+  "class": "android.widget.EditText",
+  "text": "Where to?",
+  "content-desc": "sideMenuSearchBox",
+  "resource-id": "com.waze:id/searchBox",
+  "checkable": "false",
+  "checked": "false",
+  "clickable": "true",
+  "enabled": "true",
+  "focusable": "false",
+  "focused": "false",
+  "long-clickable": "true",
+  "password": "false",
+  "scrollable": "false",
+  "selected": "false",
+  "bounds": "[33,621][937,753]",
+  "displayed": "true",
+  "sent_text": "eiffel tower"
+}

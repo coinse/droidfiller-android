@@ -1,0 +1,20 @@
+{
+  "index": "0",
+  "package": "co.appreactor.news",
+  "class": "android.widget.EditText",
+  "text": "Username",
+  "resource-id": "co.appreactor.news:id/username",
+  "checkable": "false",
+  "checked": "false",
+  "clickable": "true",
+  "enabled": "true",
+  "focusable": "true",
+  "focused": "false",
+  "long-clickable": "true",
+  "password": "false",
+  "scrollable": "false",
+  "selected": "false",
+  "bounds": "[44,654][1036,807]",
+  "displayed": "true",
+  "sent_text": "anony1017mous"
+}

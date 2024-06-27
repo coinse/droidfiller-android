@@ -1,0 +1,49 @@
+{
+  "previous_actions": [
+    [
+      {
+        "index": "1",
+        "package": "com.huawei.maps.app",
+        "class": "android.widget.Button",
+        "text": "OK",
+        "resource-id": "android:id/button1",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[786,1158][978,1320]",
+        "displayed": "true"
+      },
+      "-773714105"
+    ],
+    [
+      {
+        "index": "1",
+        "package": "com.huawei.maps.app",
+        "class": "android.widget.Button",
+        "text": "AGREE",
+        "resource-id": "com.huawei.maps.app:id/agree_declare",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[564,2056][1008,2164]",
+        "displayed": "true"
+      },
+      "181688275"
+    ]
+  ],
+  "current_screen": "-1677063389"
+}

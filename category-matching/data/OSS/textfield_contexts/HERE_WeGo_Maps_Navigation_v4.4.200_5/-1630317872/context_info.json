@@ -1,0 +1,119 @@
+{
+  "previous_actions": [
+    [
+      {
+        "index": "3",
+        "package": "com.here.app.maps",
+        "class": "android.widget.Button",
+        "text": "",
+        "content-desc": "Continue",
+        "resource-id": "",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[105,1867][976,1999]",
+        "displayed": "true"
+      },
+      "-2061337200"
+    ],
+    [
+      {
+        "index": "3",
+        "package": "com.here.app.maps",
+        "class": "android.widget.Button",
+        "text": "",
+        "content-desc": "Let's go!",
+        "resource-id": "",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[105,1867][976,1999]",
+        "displayed": "true"
+      },
+      "2102943874"
+    ],
+    [
+      {
+        "index": "6",
+        "package": "com.here.app.maps",
+        "class": "android.widget.Button",
+        "text": "",
+        "content-desc": "No, thanks",
+        "resource-id": "",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[105,2016][976,2148]",
+        "displayed": "true"
+      },
+      "651464289"
+    ],
+    [
+      {
+        "index": "11",
+        "package": "com.here.app.maps",
+        "class": "android.widget.Button",
+        "text": "",
+        "content-desc": "No, thanks",
+        "resource-id": "",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[105,2016][976,2148]",
+        "displayed": "true"
+      },
+      "651464289"
+    ],
+    [
+      {
+        "index": "0",
+        "package": "com.here.app.maps",
+        "class": "android.widget.ImageView",
+        "text": "Where to?",
+        "resource-id": "",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[44,1346][1036,1495]",
+        "displayed": "true"
+      },
+      "1294102746"
+    ]
+  ],
+  "current_screen": "156770900"
+}

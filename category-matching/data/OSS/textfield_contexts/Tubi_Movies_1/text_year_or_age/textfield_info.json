@@ -1,0 +1,20 @@
+{
+  "index": "0",
+  "package": "com.tubitv",
+  "class": "android.widget.EditText",
+  "text": "Age",
+  "resource-id": "com.tubitv:id/text_year_or_age",
+  "checkable": "false",
+  "checked": "false",
+  "clickable": "true",
+  "enabled": "true",
+  "focusable": "true",
+  "focused": "false",
+  "long-clickable": "false",
+  "password": "false",
+  "scrollable": "false",
+  "selected": "false",
+  "bounds": "[53,674][487,793]",
+  "displayed": "true",
+  "sent_text": "27"
+}

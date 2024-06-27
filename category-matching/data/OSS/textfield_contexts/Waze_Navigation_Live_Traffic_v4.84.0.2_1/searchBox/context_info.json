@@ -1,0 +1,71 @@
+{
+  "previous_actions": [
+    [
+      {
+        "index": "0",
+        "package": "com.waze",
+        "class": "android.widget.TextView",
+        "text": "Get started",
+        "resource-id": "com.waze:id/authWelcomeTopButtonText",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "false",
+        "enabled": "true",
+        "focusable": "false",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[44,1703][1036,1876]",
+        "displayed": "true"
+      },
+      "-1816135066"
+    ],
+    [
+      {
+        "index": "0",
+        "package": "com.waze",
+        "class": "android.widget.TextView",
+        "text": "Continue as guest",
+        "resource-id": "com.waze:id/dialog_item_text",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "false",
+        "enabled": "true",
+        "focusable": "false",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[286,2035][793,2206]",
+        "displayed": "true"
+      },
+      "1987706583"
+    ],
+    [
+      {
+        "index": "1",
+        "package": "com.waze",
+        "class": "android.widget.FrameLayout",
+        "text": "",
+        "resource-id": "com.waze:id/leftMenuButtonContainer",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[0,2043][540,2236]",
+        "displayed": "true"
+      },
+      "-56745079"
+    ]
+  ],
+  "current_screen": "-1669109699"
+}

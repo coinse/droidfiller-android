@@ -1,0 +1,20 @@
+{
+  "index": "0",
+  "package": "com.instagram.android",
+  "class": "android.widget.AutoCompleteTextView",
+  "text": "Email",
+  "resource-id": "com.instagram.android:id/email_field",
+  "checkable": "false",
+  "checked": "false",
+  "clickable": "true",
+  "enabled": "true",
+  "focusable": "true",
+  "focused": "true",
+  "long-clickable": "true",
+  "password": "false",
+  "scrollable": "false",
+  "selected": "false",
+  "bounds": "[77,747][1003,879]",
+  "displayed": "true",
+  "sent_text": "greenmon@kaist.ac.kr"
+}

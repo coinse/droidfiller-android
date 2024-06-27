@@ -1,0 +1,186 @@
+{
+  "previous_actions": [
+    [
+      {
+        "index": "1",
+        "package": "org.totschnig.myexpenses",
+        "class": "android.widget.Button",
+        "text": "NEXT",
+        "resource-id": "org.totschnig.myexpenses:id/suw_navbar_next",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[794,2060][1036,2192]",
+        "displayed": "true"
+      },
+      "1234201261"
+    ],
+    [
+      {
+        "index": "0",
+        "package": "org.totschnig.myexpenses",
+        "class": "android.widget.EditText",
+        "text": "Budget Book",
+        "resource-id": "org.totschnig.myexpenses:id/Label",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "true",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[110,878][970,1031]",
+        "displayed": "true",
+        "sent_text": "My Expenses"
+      },
+      "-662143729"
+    ],
+    [
+      {
+        "index": "1",
+        "package": "org.totschnig.myexpenses",
+        "class": "android.widget.EditText",
+        "text": "0",
+        "resource-id": "org.totschnig.myexpenses:id/AmountEditText",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "true",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[231,1141][970,1265]",
+        "displayed": "true",
+        "sent_text": "1000"
+      },
+      "-662143729"
+    ],
+    [
+      {
+        "index": "1",
+        "package": "org.totschnig.myexpenses",
+        "class": "android.widget.Button",
+        "text": "GET STARTED",
+        "resource-id": "org.totschnig.myexpenses:id/suw_navbar_done",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[659,2060][1036,2192]",
+        "displayed": "true"
+      },
+      "-662143729"
+    ],
+    [
+      {
+        "index": "1",
+        "package": "org.totschnig.myexpenses",
+        "class": "android.widget.ImageButton",
+        "text": "",
+        "content-desc": "New Transaction. New Transfer. New split",
+        "resource-id": "org.totschnig.myexpenses:id/CREATE_COMMAND",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "true",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[882,2038][1036,2192]",
+        "displayed": "true"
+      },
+      "708833287"
+    ],
+    [
+      {
+        "index": "1",
+        "package": "org.totschnig.myexpenses",
+        "class": "android.widget.EditText",
+        "text": "",
+        "resource-id": "org.totschnig.myexpenses:id/AmountEditText",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "true",
+        "long-clickable": "true",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[459,361][904,485]",
+        "displayed": "true",
+        "sent_text": "100"
+      },
+      "-1243134374"
+    ],
+    [
+      {
+        "index": "0",
+        "package": "org.totschnig.myexpenses",
+        "class": "android.widget.Button",
+        "text": "6/2/22",
+        "content-desc": "Date",
+        "resource-id": "org.totschnig.myexpenses:id/DateButton",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[327,499][676,631]",
+        "displayed": "true"
+      },
+      "-1243134374"
+    ],
+    [
+      {
+        "index": "1",
+        "package": "org.totschnig.myexpenses",
+        "class": "android.widget.Button",
+        "text": "OK",
+        "resource-id": "org.totschnig.myexpenses:id/confirm_button",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[793,1722][969,1854]",
+        "displayed": "true"
+      },
+      "-1332990983"
+    ]
+  ],
+  "current_screen": "-1243134374"
+}

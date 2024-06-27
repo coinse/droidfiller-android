@@ -1,0 +1,73 @@
+{
+  "previous_actions": [
+    [
+      {
+        "index": "3",
+        "package": "com.hulu.plus",
+        "class": "android.widget.Button",
+        "text": "LOG IN",
+        "content-desc": "Log In",
+        "resource-id": "com.hulu.plus:id/welcome_primary_button",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[66,1994][1014,2126]",
+        "displayed": "true"
+      },
+      "334200465"
+    ],
+    [
+      {
+        "index": "0",
+        "package": "com.google.android.gms",
+        "class": "android.widget.Button",
+        "text": "NONE OF THE ABOVE",
+        "resource-id": "com.google.android.gms:id/cancel",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[127,1235][553,1367]",
+        "displayed": "true"
+      },
+      "-556966073"
+    ],
+    [
+      {
+        "index": "0",
+        "package": "com.hulu.plus",
+        "class": "android.widget.EditText",
+        "text": "email",
+        "resource-id": "com.hulu.plus:id/email",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "true",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[66,653][1014,790]",
+        "displayed": "true",
+        "sent_text": "anony1017mous@gmail.com"
+      },
+      "638690253"
+    ]
+  ],
+  "current_screen": "638690253"
+}

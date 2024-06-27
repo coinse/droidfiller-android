@@ -1,0 +1,13 @@
+{
+  "type": "XCUIElementTypeTextField",
+  "label": "",
+  "enabled": "true",
+  "visible": "true",
+  "accessible": "true",
+  "x": "228",
+  "y": "277",
+  "width": "40",
+  "height": "31",
+  "index": "7",
+  "sent_text": "10"
+}

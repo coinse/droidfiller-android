@@ -1,0 +1,71 @@
+{
+  "previous_actions": [
+    [
+      {
+        "type": "XCUIElementTypeButton",
+        "name": "continue",
+        "label": "Continue",
+        "enabled": "true",
+        "visible": "true",
+        "accessible": "false",
+        "x": "16",
+        "y": "742",
+        "width": "358",
+        "height": "52",
+        "index": "1"
+      },
+      "-207894890"
+    ],
+    [
+      {
+        "type": "XCUIElementTypeButton",
+        "name": "continue",
+        "label": "Continue",
+        "enabled": "true",
+        "visible": "true",
+        "accessible": "false",
+        "x": "16",
+        "y": "742",
+        "width": "358",
+        "height": "52",
+        "index": "1"
+      },
+      "69234639"
+    ],
+    [
+      {
+        "type": "XCUIElementTypeSecureTextField",
+        "value": "hC^FA7gW}TnW5MXB",
+        "name": "passwordInitial",
+        "label": "",
+        "enabled": "true",
+        "visible": "true",
+        "accessible": "true",
+        "x": "8",
+        "y": "330",
+        "width": "374",
+        "height": "45",
+        "index": "2",
+        "sent_text": "abcd1234"
+      },
+      "797759489"
+    ],
+    [
+      {
+        "type": "XCUIElementTypeButton",
+        "name": "continue",
+        "label": "Continue",
+        "enabled": "true",
+        "visible": "true",
+        "accessible": "false",
+        "x": "16",
+        "y": "485",
+        "width": "358",
+        "height": "52",
+        "index": "1"
+      },
+      "797759489"
+    ]
+  ],
+  "current_screen": "159475504"
+}

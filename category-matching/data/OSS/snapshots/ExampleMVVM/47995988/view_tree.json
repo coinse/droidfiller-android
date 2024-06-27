@@ -1,0 +1,202 @@
+{
+  "AppiumAUT": {
+    "XCUIElementTypeApplication": {
+      "@type": "XCUIElementTypeApplication",
+      "@name": "ExampleMVVM",
+      "@label": "ExampleMVVM",
+      "@enabled": "true",
+      "@visible": "true",
+      "@accessible": "false",
+      "@x": "0",
+      "@y": "0",
+      "@width": "390",
+      "@height": "844",
+      "@index": "0",
+      "XCUIElementTypeWindow": {
+        "@type": "XCUIElementTypeWindow",
+        "@enabled": "true",
+        "@visible": "true",
+        "@accessible": "false",
+        "@x": "0",
+        "@y": "0",
+        "@width": "390",
+        "@height": "844",
+        "@index": "0",
+        "XCUIElementTypeOther": {
+          "@type": "XCUIElementTypeOther",
+          "@enabled": "true",
+          "@visible": "true",
+          "@accessible": "false",
+          "@x": "0",
+          "@y": "0",
+          "@width": "390",
+          "@height": "844",
+          "@index": "0",
+          "XCUIElementTypeOther": {
+            "@type": "XCUIElementTypeOther",
+            "@enabled": "true",
+            "@visible": "true",
+            "@accessible": "false",
+            "@x": "0",
+            "@y": "0",
+            "@width": "390",
+            "@height": "844",
+            "@index": "0",
+            "XCUIElementTypeOther": {
+              "@type": "XCUIElementTypeOther",
+              "@enabled": "true",
+              "@visible": "true",
+              "@accessible": "false",
+              "@x": "0",
+              "@y": "0",
+              "@width": "390",
+              "@height": "844",
+              "@index": "0",
+              "XCUIElementTypeNavigationBar": {
+                "@type": "XCUIElementTypeNavigationBar",
+                "@name": "Movies",
+                "@enabled": "true",
+                "@visible": "true",
+                "@accessible": "false",
+                "@x": "0",
+                "@y": "47",
+                "@width": "390",
+                "@height": "44",
+                "@index": "0",
+                "XCUIElementTypeStaticText": {
+                  "@type": "XCUIElementTypeStaticText",
+                  "@value": "Movies",
+                  "@name": "Movies",
+                  "@label": "Movies",
+                  "@enabled": "true",
+                  "@visible": "true",
+                  "@accessible": "true",
+                  "@x": "167",
+                  "@y": "58",
+                  "@width": "57",
+                  "@height": "21",
+                  "@index": "0"
+                }
+              },
+              "XCUIElementTypeOther": {
+                "@type": "XCUIElementTypeOther",
+                "@enabled": "true",
+                "@visible": "true",
+                "@accessible": "false",
+                "@x": "0",
+                "@y": "0",
+                "@width": "390",
+                "@height": "844",
+                "@index": "1",
+                "XCUIElementTypeOther": {
+                  "@type": "XCUIElementTypeOther",
+                  "@enabled": "true",
+                  "@visible": "true",
+                  "@accessible": "false",
+                  "@x": "0",
+                  "@y": "0",
+                  "@width": "390",
+                  "@height": "844",
+                  "@index": "0",
+                  "XCUIElementTypeOther": {
+                    "@type": "XCUIElementTypeOther",
+                    "@enabled": "true",
+                    "@visible": "true",
+                    "@accessible": "false",
+                    "@x": "0",
+                    "@y": "0",
+                    "@width": "390",
+                    "@height": "844",
+                    "@index": "0",
+                    "XCUIElementTypeOther": {
+                      "@type": "XCUIElementTypeOther",
+                      "@enabled": "true",
+                      "@visible": "true",
+                      "@accessible": "false",
+                      "@x": "0",
+                      "@y": "91",
+                      "@width": "390",
+                      "@height": "719",
+                      "@index": "0",
+                      "XCUIElementTypeOther": {
+                        "@type": "XCUIElementTypeOther",
+                        "@enabled": "true",
+                        "@visible": "true",
+                        "@accessible": "false",
+                        "@x": "0",
+                        "@y": "91",
+                        "@width": "390",
+                        "@height": "56",
+                        "@index": "0",
+                        "XCUIElementTypeOther": {
+                          "@type": "XCUIElementTypeOther",
+                          "@enabled": "true",
+                          "@visible": "true",
+                          "@accessible": "false",
+                          "@x": "0",
+                          "@y": "91",
+                          "@width": "390",
+                          "@height": "56",
+                          "@index": "0",
+                          "XCUIElementTypeImage": {
+                            "@type": "XCUIElementTypeImage",
+                            "@enabled": "true",
+                            "@visible": "false",
+                            "@accessible": "false",
+                            "@x": "0",
+                            "@y": "91",
+                            "@width": "390",
+                            "@height": "56",
+                            "@index": "0"
+                          },
+                          "XCUIElementTypeOther": {
+                            "@type": "XCUIElementTypeOther",
+                            "@enabled": "true",
+                            "@visible": "true",
+                            "@accessible": "false",
+                            "@x": "0",
+                            "@y": "91",
+                            "@width": "390",
+                            "@height": "56",
+                            "@index": "1",
+                            "XCUIElementTypeSearchField": {
+                              "@type": "XCUIElementTypeSearchField",
+                              "@name": "AccessibilityIdentifierSearchMovies",
+                              "@label": "Search Movies",
+                              "@enabled": "true",
+                              "@visible": "true",
+                              "@accessible": "true",
+                              "@x": "8",
+                              "@y": "101",
+                              "@width": "374",
+                              "@height": "36",
+                              "@index": "0"
+                            }
+                          }
+                        }
+                      },
+                      "XCUIElementTypeStaticText": {
+                        "@type": "XCUIElementTypeStaticText",
+                        "@value": "Search results",
+                        "@name": "Search results",
+                        "@label": "Search results",
+                        "@enabled": "true",
+                        "@visible": "true",
+                        "@accessible": "true",
+                        "@x": "140",
+                        "@y": "468",
+                        "@width": "110",
+                        "@height": "21",
+                        "@index": "1"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

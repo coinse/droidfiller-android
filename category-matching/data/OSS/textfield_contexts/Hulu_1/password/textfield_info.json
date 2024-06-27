@@ -1,0 +1,20 @@
+{
+  "index": "0",
+  "package": "com.hulu.plus",
+  "class": "android.widget.EditText",
+  "text": "password",
+  "resource-id": "com.hulu.plus:id/password",
+  "checkable": "false",
+  "checked": "false",
+  "clickable": "true",
+  "enabled": "true",
+  "focusable": "true",
+  "focused": "false",
+  "long-clickable": "true",
+  "password": "true",
+  "scrollable": "false",
+  "selected": "false",
+  "bounds": "[66,875][1014,1012]",
+  "displayed": "true",
+  "sent_text": "eyedrop$4forsale"
+}

@@ -1,0 +1,20 @@
+{
+  "index": "0",
+  "package": "com.poupa.vinylmusicplayer",
+  "class": "android.widget.EditText",
+  "text": "FASSounds",
+  "resource-id": "com.poupa.vinylmusicplayer:id/artist",
+  "checkable": "false",
+  "checked": "false",
+  "clickable": "true",
+  "enabled": "true",
+  "focusable": "true",
+  "focused": "false",
+  "long-clickable": "true",
+  "password": "false",
+  "scrollable": "false",
+  "selected": "false",
+  "bounds": "[44,660][1036,791]",
+  "displayed": "true",
+  "sent_text": "FASSounds"
+}

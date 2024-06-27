@@ -1,0 +1,20 @@
+{
+  "index": "0",
+  "package": "me.hackerchick.catima",
+  "class": "android.widget.EditText",
+  "text": "Name",
+  "resource-id": "me.hackerchick.catima:id/storeNameEdit",
+  "checkable": "false",
+  "checked": "false",
+  "clickable": "true",
+  "enabled": "true",
+  "focusable": "true",
+  "focused": "false",
+  "long-clickable": "true",
+  "password": "false",
+  "scrollable": "false",
+  "selected": "false",
+  "bounds": "[199,417][1052,570]",
+  "displayed": "true",
+  "sent_text": "Grocery Store"
+}

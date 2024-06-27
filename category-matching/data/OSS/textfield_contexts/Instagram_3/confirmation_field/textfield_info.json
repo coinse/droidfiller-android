@@ -1,0 +1,20 @@
+{
+  "index": "0",
+  "package": "com.instagram.android",
+  "class": "android.widget.EditText",
+  "text": "Confirmation code",
+  "resource-id": "com.instagram.android:id/confirmation_field",
+  "checkable": "false",
+  "checked": "false",
+  "clickable": "true",
+  "enabled": "true",
+  "focusable": "true",
+  "focused": "true",
+  "long-clickable": "true",
+  "password": "false",
+  "scrollable": "false",
+  "selected": "false",
+  "bounds": "[77,508][1003,640]",
+  "displayed": "true",
+  "sent_text": "180953"
+}

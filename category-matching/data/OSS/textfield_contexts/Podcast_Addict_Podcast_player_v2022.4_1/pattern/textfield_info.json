@@ -1,0 +1,20 @@
+{
+  "index": "0",
+  "package": "com.bambuna.podcastaddict",
+  "class": "android.widget.AutoCompleteTextView",
+  "text": "Podcast name / Keywords",
+  "resource-id": "com.bambuna.podcastaddict:id/pattern",
+  "checkable": "false",
+  "checked": "false",
+  "clickable": "true",
+  "enabled": "true",
+  "focusable": "true",
+  "focused": "true",
+  "long-clickable": "true",
+  "password": "false",
+  "scrollable": "false",
+  "selected": "false",
+  "bounds": "[86,306][994,430]",
+  "displayed": "true",
+  "sent_text": "grim and mild"
+}

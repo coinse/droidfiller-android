@@ -1,0 +1,37 @@
+{
+  "previous_actions": [
+    [
+      {
+        "type": "XCUIElementTypeTextField",
+        "label": "",
+        "enabled": "true",
+        "visible": "true",
+        "accessible": "true",
+        "x": "120",
+        "y": "133",
+        "width": "150",
+        "height": "23",
+        "index": "1",
+        "sent_text": "16"
+      },
+      "-1499365203"
+    ],
+    [
+      {
+        "type": "XCUIElementTypeButton",
+        "name": "Return",
+        "label": "return",
+        "enabled": "true",
+        "visible": "true",
+        "accessible": "true",
+        "x": "292",
+        "y": "722",
+        "width": "98",
+        "height": "46",
+        "index": "31"
+      },
+      "888271912"
+    ]
+  ],
+  "current_screen": "-1499365203"
+}

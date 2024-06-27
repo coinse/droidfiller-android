@@ -1,0 +1,406 @@
+{
+    "country_code": {
+        "general": [
+            "82",
+            "algeria, 213",
+            "1"
+        ]
+    },
+    "model_name": {
+        "general": [
+            "Galaxy S21",
+            "S27F350",
+            "Galaxy A04s"
+        ]
+    },
+    "city": {
+        "general": [
+            "Seoul",
+            "New York",
+            "Paris"
+        ]
+    },
+    "recipient": {
+        "general": [
+            "Eugene",
+            "Bob",
+            "Alice"
+        ]
+    },
+    "podcast": {
+        "general": [
+            "The Joe Rogan Experience",
+            "The Daily",
+            "This American Life"
+        ]
+    },
+    "book": {
+        "general": [
+            "Demian",
+            "Elle",
+            "The Alchemist"
+        ]
+    },
+    "song": {
+        "general": [
+            "Love Dive",
+            "Rock Around the Clock",
+            "Despacito"
+        ]
+    },
+    "iot_device": {
+        "general": [
+            "Google Home",
+            "Yeelight",
+            "Amazon Echo"
+        ]
+    },
+    "age": {
+        "general": [
+            "30",
+            "20",
+            "10"
+        ]
+    },
+    "music": {
+        "general": [
+            "love dive",
+            "rock around the clock",
+            "kanywe west"
+        ]
+    },
+    "car_model": {
+        "general": [
+            "750",
+            "3 Series",
+            "i30"
+        ]
+    },
+    "url": {
+        "general": [
+            "www.naver.com",
+            "https://www.google.com",
+            "https://www.youtube.com"
+        ]
+    },
+    "amount": {
+        "general": [
+            "4",
+            "3000",
+            "10"
+        ]
+    },
+    "date": {
+        "general": [
+            "2021-01-01",
+            "2021/01/02",
+            "2021, 01, 03"
+        ]
+    },
+    "password": {
+        "general": [
+            "abcd!1234@",
+            "abcd!1234",
+            "gus@ka123"
+        ]
+    },
+    "news": {
+        "general": [
+            "worldcup",
+            "COVID",
+            "election"
+        ]
+    },
+    "department": {
+        "general": [
+            "mx",
+            "marketing",
+            "sales"
+        ]
+    },
+    "minute": {
+        "general": [
+            "00",
+            "10",
+            "30"
+        ]
+    },
+    "label": {
+        "general": [
+            "name1",
+            "title1",
+            "label1"
+        ]
+    },
+    "storage": {
+        "general": [
+            "filename",
+            "father",
+            "hi",
+            "love dive",
+            "drug store",
+            "sound",
+            "20221201"
+        ]
+    },
+    "video": {
+        "general": [
+            "worldcup",
+            "top pop hits",
+            "kpop"
+        ]
+    },
+    "movie": {
+        "general": [
+            "harry potter",
+            "arrival",
+            "Avatar"
+        ]
+    },
+    "auth_code": {
+        "general": [
+            "5974",
+            "123789",
+            "000000"
+        ]
+    },
+    "enum": {
+        "general": [
+            "1",
+            "2",
+            "3"
+        ]
+    },
+    "location": {
+        "general": [
+            "Daejeon",
+            "meeting room",
+            "room 1",
+            "daejeon city hall"
+        ]
+    },
+    "manga": {
+        "general": [
+            "one piece",
+            "naruto",
+            "bleach"
+        ]
+    },
+    "hour": {
+        "general": [
+            "14",
+            "10",
+            "1"
+        ]
+    },
+    "artist": {
+        "general": [
+            "New Jeans",
+            "Daft Punk",
+            "FKJ"
+        ]
+    },
+    "coupon_code": {
+        "general": [
+            "ref-gf8ff4",
+            "ref-3iwi87",
+            "ref-d5nzrs"
+        ]
+    },
+    "balance": {
+        "general": [
+            "1000",
+            "2000",
+            "3000"
+        ]
+    },
+    "card_id": {
+        "general": [
+            "AB123",
+            "1234abcd",
+            "1234ABCD"
+        ]
+    },
+    "email": {
+        "general": [
+            "samsung3@samsung.com",
+            "asdf123@naver.com",
+            "samsung2@samsung.com"
+        ]
+    },
+    "megazine": {
+        "general": [
+            "elle",
+            "vogue",
+            "marie claire"
+        ]
+    },
+    "second": {
+        "general": [
+            "40",
+            "00",
+            "30"
+        ]
+    },
+    "app": {
+        "general": [
+            "battlegrounds",
+            "youtube",
+            "facebook"
+        ]
+    },
+    "number": {
+        "general": [
+            "1",
+            "2",
+            "3"
+        ]
+    },
+    "username": {
+        "general": [
+            "samsung123",
+            "greenmon2",
+            "colddog"
+        ]
+    },
+    "year": {
+        "general": [
+            "2022",
+            "2021",
+            "2020"
+        ]
+    },
+    "tag": {
+        "general": [
+            "food",
+            "travel",
+            "music"
+        ]
+    },
+    "serial_number": {
+        "general": [
+            "MSIP-RMM-SEC-LH65DMD",
+            "LC24B550U/XY",
+            "AF0B3CFL501325B"
+        ]
+    },
+    "ratio": {
+        "general": [
+            "1.00",
+            "1.25",
+            "1:4"
+        ]
+    },
+    "month": {
+        "general": [
+            "10",
+            "July",
+            "12"
+        ]
+    },
+    "phone": {
+        "general": [
+            "(010) 4940-4583",
+            "010-4940-4583",
+            "01049404583"
+        ]
+    },
+    "genre": {
+        "general": [
+            "classic",
+            "pop",
+            "rock"
+        ]
+    },
+    "samsung_account": {
+        "general": [
+            "samsung2@samsung.com",
+            "samsung3@samsung.com",
+            "myaccount@samsung.com"
+        ]
+    },
+    "job": {
+        "general": [
+            "professor",
+            "doctor",
+            "lawyer"
+        ]
+    },
+    "tv_show": {
+        "general": [
+            "breaking bad",
+            "friends",
+            "the office"
+        ]
+    },
+    "web": {
+        "general": [
+            "www.naver.com",
+            "www.google.com",
+            "How to make an apple pie"
+        ]
+    },
+    "message": {
+        "general": [
+            "eugene",
+            "hi",
+            "hello"
+        ]
+    },
+    "payee": {
+        "general": [
+            "Bob",
+            "Alice",
+            "Client1"
+        ]
+    },
+    "company": {
+        "general": [
+            "samsung",
+            "google",
+            "apple"
+        ]
+    },
+    "time": {
+        "general": [
+            "10:00",
+            "10:30",
+            "11:00"
+        ]
+    },
+    "name": {
+        "general": [
+            "Juyeon Yoon",
+            "Suhee Choi",
+            "Bob Alen"
+        ]
+    },
+    "playlist_url": {
+        "general": [
+            "https://www.youtube.com/watch?v=zugAhfd2r0g&ab_channel=JYPEntertainment",
+            "https://youtube.com/playlist?list=PLoIcW4SY1awPlYZkE3qacewGEtfhDLrLt",
+            "https://youtube.com/playlist?list=PLoIcW4SY1awNonkj3DKFWhOFtFw-atqb1"
+        ]
+    },
+    "country": {
+        "general": [
+            "Korea",
+            "Algeria",
+            "Argentina"
+        ]
+    },
+    "description": {
+        "general": [
+            "with kaist",
+            "1201dinner",
+            "description1"
+        ]
+    },
+    "album": {
+        "general": [
+            "The wanderer",
+            "structuralism",
+            "Random Access Memories"
+        ]
+    }
+}

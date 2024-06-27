@@ -1,0 +1,163 @@
+{
+  "previous_actions": [
+    [
+      {
+        "index": "2",
+        "package": "me.hackerchick.catima",
+        "class": "android.widget.ImageButton",
+        "text": "",
+        "content-desc": "Add",
+        "resource-id": "me.hackerchick.catima:id/fabAdd",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[882,2038][1036,2192]",
+        "displayed": "true"
+      },
+      "-1435723619"
+    ],
+    [
+      {
+        "index": "1",
+        "package": "me.hackerchick.catima",
+        "class": "android.widget.Button",
+        "text": "Manually enter ID",
+        "resource-id": "me.hackerchick.catima:id/add_manually",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[318,2104][761,2236]",
+        "displayed": "true"
+      },
+      "95078803"
+    ],
+    [
+      {
+        "index": "1",
+        "package": "me.hackerchick.catima",
+        "class": "android.widget.EditText",
+        "text": "AB1234",
+        "resource-id": "me.hackerchick.catima:id/cardId",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "true",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[285,408][1052,540]",
+        "displayed": "true",
+        "sent_text": "A12345A"
+      },
+      "530085251"
+    ],
+    [
+      {
+        "index": "2",
+        "package": "me.hackerchick.catima",
+        "class": "android.widget.LinearLayout",
+        "text": "",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[0,2164][1080,2236]",
+        "displayed": "true"
+      },
+      "530085251"
+    ],
+    [
+      {
+        "index": "0",
+        "package": "me.hackerchick.catima",
+        "class": "android.widget.EditText",
+        "text": "Name",
+        "resource-id": "me.hackerchick.catima:id/storeNameEdit",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "true",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[199,417][1052,570]",
+        "displayed": "true",
+        "sent_text": "Grocery Store"
+      },
+      "-236981483"
+    ],
+    [
+      {
+        "index": "2",
+        "package": "me.hackerchick.catima",
+        "class": "android.widget.ImageButton",
+        "text": "",
+        "content-desc": "Save",
+        "resource-id": "me.hackerchick.catima:id/fabSave",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[882,2038][1036,2192]",
+        "displayed": "true"
+      },
+      "-236981483"
+    ],
+    [
+      {
+        "index": "0",
+        "package": "me.hackerchick.catima",
+        "class": "android.widget.TextView",
+        "text": "",
+        "content-desc": "Search",
+        "resource-id": "me.hackerchick.catima:id/action_search",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[573,88][705,220]",
+        "displayed": "true"
+      },
+      "-79518957"
+    ]
+  ],
+  "current_screen": "-1021118874"
+}

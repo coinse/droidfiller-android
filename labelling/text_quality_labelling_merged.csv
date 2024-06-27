@@ -1,0 +1,123 @@
+,,,,,,
+index,app_name,state_filename,textfield_id,droidfiller,llm_no_reasoning,category_matching
+1,org.koitharu.kotatsu,state_-1399196902,searchView_198_119,O,O,O
+2,AOL_News_Mail_Video_v6.47.2,state_-2077864795,search_edit_text_182_66,O,O,O
+3,de.kromke.andreas.opus1musicplayer,state_1643267838,search_src_text_111_71,O,O,O
+4,Petal_Maps‚ÄìGPS_Navigation_v2.5.0.303(002),state_-1677063389,search_src_text_174_1600,O,O,O
+5,AutoScout24_Buy_sell_cars,state_1694299268,textinput_filter_edittext_188_301,O,O,O
+6,Tubi_Movies,state_-1563197355,name_53_486,O,O,X
+7,Tubi_Movies,state_-1563197355,email_53_859,O,O,O
+8,Tubi_Movies,state_-1563197355,text_year_or_age_53_674,O,O,O
+9,Tubi_Movies,state_-1563197355,gender_593_674,O,O,X
+10,Tubi_Movies,state_-1563197355,password_53_1047,O,O,O
+11,Tubi_Movies,state_-73242223,search_input_box_50_214,O,O,O
+12,com.velas.mobile_wallet,state_2009846125,384035467,O,O,O
+13,com.velas.mobile_wallet,state_2009846125,718740312,O,X,X
+14,Podcast_Addict_Podcast_player_v2022.4,state_-596023753,pattern_86_306,O,O,O
+15,de.chaosdorf.meteroid,state_-597245818,hostname_44_360,O,X,X
+16,com.invoiceninja.app,state_950430309,_88_943,O,O,O
+17,com.invoiceninja.app,state_950430309,_88_1106,O,O,O
+18,com.invoiceninja.app,state_950430309,_88_1268,O,O,X
+19,com.poupa.vinylmusicplayer,state_-141330720,title1_44_272,O,O,O
+20,com.poupa.vinylmusicplayer,state_-141330720,title2_44_433,O,O,X
+21,com.poupa.vinylmusicplayer,state_-141330720,artist_44_660,O,O,X
+22,com.poupa.vinylmusicplayer,state_-141330720,genre_44_821,O,O,X
+23,com.poupa.vinylmusicplayer,state_-141330720,year_44_982,O,O,O
+24,com.poupa.vinylmusicplayer,state_-141330720,track_number_44_1143,O,O,O
+25,com.poupa.vinylmusicplayer,state_-141330720,disc_number_44_1304,O,O,O
+33,com.poupa.vinylmusicplayer,state_-979703431,lyrics_44_1465,O,O,X
+34,com.poupa.vinylmusicplayer,state_404149954,search_src_text_220_93,O,O,O
+35,org.billthefarmer.currency,state_-330216155,edit_494_242,O,O,O
+36,Podcast_Player_v7.0.0-220308033.rd0a0ae8,state_-1405221607,zk_220_93,O,O,O
+37,BBC_News_v5.23.0,state_-1912259750,search_198_179,O,O,O
+38,Brave_Private_Web_Browser_v1.39.115,state_-2130272688,url_bar_154_74,O,O,O
+39,Brave_Private_Web_Browser_v1.39.115,state_-29924823,url_bar_121_74,O,O,O
+40,Brave_Private_Web_Browser_v1.39.115,state_-29924823,985110063,O,O,O
+41,Messenger,state_-1496142319,Phone number or email_55_1442,O,O,O
+42,Messenger,state_-1496142319,Password_55_1598,O,O,O
+43,deep.ryd.rydplayer,state_-762092943,_155_1041,O,O,O
+44,Plex_Stream_Movies_TV,state_2009846125,2049720230,O,O,X
+45,im.status.ethereum,state_508861723,password-input_88_597,O,O,O
+46,im.status.ethereum,state_508861723,password-input_88_806,O,O,O
+47,BOTIM_Video_and_Voice_Call_v2.7.9,state_-315433776,search_box_22_242,O,O,O
+48,nl.asymmetrics.droidshows,state_-924464529,search_src_text_183_81,O,O,O
+49,nl.asymmetrics.droidshows,state_-52577856,search_text_0_220,O,O,O
+50,org.y20k.escapepod,state_966430078,search_src_text_248_1053,O,O,X
+51,OK_Social_Network_v22.6.1,state_-1550987636,text_login_66_448,O,O,O
+52,OK_Social_Network_v22.6.1,state_-1550987636,password_text_66_607,O,O,O
+55,Hulu,state_638690253,email_66_653,O,O,O
+56,Hulu,state_638690253,password_66_875,O,O,O
+57,org.totschnig.myexpenses,state_-1243134374,Payee_327_641,O,O,O
+58,org.totschnig.myexpenses,state_-1243134374,AmountEditText_459_361,O,O,O
+59,org.totschnig.myexpenses,state_-1243134374,Comment_327_1055,O,O,X
+60,org.totschnig.myexpenses,state_-1635201685,tag_edit_44_220,O,O,O
+61,org.totschnig.myexpenses,state_1111865268,Payee_327_641,O,O,X
+64,org.totschnig.myexpenses,state_-14726600,Label_327_227,O,O,X
+65,org.totschnig.myexpenses,state_-14726600,Description_327_365,O,O,X
+66,org.totschnig.myexpenses,state_-14726600,AmountEditText_459_499,O,O,O
+67,org.totschnig.myexpenses,state_-14726600,AmountEditText_459_1327,O,O,O
+68,Issuu_magazines_news_books_v5.67.0,state_-514105064,search_src_text_154_92,O,O,O
+69,Firefox_Fast_Private_Browser_v101.1.1,state_1018090987,mozac_browser_toolbar_edit_url_view_154_1331,O,O,O
+70,co.appreactor.news,state_-1160844204,serverUrl_44_301,O,O,O
+71,co.appreactor.news,state_-1160844204,username_44_654,O,O,O
+72,co.appreactor.news,state_-1160844204,password_44_877,O,O,O
+73,Opera_Mini_fast_web_browser_v63.0.2254.61942,state_70984969,url_field_140_231,O,O,O
+74,HERE_WeGo_Maps_Navigation_v4.4.200,state_156770900,_44_176,O,O,O
+75,Waze_Navigation_Live_Traffic_v4.84.0.2,state_-1669109699,sideMenuSearchBox_33_621,O,O,X
+76,Instagram,state_1954100112,confirmation_field_77_508,O,O,O
+77,Instagram,state_215427127,full_name_77_391,O,O,X
+78,Instagram,state_215427127,password_77_567,O,O,O
+79,Instagram,state_1381772643,search_122_278,O,O,O
+80,Instagram,state_973891293,full_name_77_391,O,O,O
+81,Instagram,state_973891293,password_77_567,O,O,O
+82,Instagram,state_178737488,email_field_77_747,O,O,O
+83,Instagram,state_-628214519,phone_field_293_744,O,O,X
+84,me.hackerchick.catima,state_-236981483,storeNameEdit_199_417,O,O,X
+85,me.hackerchick.catima,state_-236981483,cardIdView_28_613,O,O,O
+86,me.hackerchick.catima,state_530085251,cardId_285_408,O,O,O
+87,me.hackerchick.catima,state_-1021118874,search_src_text_176_103,X,O,X
+88,WhatsApp,state_1298032692,registration_phone_400_480,O,O,X
+89,WhatsApp,state_1298032692,registration_cc_182_480,O,O,X
+90,WhatsApp,state_-1824722619,verify_sms_code_input_320_392,O,O,X
+91,WhatsApp,state_-960371024,registration_phone_400_480,X,X,X
+92,WhatsApp,state_-960371024,registration_cc_182_480,O,O,X
+93,Settings,state_2022-11-02_095831401950,search_src_text_137_106,O,X,X
+94,Galaxy Store,state_2022-11-01_183635589137,coupon_edit_89_1912,O,X,O
+95,Galaxy Store,state_2022-11-01_184121181885,search_src_text_153_118,O,O,O
+96,Galaxy Store,state_2022-11-01_184025384712,name_86_725,O,O,X
+97,Galaxy Store,state_2022-11-01_184025384712,phoneNumber_86_1846,O,O,X
+98,SmartThings,state_2022-11-01_175008826290,inviteAccountText_63_463,O,O,O
+99,SmartThings,state_2022-11-01_175242663868,search_src_text_137_178,O,O,O
+100,SmartThings,state_2022-11-01_183300373138,edit_text_name_47_303,O,O,O
+101,Messages,state_2022-11-01_172019083263,recipients_editor_to_58_262,O,X,O
+102,Messages,state_2022-11-01_172019083263,message_edit_text_440_2154,O,O,O
+103,Messages,state_2022-11-01_125025142665,search_src_text_138_106,O,O,X
+104,Calendar,state_2022-11-01_172842215734,title_63_238,O,O,X
+105,Calendar,state_2022-11-01_172842215734,location_167_907,O,O,O
+106,Calendar,state_2022-11-01_172842215734,note_text_167_1473,O,O,X
+107,Gallery,state_2022-11-01_172316447819,search_src_text_137_106,O,O,X
+108,Contacts,state_2022-11-01_173529930391,forCursorEdit_158_557,O,O,O
+109,Contacts,state_2022-11-01_173529930391,forCursorEdit_158_819,O,O,X
+110,Contacts,state_2022-11-01_173529930391,forCursorEdit_158_1408,O,O,O
+111,Contacts,state_2022-11-01_173529930391,forCursorEdit_158_1560,O,O,O
+112,Contacts,state_2022-11-01_173529930391,forCursorEdit_158_1807,O,O,O
+113,Contacts,state_2022-11-01_173529930391,nameEdit_144_701,O,O,O
+114,Contacts,state_2022-11-01_173529930391,editOrganizationTitle_144_963,O,O,X
+115,Contacts,state_2022-11-01_173529930391,editOrganizationDepartment_144_1079,O,O,O
+116,Contacts,state_2022-11-01_173529930391,editOrganizationCompany_144_1195,O,O,O
+117,Contacts,state_2022-11-01_173146572934,search_src_text_137_106,O,X,X
+118,Samsung Members,state_2022-11-02_101955202341,inputEditText_47_618,O,X,O
+119,Samsung Members,state_2022-11-02_101955202341,inputEditText_47_825,O,X,X
+120,Samsung Members,state_2022-11-02_101839943819,nickname_63_1622,O,O,O
+121,My Files,state_2022-11-02_100330860289,search_src_text_137_106,O,O,X
+122,My Files,state_2022-11-02_100555195131,search_src_text_137_106,O,O,O
+123,Samsung Internet,state_2022-11-01_184749322308,location_bar_edit_text_205_106,O,O,O
+124,Clock,state_2022-11-01_184255456720,numberpicker_input_144_408,O,O,O
+125,Clock,state_2022-11-01_184255456720,numberpicker_input_612_408,O,O,O
+126,Clock,state_2022-11-01_184255456720,alarm_name_47_1388,O,O,X
+127,Clock,state_2022-11-01_184421020236,worldclock_search_map_txt_find_158_140,O,O,O
+128,Clock,state_2022-11-01_184455299444,hour_48_1787,O,O,X
+129,Clock,state_2022-11-01_184455299444,minute_201_1787,O,O,X
+130,Clock,state_2022-11-01_184455299444,second_354_1787,O,O,X
+131,Clock,state_2022-11-01_184455299444,preset_name_48_1944,O,O,X
+,,,,118,111,78

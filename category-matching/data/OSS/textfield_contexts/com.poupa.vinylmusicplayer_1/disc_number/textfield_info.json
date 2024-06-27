@@ -1,0 +1,20 @@
+{
+  "index": "0",
+  "package": "com.poupa.vinylmusicplayer",
+  "class": "android.widget.EditText",
+  "text": "1",
+  "resource-id": "com.poupa.vinylmusicplayer:id/disc_number",
+  "checkable": "false",
+  "checked": "false",
+  "clickable": "true",
+  "enabled": "true",
+  "focusable": "true",
+  "focused": "false",
+  "long-clickable": "true",
+  "password": "false",
+  "scrollable": "false",
+  "selected": "false",
+  "bounds": "[44,1304][1036,1435]",
+  "displayed": "true",
+  "sent_text": "1"
+}

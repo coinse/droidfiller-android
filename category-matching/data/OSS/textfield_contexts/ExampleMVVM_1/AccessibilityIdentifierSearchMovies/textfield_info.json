@@ -1,0 +1,14 @@
+{
+  "type": "XCUIElementTypeSearchField",
+  "name": "AccessibilityIdentifierSearchMovies",
+  "label": "Search Movies",
+  "enabled": "true",
+  "visible": "true",
+  "accessible": "true",
+  "x": "8",
+  "y": "101",
+  "width": "374",
+  "height": "36",
+  "index": "0",
+  "sent_text": "Arrival"
+}

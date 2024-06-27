@@ -1,0 +1,27 @@
+{
+  "previous_actions": [
+    [
+      {
+        "index": "0",
+        "package": "com.issuu.android.app",
+        "class": "android.widget.TextView",
+        "text": "Search",
+        "resource-id": "com.issuu.android.app:id/navigation_bar_item_small_label_view",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "false",
+        "enabled": "true",
+        "focusable": "false",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[353,2173][455,2217]",
+        "displayed": "true"
+      },
+      "1673068687"
+    ]
+  ],
+  "current_screen": "-514105064"
+}

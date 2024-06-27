@@ -1,0 +1,20 @@
+{
+  "index": "0",
+  "package": "com.poupa.vinylmusicplayer",
+  "class": "android.widget.EditText",
+  "text": "Lofi Study",
+  "resource-id": "com.poupa.vinylmusicplayer:id/title1",
+  "checkable": "false",
+  "checked": "false",
+  "clickable": "true",
+  "enabled": "true",
+  "focusable": "true",
+  "focused": "true",
+  "long-clickable": "true",
+  "password": "false",
+  "scrollable": "false",
+  "selected": "false",
+  "bounds": "[44,272][1036,403]",
+  "displayed": "true",
+  "sent_text": "Lofi Study"
+}

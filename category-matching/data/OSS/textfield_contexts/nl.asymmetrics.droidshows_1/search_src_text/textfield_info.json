@@ -1,0 +1,20 @@
+{
+  "index": "0",
+  "package": "nl.asymmetrics.droidshows",
+  "class": "android.widget.AutoCompleteTextView",
+  "text": "   Show to add\u2026",
+  "resource-id": "android:id/search_src_text",
+  "checkable": "false",
+  "checked": "false",
+  "clickable": "true",
+  "enabled": "true",
+  "focusable": "true",
+  "focused": "true",
+  "long-clickable": "true",
+  "password": "false",
+  "scrollable": "false",
+  "selected": "false",
+  "bounds": "[183,81][1058,180]",
+  "displayed": "true",
+  "sent_text": "Friends\\n"
+}

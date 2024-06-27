@@ -1,0 +1,51 @@
+{
+  "previous_actions": [
+    [
+      {
+        "index": "2",
+        "package": "com.bambuna.podcastaddict",
+        "class": "android.widget.TextView",
+        "text": "",
+        "content-desc": "Add new Podcast",
+        "resource-id": "com.bambuna.podcastaddict:id/registration",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[837,77][969,209]",
+        "displayed": "true"
+      },
+      "-420597121"
+    ],
+    [
+      {
+        "index": "0",
+        "package": "com.bambuna.podcastaddict",
+        "class": "android.widget.TextView",
+        "text": "",
+        "content-desc": "Search",
+        "resource-id": "com.bambuna.podcastaddict:id/search",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[573,77][705,209]",
+        "displayed": "true"
+      },
+      "1408235446"
+    ]
+  ],
+  "current_screen": "-596023753"
+}

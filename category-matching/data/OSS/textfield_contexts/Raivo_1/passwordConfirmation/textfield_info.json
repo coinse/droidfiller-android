@@ -1,0 +1,15 @@
+{
+  "type": "XCUIElementTypeSecureTextField",
+  "value": "hC^FA7gW}TnW5MXB",
+  "name": "passwordConfirmation",
+  "label": "",
+  "enabled": "true",
+  "visible": "true",
+  "accessible": "true",
+  "x": "8",
+  "y": "288",
+  "width": "374",
+  "height": "46",
+  "index": "2",
+  "sent_text": "abcd1234"
+}

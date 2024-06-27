@@ -1,0 +1,20 @@
+{
+  "index": "1",
+  "package": "com.tubitv",
+  "class": "android.widget.EditText",
+  "text": "Find movies, TV shows & more",
+  "resource-id": "com.tubitv:id/search_input_box",
+  "checkable": "false",
+  "checked": "false",
+  "clickable": "true",
+  "enabled": "true",
+  "focusable": "true",
+  "focused": "true",
+  "long-clickable": "true",
+  "password": "false",
+  "scrollable": "false",
+  "selected": "false",
+  "bounds": "[50,214][1030,304]",
+  "displayed": "true",
+  "sent_text": "Drama"
+}

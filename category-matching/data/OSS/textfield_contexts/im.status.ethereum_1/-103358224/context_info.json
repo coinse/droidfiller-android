@@ -1,0 +1,134 @@
+{
+  "previous_actions": [
+    [
+      {
+        "index": "4",
+        "package": "im.status.ethereum",
+        "class": "android.widget.CheckBox",
+        "text": "",
+        "content-desc": "checkbox-off",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[211,1832][261,1881]",
+        "displayed": "true"
+      },
+      "-218634966"
+    ],
+    [
+      {
+        "index": "1",
+        "package": "im.status.ethereum",
+        "class": "android.view.ViewGroup",
+        "text": "",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "false",
+        "enabled": "true",
+        "focusable": "false",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[337,1953][744,2074]",
+        "displayed": "true"
+      },
+      "-1347343466"
+    ],
+    [
+      {
+        "index": "1",
+        "package": "im.status.ethereum",
+        "class": "android.view.ViewGroup",
+        "text": "",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "false",
+        "enabled": "true",
+        "focusable": "false",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[307,1744][774,1865]",
+        "displayed": "true"
+      },
+      "199374951"
+    ],
+    [
+      {
+        "index": "1",
+        "package": "im.status.ethereum",
+        "class": "android.view.ViewGroup",
+        "text": "",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "false",
+        "enabled": "true",
+        "focusable": "false",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[853,2102][1058,2223]",
+        "displayed": "true"
+      },
+      "-1647467669"
+    ],
+    [
+      {
+        "index": "1",
+        "package": "im.status.ethereum",
+        "class": "android.view.ViewGroup",
+        "text": "",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "false",
+        "enabled": "true",
+        "focusable": "false",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[853,2102][1058,2223]",
+        "displayed": "true"
+      },
+      "-1901824405"
+    ],
+    [
+      {
+        "index": "0",
+        "package": "im.status.ethereum",
+        "class": "android.widget.EditText",
+        "text": "Password...",
+        "content-desc": "password-input",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "true",
+        "long-clickable": "true",
+        "password": "true",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[88,983][838,1104]",
+        "displayed": "true",
+        "sent_text": "eyedrop$4forsale"
+      },
+      "508861723"
+    ]
+  ],
+  "current_screen": "508861723"
+}

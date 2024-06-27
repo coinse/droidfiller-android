@@ -1,0 +1,72 @@
+{
+  "previous_actions": [
+    [
+      {
+        "index": "1",
+        "package": "com.podcast.podcasts",
+        "class": "android.widget.TextView",
+        "text": "Continue",
+        "resource-id": "com.podcast.podcasts:id/dh",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[77,1972][1003,2104]",
+        "displayed": "true"
+      },
+      "-622907992"
+    ],
+    [
+      {
+        "index": "3",
+        "package": "com.podcast.podcasts",
+        "class": "android.widget.TextView",
+        "text": "Not now",
+        "resource-id": "com.podcast.podcasts:id/vb",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[187,1869][893,1928]",
+        "displayed": "true"
+      },
+      "-1937036241"
+    ],
+    [
+      {
+        "index": "0",
+        "package": "com.podcast.podcasts",
+        "class": "android.widget.TextView",
+        "text": "",
+        "content-desc": "Search",
+        "resource-id": "com.podcast.podcasts:id/b_",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[837,77][969,209]",
+        "displayed": "true"
+      },
+      "-1181234338"
+    ]
+  ],
+  "current_screen": "-1405221607"
+}

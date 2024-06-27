@@ -1,0 +1,72 @@
+{
+  "previous_actions": [
+    [
+      {
+        "index": "1",
+        "package": "bbc.mobile.news.ww",
+        "class": "android.widget.Button",
+        "text": "OK",
+        "resource-id": "android:id/button1",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[700,1321][975,1453]",
+        "displayed": "true"
+      },
+      "-1383403505"
+    ],
+    [
+      {
+        "index": "0",
+        "package": "bbc.mobile.news.ww",
+        "class": "android.widget.Button",
+        "text": "NO, THANKS.",
+        "resource-id": "android:id/button2",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[494,1348][799,1497]",
+        "displayed": "true"
+      },
+      "-845996037"
+    ],
+    [
+      {
+        "index": "0",
+        "package": "bbc.mobile.news.ww",
+        "class": "android.widget.TextView",
+        "text": "",
+        "content-desc": "Search",
+        "resource-id": "bbc.mobile.news.ww:id/action_search",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[815,147][947,279]",
+        "displayed": "true"
+      },
+      "-424270119"
+    ]
+  ],
+  "current_screen": "-1912259750"
+}

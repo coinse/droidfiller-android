@@ -1,0 +1,226 @@
+{
+  "previous_actions": [
+    [
+      {
+        "index": "4",
+        "package": "com.brave.browser",
+        "class": "android.widget.Button",
+        "text": "Continue",
+        "resource-id": "com.brave.browser:id/btn_continue",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[66,1634][1014,1766]",
+        "displayed": "true"
+      },
+      "963797014"
+    ],
+    [
+      {
+        "index": "4",
+        "package": "com.brave.browser",
+        "class": "android.widget.Button",
+        "text": "NOT NOW",
+        "resource-id": "com.brave.browser:id/btn_not_now",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[419,1914][661,2046]",
+        "displayed": "true"
+      },
+      "-1005738316"
+    ],
+    [
+      {
+        "index": "4",
+        "package": "com.brave.browser",
+        "class": "android.widget.Button",
+        "text": "Turn on privacy reports",
+        "resource-id": "com.brave.browser:id/btn_turn_on_privacy_stats",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[110,1865][970,1997]",
+        "displayed": "true"
+      },
+      "424258481"
+    ],
+    [
+      {
+        "index": "4",
+        "package": "com.brave.browser",
+        "class": "android.widget.Button",
+        "text": "Next",
+        "resource-id": "com.brave.browser:id/btn_turn_on_privacy_stats",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[110,1891][970,2023]",
+        "displayed": "true"
+      },
+      "424258481"
+    ],
+    [
+      {
+        "index": "4",
+        "package": "com.brave.browser",
+        "class": "android.widget.Button",
+        "text": "Next",
+        "resource-id": "com.brave.browser:id/btn_turn_on_privacy_stats",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[110,1865][970,1997]",
+        "displayed": "true"
+      },
+      "424258481"
+    ],
+    [
+      {
+        "index": "1",
+        "package": "com.brave.browser",
+        "class": "android.widget.ImageView",
+        "text": "",
+        "resource-id": "com.brave.browser:id/brave_stats_bottom_sheet_close",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[926,673][1080,827]",
+        "displayed": "true"
+      },
+      "-1823076156"
+    ],
+    [
+      {
+        "index": "1",
+        "package": "com.brave.browser",
+        "class": "android.widget.EditText",
+        "text": "Search or type web address",
+        "resource-id": "com.brave.browser:id/url_bar",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "true",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[55,74][904,212]",
+        "displayed": "true",
+        "sent_text": "www.google.com"
+      },
+      "1460012522"
+    ],
+    [
+      {
+        "index": "1",
+        "package": "com.brave.browser",
+        "class": "android.widget.EditText",
+        "text": "Search or type web address",
+        "resource-id": "com.brave.browser:id/url_bar",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "true",
+        "long-clickable": "true",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[154,74][926,212]",
+        "displayed": "true",
+        "sent_text": "www.google.com"
+      },
+      "-2130272688"
+    ],
+    [
+      {
+        "index": "0",
+        "package": "com.brave.browser",
+        "class": "android.widget.TextView",
+        "text": "www.google.com",
+        "resource-id": "com.brave.browser:id/line_1",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "false",
+        "enabled": "true",
+        "focusable": "false",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[154,242][1069,301]",
+        "displayed": "true"
+      },
+      "1945414410"
+    ],
+    [
+      {
+        "index": "0",
+        "package": "com.brave.browser",
+        "class": "android.view.View",
+        "text": "",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "false",
+        "enabled": "true",
+        "focusable": "false",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[0,66][1080,2236]",
+        "displayed": "true"
+      },
+      "456043796"
+    ]
+  ],
+  "current_screen": "-29924823"
+}

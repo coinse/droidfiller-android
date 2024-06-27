@@ -1,0 +1,290 @@
+{
+  "data/textfield_contexts/nl.asymmetrics.droidshows_1/search_src_text": [
+    "search",
+    "tv_show"
+  ],
+  "data/textfield_contexts/nl.asymmetrics.droidshows_1/search_text": [
+    "search",
+    "tv_show"
+  ],
+  "data/textfield_contexts/Instagram_1/email_field": [
+    "profile",
+    "email"
+  ],
+  "data/textfield_contexts/AutoScout24_Buy_sell_cars_v9.8/textinput_filter_edittext": [
+    "search",
+    "car_model, internal"
+  ],
+  "data/textfield_contexts/Petal_Maps\u2013GPS_Navigation_v2.5.0.303(002)_1/search_src_text": [
+    "search, location",
+    "location"
+  ],
+  "data/textfield_contexts/org.totschnig.myexpenses_1/Label": [
+    "any",
+    "label"
+  ],
+  "data/textfield_contexts/org.totschnig.myexpenses_1/Payee": [
+    "any",
+    "payee"
+  ],
+  "data/textfield_contexts/org.totschnig.myexpenses_1/AmountEditText": [
+    "amount",
+    "account_balance"
+  ],
+  "data/textfield_contexts/org.totschnig.myexpenses_1/Comment": [
+    "any",
+    "notes"
+  ],
+  "data/textfield_contexts/org.totschnig.myexpenses_1/tag_edit": [
+    "any",
+    "tag"
+  ],
+  "data/textfield_contexts/Ratios_1/2113677831": [
+    "ratio",
+    "ratio"
+  ],
+  "data/textfield_contexts/Ratios_1/157233290": [
+    "amount",
+    "grams"
+  ],
+  "data/textfield_contexts/org.koitharu.kotatsu_1/searchView": [
+    "search",
+    "manga"
+  ],
+  "data/textfield_contexts/BookStore_1/Search": [
+    "search",
+    "book"
+  ],
+  "data/textfield_contexts/BBC_News_v5.23.0_1/search": [
+    "search",
+    "news"
+  ],
+  "data/textfield_contexts/com.velas.mobile_wallet_1/735730464": [
+    "profile",
+    "password"
+  ],
+  "data/textfield_contexts/org.y20k.escapepod_1/search_src_text": [
+    "search",
+    "podcast"
+  ],
+  "data/textfield_contexts/de.kromke.andreas.opus1musicplayer_1/search_src_text": [
+    "search",
+    "music, internal"
+  ],
+  "data/textfield_contexts/Messenger_1/-1478030010": [
+    "profile",
+    "password"
+  ],
+  "data/textfield_contexts/Messenger_1/131573223": [
+    "profile",
+    "email, phone"
+  ],
+  "data/textfield_contexts/de.chaosdorf.meteroid_1/-1344947040": [
+    "profile",
+    "url"
+  ],
+  "data/textfield_contexts/Raivo_1/passwordInitial": [
+    "profile",
+    "password"
+  ],
+  "data/textfield_contexts/Raivo_1/passwordConfirmation": [
+    "profile",
+    "password"
+  ],
+  "data/textfield_contexts/im.status.ethereum_1/-103358224": [
+    "profile",
+    "password"
+  ],
+  "data/textfield_contexts/im.status.ethereum_1/-400961918": [
+    "profile",
+    "password"
+  ],
+  "data/textfield_contexts/com.poupa.vinylmusicplayer_1/disc_number": [
+    "enum",
+    "enum"
+  ],
+  "data/textfield_contexts/com.poupa.vinylmusicplayer_1/search_src_text": [
+    "search",
+    "music, internal"
+  ],
+  "data/textfield_contexts/com.poupa.vinylmusicplayer_1/artist": [
+    "any",
+    "artist"
+  ],
+  "data/textfield_contexts/com.poupa.vinylmusicplayer_1/title1": [
+    "any",
+    "song"
+  ],
+  "data/textfield_contexts/com.poupa.vinylmusicplayer_1/track_number": [
+    "enum",
+    "enum"
+  ],
+  "data/textfield_contexts/com.poupa.vinylmusicplayer_1/genre": [
+    "any",
+    "music_genre"
+  ],
+  "data/textfield_contexts/com.poupa.vinylmusicplayer_1/year": [
+    "datetime",
+    "year"
+  ],
+  "data/textfield_contexts/org.billthefarmer.currency_1/edit": [
+    "ratio",
+    "currency"
+  ],
+  "data/textfield_contexts/Hulu_1/password": [
+    "profile",
+    "password"
+  ],
+  "data/textfield_contexts/Hulu_1/email": [
+    "profile",
+    "email"
+  ],
+  "data/textfield_contexts/Plex_Stream_Movies_TV_1/-1469543694": [
+    "search",
+    "movie, tv_show"
+  ],
+  "data/textfield_contexts/me.hackerchick.catima_1/storeNameEdit": [
+    "any",
+    "store_name"
+  ],
+  "data/textfield_contexts/me.hackerchick.catima_1/cardId": [
+    "card_id",
+    "card_id"
+  ],
+  "data/textfield_contexts/me.hackerchick.catima_1/search_src_text": [
+    "search",
+    "card_info, internal"
+  ],
+  "data/textfield_contexts/HERE_WeGo_Maps_Navigation_v4.4.200_5/-1630317872": [
+    "search, location",
+    "location"
+  ],
+  "data/textfield_contexts/deep.ryd.rydplayer_1/617068565": [
+    "profile",
+    "url"
+  ],
+  "data/textfield_contexts/ExampleMVVM_1/AccessibilityIdentifierSearchMovies": [
+    "search",
+    "movie"
+  ],
+  "data/textfield_contexts/Waze_Navigation_Live_Traffic_v4.84.0.2_1/searchBox": [
+    "search, location",
+    "location"
+  ],
+  "data/textfield_contexts/Podcast_Addict_Podcast_player_v2022.4_1/pattern": [
+    "search",
+    "podcast"
+  ],
+  "data/textfield_contexts/OK_Social_Network_v22.6.1_1/password_text": [
+    "profile",
+    "password"
+  ],
+  "data/textfield_contexts/OK_Social_Network_v22.6.1_1/text_login": [
+    "profile",
+    "phone, email"
+  ],
+  "data/textfield_contexts/WhatsApp_1/verify_sms_code_input": [
+    "auth_code",
+    "sms_code"
+  ],
+  "data/textfield_contexts/WhatsApp_1/registration_cc": [
+    "profile",
+    "country_code"
+  ],
+  "data/textfield_contexts/WhatsApp_1/registration_phone": [
+    "profile",
+    "phone"
+  ],
+  "data/textfield_contexts/com.invoiceninja.app_1/1230535790": [
+    "profile",
+    "email"
+  ],
+  "data/textfield_contexts/com.invoiceninja.app_1/1271870479": [
+    "profile",
+    "password"
+  ],
+  "data/textfield_contexts/Brave_Private_Web_Browser_v1.39.115_1/url_bar": [
+    "search",
+    "web"
+  ],
+  "data/textfield_contexts/Brave_Private_Web_Browser_v1.39.115_1/-1629784746": [
+    "search",
+    "web"
+  ],
+  "data/textfield_contexts/Instagram_3/phone_field": [
+    "profile",
+    "phone"
+  ],
+  "data/textfield_contexts/Instagram_3/search": [
+    "profile",
+    "country, country_code"
+  ],
+  "data/textfield_contexts/Instagram_3/confirmation_field": [
+    "auth_code",
+    "sms_code"
+  ],
+  "data/textfield_contexts/Instagram_3/password": [
+    "profile",
+    "password"
+  ],
+  "data/textfield_contexts/Instagram_3/full_name": [
+    "profile",
+    "name"
+  ],
+  "data/textfield_contexts/Issuu_magazines_news_books_v5.67.0_1/search_src_text": [
+    "search",
+    "megazine, news, book"
+  ],
+  "data/textfield_contexts/Opera_Mini_fast_web_browser_v63.0.2254.61942_1/url_field": [
+    "search",
+    "web"
+  ],
+  "data/textfield_contexts/BOTIM_Video_and_Voice_Call_v2.7.9_1/search_box": [
+    "search",
+    "country, location"
+  ],
+  "data/textfield_contexts/Tubi_Movies_1/name": [
+    "profile",
+    "name"
+  ],
+  "data/textfield_contexts/Tubi_Movies_1/text_year_or_age": [
+    "profile",
+    "age"
+  ],
+  "data/textfield_contexts/Tubi_Movies_1/password": [
+    "profile",
+    "password"
+  ],
+  "data/textfield_contexts/Tubi_Movies_1/email": [
+    "profile",
+    "email"
+  ],
+  "data/textfield_contexts/Tubi_Movies_1/search_input_box": [
+    "search",
+    "movie, tv_show"
+  ],
+  "data/textfield_contexts/AOL_News_Mail_Video_v6.47.2_1/search_edit_text": [
+    "search",
+    "news, video, internal"
+  ],
+  "data/textfield_contexts/Podcast_Player_v7.0.0-220308033.rd0a0ae8_1/zk": [
+    "search",
+    "podcast"
+  ],
+  "data/textfield_contexts/co.appreactor.news_1/username": [
+    "profile",
+    "username"
+  ],
+  "data/textfield_contexts/co.appreactor.news_1/serverUrl": [
+    "profile",
+    "url"
+  ],
+  "data/textfield_contexts/co.appreactor.news_1/password": [
+    "profile",
+    "password"
+  ],
+  "data/textfield_contexts/Firefox_Fast_Private_Browser_v101.1.1_1/mozac_browser_toolbar_edit_url_view": [
+    "search",
+    "web"
+  ]
+}

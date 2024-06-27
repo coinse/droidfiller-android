@@ -1,0 +1,20 @@
+{
+  "index": "0",
+  "package": "deep.ryd.rydplayer",
+  "class": "android.widget.EditText",
+  "text": "Youtube Playlist URL",
+  "resource-id": "",
+  "checkable": "false",
+  "checked": "false",
+  "clickable": "true",
+  "enabled": "true",
+  "focusable": "true",
+  "focused": "false",
+  "long-clickable": "false",
+  "password": "false",
+  "scrollable": "false",
+  "selected": "false",
+  "bounds": "[155,1041][925,1203]",
+  "displayed": "true",
+  "sent_text": "https://youtube.com/playlist?list=PLoIcW4SY1awPlYZkE3qacewGEtfhDLrLt"
+}

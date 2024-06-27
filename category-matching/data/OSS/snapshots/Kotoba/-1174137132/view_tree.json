@@ -1,0 +1,443 @@
+{
+  "AppiumAUT": {
+    "XCUIElementTypeApplication": {
+      "@type": "XCUIElementTypeApplication",
+      "@name": "Kotoba",
+      "@label": "Kotoba",
+      "@enabled": "true",
+      "@visible": "true",
+      "@accessible": "false",
+      "@x": "0",
+      "@y": "0",
+      "@width": "390",
+      "@height": "844",
+      "@index": "0",
+      "XCUIElementTypeWindow": [
+        {
+          "@type": "XCUIElementTypeWindow",
+          "@enabled": "true",
+          "@visible": "true",
+          "@accessible": "false",
+          "@x": "0",
+          "@y": "0",
+          "@width": "390",
+          "@height": "844",
+          "@index": "0",
+          "XCUIElementTypeOther": [
+            {
+              "@type": "XCUIElementTypeOther",
+              "@enabled": "true",
+              "@visible": "false",
+              "@accessible": "false",
+              "@x": "0",
+              "@y": "0",
+              "@width": "390",
+              "@height": "844",
+              "@index": "0",
+              "XCUIElementTypeOther": {
+                "@type": "XCUIElementTypeOther",
+                "@enabled": "true",
+                "@visible": "false",
+                "@accessible": "false",
+                "@x": "16",
+                "@y": "47",
+                "@width": "358",
+                "@height": "775",
+                "@index": "0",
+                "XCUIElementTypeOther": [
+                  {
+                    "@type": "XCUIElementTypeOther",
+                    "@enabled": "true",
+                    "@visible": "false",
+                    "@accessible": "false",
+                    "@x": "-342",
+                    "@y": "-728",
+                    "@width": "1074",
+                    "@height": "2325",
+                    "@index": "0"
+                  },
+                  {
+                    "@type": "XCUIElementTypeOther",
+                    "@enabled": "true",
+                    "@visible": "false",
+                    "@accessible": "false",
+                    "@x": "16",
+                    "@y": "47",
+                    "@width": "358",
+                    "@height": "775",
+                    "@index": "1",
+                    "XCUIElementTypeNavigationBar": {
+                      "@type": "XCUIElementTypeNavigationBar",
+                      "@name": "Kotoba",
+                      "@enabled": "true",
+                      "@visible": "false",
+                      "@accessible": "false",
+                      "@x": "16",
+                      "@y": "90",
+                      "@width": "358",
+                      "@height": "41",
+                      "@index": "0",
+                      "XCUIElementTypeButton": [
+                        {
+                          "@type": "XCUIElementTypeButton",
+                          "@name": "Settings",
+                          "@label": "Settings",
+                          "@enabled": "true",
+                          "@visible": "false",
+                          "@accessible": "true",
+                          "@x": "23",
+                          "@y": "90",
+                          "@width": "44",
+                          "@height": "41",
+                          "@index": "0"
+                        },
+                        {
+                          "@type": "XCUIElementTypeButton",
+                          "@name": "History",
+                          "@label": "History",
+                          "@enabled": "true",
+                          "@visible": "false",
+                          "@accessible": "true",
+                          "@x": "322",
+                          "@y": "90",
+                          "@width": "45",
+                          "@height": "41",
+                          "@index": "2"
+                        }
+                      ],
+                      "XCUIElementTypeStaticText": {
+                        "@type": "XCUIElementTypeStaticText",
+                        "@value": "Kotoba",
+                        "@name": "Kotoba",
+                        "@label": "Kotoba",
+                        "@enabled": "true",
+                        "@visible": "false",
+                        "@accessible": "true",
+                        "@x": "160",
+                        "@y": "97",
+                        "@width": "70",
+                        "@height": "25",
+                        "@index": "1"
+                      }
+                    },
+                    "XCUIElementTypeOther": {
+                      "@type": "XCUIElementTypeOther",
+                      "@enabled": "true",
+                      "@visible": "false",
+                      "@accessible": "false",
+                      "@x": "16",
+                      "@y": "47",
+                      "@width": "358",
+                      "@height": "775",
+                      "@index": "1",
+                      "XCUIElementTypeOther": {
+                        "@type": "XCUIElementTypeOther",
+                        "@enabled": "true",
+                        "@visible": "false",
+                        "@accessible": "false",
+                        "@x": "16",
+                        "@y": "47",
+                        "@width": "358",
+                        "@height": "775",
+                        "@index": "0",
+                        "XCUIElementTypeOther": {
+                          "@type": "XCUIElementTypeOther",
+                          "@enabled": "true",
+                          "@visible": "false",
+                          "@accessible": "false",
+                          "@x": "16",
+                          "@y": "47",
+                          "@width": "358",
+                          "@height": "775",
+                          "@index": "0",
+                          "XCUIElementTypeOther": [
+                            {
+                              "@type": "XCUIElementTypeOther",
+                              "@enabled": "true",
+                              "@visible": "false",
+                              "@accessible": "false",
+                              "@x": "16",
+                              "@y": "130",
+                              "@width": "358",
+                              "@height": "652",
+                              "@index": "0",
+                              "XCUIElementTypeTextField": {
+                                "@type": "XCUIElementTypeTextField",
+                                "@value": "Type a Word",
+                                "@label": "",
+                                "@enabled": "true",
+                                "@visible": "false",
+                                "@accessible": "true",
+                                "@x": "23",
+                                "@y": "432",
+                                "@width": "344",
+                                "@height": "48",
+                                "@index": "0"
+                              }
+                            },
+                            {
+                              "@type": "XCUIElementTypeOther",
+                              "@enabled": "true",
+                              "@visible": "false",
+                              "@accessible": "false",
+                              "@x": "16",
+                              "@y": "781",
+                              "@width": "358",
+                              "@height": "41",
+                              "@index": "1",
+                              "XCUIElementTypeOther": {
+                                "@type": "XCUIElementTypeOther",
+                                "@enabled": "true",
+                                "@visible": "false",
+                                "@accessible": "false",
+                                "@x": "16",
+                                "@y": "781",
+                                "@width": "358",
+                                "@height": "41",
+                                "@index": "0",
+                                "XCUIElementTypeButton": {
+                                  "@type": "XCUIElementTypeButton",
+                                  "@name": "go down",
+                                  "@label": "go down",
+                                  "@enabled": "false",
+                                  "@visible": "false",
+                                  "@accessible": "true",
+                                  "@x": "328",
+                                  "@y": "783",
+                                  "@width": "37",
+                                  "@height": "37",
+                                  "@index": "0"
+                                },
+                                "XCUIElementTypeStaticText": {
+                                  "@type": "XCUIElementTypeStaticText",
+                                  "@value": "Clipboard Suggestions",
+                                  "@name": "Clipboard Suggestions",
+                                  "@label": "Clipboard Suggestions",
+                                  "@enabled": "true",
+                                  "@visible": "false",
+                                  "@accessible": "true",
+                                  "@x": "34",
+                                  "@y": "792",
+                                  "@width": "159",
+                                  "@height": "20",
+                                  "@index": "1"
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "@type": "XCUIElementTypeOther",
+              "@enabled": "true",
+              "@visible": "true",
+              "@accessible": "false",
+              "@x": "0",
+              "@y": "0",
+              "@width": "390",
+              "@height": "844",
+              "@index": "1",
+              "XCUIElementTypeOther": [
+                {
+                  "@type": "XCUIElementTypeOther",
+                  "@enabled": "true",
+                  "@visible": "false",
+                  "@accessible": "false",
+                  "@x": "-390",
+                  "@y": "-844",
+                  "@width": "1170",
+                  "@height": "2532",
+                  "@index": "0"
+                },
+                {
+                  "@type": "XCUIElementTypeOther",
+                  "@enabled": "true",
+                  "@visible": "true",
+                  "@accessible": "false",
+                  "@x": "0",
+                  "@y": "57",
+                  "@width": "390",
+                  "@height": "787",
+                  "@index": "1",
+                  "XCUIElementTypeOther": {
+                    "@type": "XCUIElementTypeOther",
+                    "@enabled": "true",
+                    "@visible": "true",
+                    "@accessible": "false",
+                    "@x": "0",
+                    "@y": "57",
+                    "@width": "390",
+                    "@height": "787",
+                    "@index": "0",
+                    "XCUIElementTypeOther": {
+                      "@type": "XCUIElementTypeOther",
+                      "@enabled": "true",
+                      "@visible": "true",
+                      "@accessible": "false",
+                      "@x": "0",
+                      "@y": "57",
+                      "@width": "390",
+                      "@height": "787",
+                      "@index": "0",
+                      "XCUIElementTypeOther": {
+                        "@type": "XCUIElementTypeOther",
+                        "@enabled": "true",
+                        "@visible": "true",
+                        "@accessible": "false",
+                        "@x": "0",
+                        "@y": "57",
+                        "@width": "390",
+                        "@height": "787",
+                        "@index": "0",
+                        "XCUIElementTypeNavigationBar": {
+                          "@type": "XCUIElementTypeNavigationBar",
+                          "@name": "History",
+                          "@enabled": "true",
+                          "@visible": "true",
+                          "@accessible": "false",
+                          "@x": "0",
+                          "@y": "57",
+                          "@width": "390",
+                          "@height": "56",
+                          "@index": "0",
+                          "XCUIElementTypeButton": [
+                            {
+                              "@type": "XCUIElementTypeButton",
+                              "@name": "Share",
+                              "@label": "Share",
+                              "@enabled": "false",
+                              "@visible": "true",
+                              "@accessible": "true",
+                              "@x": "8",
+                              "@y": "63",
+                              "@width": "44",
+                              "@height": "44",
+                              "@index": "0"
+                            },
+                            {
+                              "@type": "XCUIElementTypeButton",
+                              "@name": "Done",
+                              "@label": "Done",
+                              "@enabled": "true",
+                              "@visible": "true",
+                              "@accessible": "true",
+                              "@x": "333",
+                              "@y": "63",
+                              "@width": "49",
+                              "@height": "44",
+                              "@index": "2"
+                            }
+                          ],
+                          "XCUIElementTypeStaticText": {
+                            "@type": "XCUIElementTypeStaticText",
+                            "@value": "History",
+                            "@name": "History",
+                            "@label": "History",
+                            "@enabled": "true",
+                            "@visible": "true",
+                            "@accessible": "true",
+                            "@x": "155",
+                            "@y": "71",
+                            "@width": "81",
+                            "@height": "26",
+                            "@index": "1"
+                          }
+                        },
+                        "XCUIElementTypeOther": {
+                          "@type": "XCUIElementTypeOther",
+                          "@enabled": "true",
+                          "@visible": "true",
+                          "@accessible": "false",
+                          "@x": "0",
+                          "@y": "57",
+                          "@width": "390",
+                          "@height": "787",
+                          "@index": "1",
+                          "XCUIElementTypeOther": {
+                            "@type": "XCUIElementTypeOther",
+                            "@enabled": "true",
+                            "@visible": "true",
+                            "@accessible": "false",
+                            "@x": "0",
+                            "@y": "57",
+                            "@width": "390",
+                            "@height": "787",
+                            "@index": "0",
+                            "XCUIElementTypeTable": {
+                              "@type": "XCUIElementTypeTable",
+                              "@name": "Empty list",
+                              "@label": "Empty list",
+                              "@enabled": "true",
+                              "@visible": "true",
+                              "@accessible": "true",
+                              "@x": "0",
+                              "@y": "57",
+                              "@width": "390",
+                              "@height": "787",
+                              "@index": "0"
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "XCUIElementTypeWindow",
+          "@enabled": "true",
+          "@visible": "false",
+          "@accessible": "false",
+          "@x": "0",
+          "@y": "0",
+          "@width": "390",
+          "@height": "844",
+          "@index": "1",
+          "XCUIElementTypeOther": {
+            "@type": "XCUIElementTypeOther",
+            "@enabled": "true",
+            "@visible": "false",
+            "@accessible": "false",
+            "@x": "0",
+            "@y": "0",
+            "@width": "390",
+            "@height": "844",
+            "@index": "0",
+            "XCUIElementTypeOther": [
+              {
+                "@type": "XCUIElementTypeOther",
+                "@enabled": "true",
+                "@visible": "false",
+                "@accessible": "false",
+                "@x": "0",
+                "@y": "0",
+                "@width": "390",
+                "@height": "844",
+                "@index": "0"
+              },
+              {
+                "@type": "XCUIElementTypeOther",
+                "@enabled": "true",
+                "@visible": "false",
+                "@accessible": "false",
+                "@x": "0",
+                "@y": "844",
+                "@width": "390",
+                "@height": "233",
+                "@index": "1"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

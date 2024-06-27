@@ -1,0 +1,20 @@
+{
+  "index": "0",
+  "package": "me.hackerchick.catima",
+  "class": "android.widget.AutoCompleteTextView",
+  "text": "   ",
+  "resource-id": "me.hackerchick.catima:id/search_src_text",
+  "checkable": "false",
+  "checked": "false",
+  "clickable": "true",
+  "enabled": "true",
+  "focusable": "true",
+  "focused": "true",
+  "long-clickable": "true",
+  "password": "false",
+  "scrollable": "false",
+  "selected": "false",
+  "bounds": "[176,103][683,202]",
+  "displayed": "true",
+  "sent_text": "Grocery Store"
+}

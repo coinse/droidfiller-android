@@ -1,0 +1,50 @@
+{
+  "previous_actions": [
+    [
+      {
+        "index": "0",
+        "package": "com.tubitv",
+        "class": "android.widget.Button",
+        "text": "Register with Email",
+        "resource-id": "com.tubitv:id/view_sign_button",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[63,1468][1017,1594]",
+        "displayed": "true"
+      },
+      "-1738806443"
+    ],
+    [
+      {
+        "index": "0",
+        "package": "com.tubitv",
+        "class": "android.widget.EditText",
+        "text": "First Name",
+        "resource-id": "com.tubitv:id/name",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "true",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[53,486][1027,608]",
+        "displayed": "true",
+        "sent_text": "Jane Doe"
+      },
+      "-1563197355"
+    ]
+  ],
+  "current_screen": "-1563197355"
+}

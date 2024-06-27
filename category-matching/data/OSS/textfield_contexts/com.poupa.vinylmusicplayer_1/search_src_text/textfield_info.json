@@ -1,0 +1,20 @@
+{
+  "index": "0",
+  "package": "com.poupa.vinylmusicplayer",
+  "class": "android.widget.AutoCompleteTextView",
+  "text": "Search your library\u2026",
+  "resource-id": "com.poupa.vinylmusicplayer:id/search_src_text",
+  "checkable": "false",
+  "checked": "false",
+  "clickable": "true",
+  "enabled": "true",
+  "focusable": "true",
+  "focused": "true",
+  "long-clickable": "true",
+  "password": "false",
+  "scrollable": "false",
+  "selected": "false",
+  "bounds": "[220,93][1058,192]",
+  "displayed": "true",
+  "sent_text": "lofi"
+}

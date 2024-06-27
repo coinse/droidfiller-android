@@ -1,0 +1,1193 @@
+{
+  "data/OSS/textfield_contexts/Instagram_1/email_field": {
+    "GT_categories": [
+      [
+        "profile",
+        [
+          "email"
+        ]
+      ]
+    ],
+    "sample_text": "abcd1234@kaist.ac.kr"
+  },
+  "data/OSS/textfield_contexts/HERE_WeGo_Maps_Navigation_v4.4.200_5/-1630317872": {
+    "GT_categories": [
+      [
+        "search",
+        [
+          "location"
+        ]
+      ]
+    ],
+    "sample_text": "daejeon city hall"
+  },
+  "data/OSS/textfield_contexts/me.hackerchick.catima_1/search_src_text": {
+    "GT_categories": [
+      [
+        "search",
+        [
+          "storage"
+        ]
+      ]
+    ],
+    "sample_text": "drug store"
+  },
+  "data/OSS/textfield_contexts/me.hackerchick.catima_1/cardId": {
+    "GT_categories": [
+      [
+        "code",
+        [
+          "card_id"
+        ]
+      ]
+    ],
+    "sample_text": "abcd1234"
+  },
+  "data/OSS/textfield_contexts/me.hackerchick.catima_1/storeNameEdit": {
+    "GT_categories": [
+      [
+        "label",
+        []
+      ]
+    ],
+    "sample_text": "drug store"
+  },
+  "data/OSS/textfield_contexts/Brave_Private_Web_Browser_v1.39.115_1/-1629784746": {
+    "GT_categories": [
+      [
+        "search",
+        [
+          "web"
+        ]
+      ]
+    ],
+    "sample_text": "www.naver.com"
+  },
+  "data/OSS/textfield_contexts/Brave_Private_Web_Browser_v1.39.115_1/url_bar": {
+    "GT_categories": [
+      [
+        "search",
+        [
+          "web"
+        ]
+      ]
+    ],
+    "sample_text": "www.naver.com"
+  },
+  "data/OSS/textfield_contexts/Opera_Mini_fast_web_browser_v63.0.2254.61942_1/url_field": {
+    "GT_categories": [
+      [
+        "search",
+        [
+          "web"
+        ]
+      ]
+    ],
+    "sample_text": "www.naver.com"
+  },
+  "data/OSS/textfield_contexts/org.billthefarmer.currency_1/edit": {
+    "GT_categories": [
+      [
+        "numerical",
+        [
+          "ratio"
+        ]
+      ]
+    ],
+    "sample_text": "1.00"
+  },
+  "data/OSS/textfield_contexts/Ratios_1/2113677831": {
+    "GT_categories": [
+      [
+        "numerical",
+        [
+          "ratio"
+        ]
+      ]
+    ],
+    "sample_text": "10"
+  },
+  "data/OSS/textfield_contexts/Ratios_1/157233290": {
+    "GT_categories": [
+      [
+        "numerical",
+        [
+          "amount"
+        ]
+      ]
+    ],
+    "sample_text": "4"
+  },
+  "data/OSS/textfield_contexts/Instagram_3/full_name": {
+    "GT_categories": [
+      [
+        "profile",
+        [
+          "name",
+          "username"
+        ]
+      ]
+    ],
+    "sample_text": "greenmon2"
+  },
+  "data/OSS/textfield_contexts/Instagram_3/phone_field": {
+    "GT_categories": [
+      [
+        "profile",
+        [
+          "phone"
+        ]
+      ]
+    ],
+    "sample_text": "(010) 4940-4583"
+  },
+  "data/OSS/textfield_contexts/Instagram_3/password": {
+    "GT_categories": [
+      [
+        "profile",
+        [
+          "password"
+        ]
+      ]
+    ],
+    "sample_text": "gus@ka123"
+  },
+  "data/OSS/textfield_contexts/Instagram_3/confirmation_field": {
+    "GT_categories": [
+      [
+        "auth_code",
+        []
+      ]
+    ],
+    "sample_text": "5974"
+  },
+  "data/OSS/textfield_contexts/Instagram_3/search": {
+    "GT_categories": [
+      [
+        "search",
+        [
+          "country",
+          "country_code"
+        ]
+      ],
+      [
+        "profile",
+        [
+          "country",
+          "country_code"
+        ]
+      ]
+    ],
+    "sample_text": "algeria, 213"
+  },
+  "data/OSS/textfield_contexts/Petal_Maps\u2013GPS_Navigation_v2.5.0.303(002)_1/search_src_text": {
+    "GT_categories": [
+      [
+        "search",
+        [
+          "location"
+        ]
+      ]
+    ],
+    "sample_text": "daejoen city hall"
+  },
+  "data/OSS/textfield_contexts/Firefox_Fast_Private_Browser_v101.1.1_1/mozac_browser_toolbar_edit_url_view": {
+    "GT_categories": [
+      [
+        "search",
+        [
+          "web"
+        ]
+      ]
+    ],
+    "sample_text": "www.naver.com"
+  },
+  "data/OSS/textfield_contexts/BookStore_1/Search": {
+    "GT_categories": [
+      [
+        "search",
+        [
+          "book"
+        ]
+      ]
+    ],
+    "sample_text": "demian"
+  },
+  "data/OSS/textfield_contexts/WhatsApp_1/registration_cc": {
+    "GT_categories": [
+      [
+        "profile",
+        [
+          "country_code"
+        ]
+      ]
+    ],
+    "sample_text": "82"
+  },
+  "data/OSS/textfield_contexts/WhatsApp_1/verify_sms_code_input": {
+    "GT_categories": [
+      [
+        "auth_code",
+        []
+      ]
+    ],
+    "sample_text": "123789"
+  },
+  "data/OSS/textfield_contexts/WhatsApp_1/registration_phone": {
+    "GT_categories": [
+      [
+        "profile",
+        [
+          "phone"
+        ]
+      ]
+    ],
+    "sample_text": "556 123"
+  },
+  "data/OSS/textfield_contexts/de.kromke.andreas.opus1musicplayer_1/search_src_text": {
+    "GT_categories": [
+      [
+        "search",
+        [
+          "music", "storage"
+        ]
+      ]
+    ],
+    "sample_text": "love dive"
+  },
+  "data/OSS/textfield_contexts/co.appreactor.news_1/username": {
+    "GT_categories": [
+      [
+        "profile",
+        [
+          "username"
+        ]
+      ]
+    ],
+    "sample_text": "samsung123"
+  },
+  "data/OSS/textfield_contexts/co.appreactor.news_1/password": {
+    "GT_categories": [
+      [
+        "profile",
+        [
+          "password"
+        ]
+      ]
+    ],
+    "sample_text": "asdf!123@"
+  },
+  "data/OSS/textfield_contexts/co.appreactor.news_1/serverUrl": {
+    "GT_categories": [
+      [
+        "profile",
+        [
+          "url"
+        ]
+      ]
+    ],
+    "sample_text": "www.naver.com"
+  },
+  "data/OSS/textfield_contexts/com.invoiceninja.app_1/1271870479": {
+    "GT_categories": [
+      [
+        "profile",
+        [
+          "password"
+        ]
+      ]
+    ],
+    "sample_text": "asdf!123@"
+  },
+  "data/OSS/textfield_contexts/com.invoiceninja.app_1/1230535790": {
+    "GT_categories": [
+      [
+        "profile",
+        [
+          "email"
+        ]
+      ]
+    ],
+    "sample_text": "samsung2@samsung.com"
+  },
+  "data/OSS/textfield_contexts/BOTIM_Video_and_Voice_Call_v2.7.9_1/search_box": {
+    "GT_categories": [
+      [
+        "search",
+        [
+          "country"
+        ]
+      ]
+    ],
+    "sample_text": "algeria"
+  },
+  "data/OSS/textfield_contexts/com.velas.mobile_wallet_1/735730464": {
+    "GT_categories": [
+      [
+        "profile",
+        [
+          "password"
+        ]
+      ]
+    ],
+    "sample_text": "asdf!123@"
+  },
+  "data/OSS/textfield_contexts/Waze_Navigation_Live_Traffic_v4.84.0.2_1/searchBox": {
+    "GT_categories": [
+      [
+        "search",
+        [
+          "location"
+        ]
+      ]
+    ],
+    "sample_text": "daejeon"
+  },
+  "data/OSS/textfield_contexts/org.koitharu.kotatsu_1/searchView": {
+    "GT_categories": [
+      [
+        "search",
+        [
+          "manga"
+        ]
+      ]
+    ],
+    "sample_text": "one piece"
+  },
+  "data/OSS/textfield_contexts/nl.asymmetrics.droidshows_1/search_src_text": {
+    "GT_categories": [
+      [
+        "search",
+        [
+          "tv_show"
+        ]
+      ]
+    ],
+    "sample_text": "breaking bad"
+  },
+  "data/OSS/textfield_contexts/nl.asymmetrics.droidshows_1/search_text": {
+    "GT_categories": [
+      [
+        "search",
+        [
+          "tv_show"
+        ]
+      ]
+    ],
+    "sample_text": "friends"
+  },
+  "data/OSS/textfield_contexts/ExampleMVVM_1/AccessibilityIdentifierSearchMovies": {
+    "GT_categories": [
+      [
+        "search",
+        [
+          "movie"
+        ]
+      ]
+    ],
+    "sample_text": "harry potter"
+  },
+  "data/OSS/textfield_contexts/AutoScout24_Buy_sell_cars_v9.8/textinput_filter_edittext": {
+    "GT_categories": [
+      [
+        "search",
+        [
+          "car_model"
+        ]
+      ]
+    ],
+    "sample_text": "750"
+  },
+  "data/OSS/textfield_contexts/Messenger_1/131573223": {
+    "GT_categories": [
+      [
+        "profile",
+        [
+          "phone",
+          "email"
+        ]
+      ]
+    ],
+    "sample_text": "01049404583"
+  },
+  "data/OSS/textfield_contexts/Messenger_1/-1478030010": {
+    "GT_categories": [
+      [
+        "profile",
+        [
+          "password"
+        ]
+      ]
+    ],
+    "sample_text": "abcd!1234@"
+  },
+  "data/OSS/textfield_contexts/Plex_Stream_Movies_TV_1/-1469543694": {
+    "GT_categories": [
+      [
+        "search",
+        [
+          "movie"
+        ]
+      ]
+    ],
+    "sample_text": "harry potter"
+  },
+  "data/OSS/textfield_contexts/de.chaosdorf.meteroid_1/-1344947040": {
+    "GT_categories": [
+      [
+        "profile",
+        [
+          "url"
+        ]
+      ]
+    ],
+    "sample_text": "https://mete.chaosdorf.space/api/v2"
+  },
+  "data/OSS/textfield_contexts/org.y20k.escapepod_1/search_src_text": {
+    "GT_categories": [
+      [
+        "search",
+        [
+          "podcast"
+        ]
+      ]
+    ],
+    "sample_text": "bbc news"
+  },
+  "data/OSS/textfield_contexts/AOL_News_Mail_Video_v6.47.2_1/search_edit_text": {
+    "GT_categories": [
+      [
+        "search",
+        [
+          "news",
+          "video"
+        ]
+      ]
+    ],
+    "sample_text": "worldcup"
+  },
+  "data/OSS/textfield_contexts/Raivo_1/passwordInitial": {
+    "GT_categories": [
+      [
+        "profile",
+        [
+          "password"
+        ]
+      ]
+    ],
+    "sample_text": "abcd!123@"
+  },
+  "data/OSS/textfield_contexts/Raivo_1/passwordConfirmation": {
+    "GT_categories": [
+      [
+        "profile",
+        [
+          "password"
+        ]
+      ]
+    ],
+    "sample_text": "asdf!234"
+  },
+  "data/OSS/textfield_contexts/Tubi_Movies_1/email": {
+    "GT_categories": [
+      [
+        "profile",
+        [
+          "email"
+        ]
+      ]
+    ],
+    "sample_text": "asdf123@naver.com"
+  },
+  "data/OSS/textfield_contexts/Tubi_Movies_1/search_input_box": {
+    "GT_categories": [
+      [
+        "search",
+        [
+          "tv_show",
+          "movie"
+        ]
+      ]
+    ],
+    "sample_text": "friends"
+  },
+  "data/OSS/textfield_contexts/Tubi_Movies_1/password": {
+    "GT_categories": [
+      [
+        "profile",
+        [
+          "password"
+        ]
+      ]
+    ],
+    "sample_text": "abcd!1234"
+  },
+  "data/OSS/textfield_contexts/Tubi_Movies_1/name": {
+    "GT_categories": [
+      [
+        "profile",
+        [
+          "name"
+        ]
+      ]
+    ],
+    "sample_text": "eugene"
+  },
+  "data/OSS/textfield_contexts/Tubi_Movies_1/text_year_or_age": {
+    "GT_categories": [
+      [
+        "profile",
+        [
+          "age"
+        ]
+      ],
+      [
+        "datetime",
+        [
+          "year"
+        ]
+      ]
+    ],
+    "sample_text": "30"
+  },
+  "data/OSS/textfield_contexts/com.poupa.vinylmusicplayer_1/year": {
+    "GT_categories": [
+      [
+        "datetime",
+        [
+          "year"
+        ]
+      ]
+    ],
+    "sample_text": "2022"
+  },
+  "data/OSS/textfield_contexts/com.poupa.vinylmusicplayer_1/genre": {
+    "GT_categories": [
+      [
+        "music",
+        [
+          "genre"
+        ]
+      ]
+    ],
+    "sample_text": "classic"
+  },
+  "data/OSS/textfield_contexts/com.poupa.vinylmusicplayer_1/title1": {
+    "GT_categories": [
+      [
+        "music",
+        [
+          "song"
+        ]
+      ],
+      [
+        "label",
+        []
+      ]
+    ],
+    "sample_text": "love dive"
+  },
+  "data/OSS/textfield_contexts/com.poupa.vinylmusicplayer_1/search_src_text": {
+    "GT_categories": [
+      [
+        "search",
+        [
+          "music",
+          "storage"
+        ]
+      ]
+    ],
+    "sample_text": "love dive"
+  },
+  "data/OSS/textfield_contexts/com.poupa.vinylmusicplayer_1/disc_number": {
+    "GT_categories": [
+      [
+        "music",
+        [
+          "number"
+        ]
+      ],
+      ["numerical",
+        [
+          "enum"
+        ]
+      ]
+    ],
+    "sample_text": "2"
+  },
+  "data/OSS/textfield_contexts/com.poupa.vinylmusicplayer_1/track_number": {
+    "GT_categories": [
+      [
+        "music",
+        [
+          "number"
+        ]
+      ],
+      ["numerical",
+        [
+          "enum"
+        ]
+      ]
+    ],
+    "sample_text": "2"
+  },
+  "data/OSS/textfield_contexts/com.poupa.vinylmusicplayer_1/artist": {
+    "GT_categories": [
+      [
+        "music",
+        [
+          "artist"
+        ]
+      ]
+    ],
+    "sample_text": "apink"
+  },
+  "data/OSS/textfield_contexts/OK_Social_Network_v22.6.1_1/password_text": {
+    "GT_categories": [
+      [
+        "profile",
+        [
+          "password"
+        ]
+      ]
+    ],
+    "sample_text": "abcd!123@"
+  },
+  "data/OSS/textfield_contexts/OK_Social_Network_v22.6.1_1/text_login": {
+    "GT_categories": [
+      [
+        "profile",
+        [
+          "phone",
+          "email"
+        ]
+      ]
+    ],
+    "sample_text": "samsung3@samsung.com"
+  },
+  "data/OSS/textfield_contexts/Hulu_1/email": {
+    "GT_categories": [
+      [
+        "profile",
+        [
+          "email"
+        ]
+      ]
+    ],
+    "sample_text": "samsung2@samsung.com"
+  },
+  "data/OSS/textfield_contexts/Hulu_1/password": {
+    "GT_categories": [
+      [
+        "profile",
+        [
+          "password"
+        ]
+      ]
+    ],
+    "sample_text": "abcd!123@"
+  },
+  "data/OSS/textfield_contexts/im.status.ethereum_1/-400961918": {
+    "GT_categories": [
+      [
+        "profile",
+        [
+          "password"
+        ]
+      ]
+    ],
+    "sample_text": "abcd!123@"
+  },
+  "data/OSS/textfield_contexts/im.status.ethereum_1/-103358224": {
+    "GT_categories": [
+      [
+        "profile",
+        [
+          "password"
+        ]
+      ]
+    ],
+    "sample_text": "abcd!123@"
+  },
+  "data/OSS/textfield_contexts/Issuu_magazines_news_books_v5.67.0_1/search_src_text": {
+    "GT_categories": [
+      [
+        "search",
+        [
+          "megazine",
+          "book",
+          "news"
+        ]
+      ]
+    ],
+    "sample_text": "elle"
+  },
+  "data/OSS/textfield_contexts/org.totschnig.myexpenses_1/Payee": {
+    "GT_categories": [
+      [
+        "numerical",
+        [
+          "amount"
+        ]
+      ],
+      [
+        "ledger",
+        [
+          "payee"
+        ]
+      ]
+    ],
+    "sample_text": "3000"
+  },
+  "data/OSS/textfield_contexts/org.totschnig.myexpenses_1/AmountEditText": {
+    "GT_categories": [
+      [
+        "numerical",
+        [
+          "amount"
+        ]
+      ]
+    ],
+    "sample_text": "3000"
+  },
+  "data/OSS/textfield_contexts/org.totschnig.myexpenses_1/tag_edit": {
+    "GT_categories": [
+      [
+        "tag",
+        []
+      ]
+    ],
+    "sample_text": "food"
+  },
+  "data/OSS/textfield_contexts/org.totschnig.myexpenses_1/Label": {
+    "GT_categories": [
+      [
+        "label",
+        []
+      ]
+    ],
+    "sample_text": "food"
+  },
+  "data/OSS/textfield_contexts/org.totschnig.myexpenses_1/Comment": {
+    "GT_categories": [
+      [
+        "description",
+        []
+      ]
+    ],
+    "sample_text": "1201dinner"
+  },
+  "data/OSS/textfield_contexts/Podcast_Addict_Podcast_player_v2022.4_1/pattern": {
+    "GT_categories": [
+      [
+        "search",
+        [
+          "podcast"
+        ]
+      ]
+    ],
+    "sample_text": "bbc news"
+  },
+  "data/OSS/textfield_contexts/BBC_News_v5.23.0_1/search": {
+    "GT_categories": [
+      [
+        "search",
+        [
+          "news"
+        ]
+      ]
+    ],
+    "sample_text": "worldcup"
+  },
+  "data/OSS/textfield_contexts/Podcast_Player_v7.0.0-220308033.rd0a0ae8_1/zk": {
+    "GT_categories": [
+      [
+        "search",
+        [
+          "podcast"
+        ]
+      ]
+    ],
+    "sample_text": "bbc news"
+  },
+  "data/OSS/textfield_contexts/deep.ryd.rydplayer_1/617068565": {
+    "GT_categories": [
+      [
+        "music",
+        [
+          "playlist_url"
+        ]
+      ]
+    ],
+    "sample_text": "https://www.youtube.com/watch?v=zugAhfd2r0g&ab_channel=JYPEntertainment"
+  },
+  "data/samsung_internal/My Files/state_2022-11-02_100330860289.json:search_src_text": {
+    "GT_categories": [
+      [
+        "search",
+        [
+          "storage"
+        ]
+      ]
+    ],
+    "sample_text": "filename"
+  },
+  "data/samsung_internal/My Files/state_2022-11-02_100555195131.json:search_src_text": {
+    "GT_categories": [
+      [
+        "search",
+        [
+          "storage"
+        ]
+      ]
+    ],
+    "sample_text": "20221201"
+  },
+  "data/samsung_internal/SmartThings/state_2022-11-01_183300373138.json:edit_text_name": {
+    "GT_categories": [
+      [
+        "location",
+        [
+          "location"
+        ]
+      ]
+    ],
+    "sample_text": "room1"
+  },
+  "data/samsung_internal/SmartThings/state_2022-11-01_175008826290.json:inviteAccountText": {
+    "GT_categories": [
+      [
+        "profile",
+        [
+          "samsung_account",
+          "email"
+        ]
+      ]
+    ],
+    "sample_text": "samsung2@samsung.com"
+  },
+  "data/samsung_internal/SmartThings/state_2022-11-01_175242663868.json:search_src_text": {
+    "GT_categories": [
+      [
+        "search",
+        [
+          "iot_device"
+        ]
+      ]
+    ],
+    "sample_text": "galaxy10"
+  },
+  "data/samsung_internal/Messages/state_2022-11-01_125025142665.json:search_src_text": {
+    "GT_categories": [
+      [
+        "messenger",
+        [
+          "recipient",
+          "message"
+        ]
+      ],
+      [
+        "search",
+        [
+          "storage"
+        ]
+      ]
+    ],
+    "sample_text": "hi"
+  },
+  "data/samsung_internal/Messages/state_2022-11-01_172019083263.json:recipients_editor_to": {
+    "GT_categories": [
+      [
+        "messenger",
+        [
+          "recipient"
+        ]
+      ]
+    ],
+    "sample_text": "eugene"
+  },
+  "data/samsung_internal/Messages/state_2022-11-01_172019083263.json:message_edit_text": {
+    "GT_categories": [
+      [
+        "messenger",
+        [
+          "message"
+        ]
+      ]
+    ],
+    "sample_text": "eugene"
+  },
+  "data/samsung_internal/Galaxy Store/state_2022-11-01_184025384712.json:name": {
+    "GT_categories": [
+      [
+        "profile",
+        [
+          "name"
+        ]
+      ]
+    ],
+    "sample_text": "eugene"
+  },
+  "data/samsung_internal/Galaxy Store/state_2022-11-01_184025384712.json:phoneNumber": {
+    "GT_categories": [
+      [
+        "profile",
+        [
+          "phone"
+        ]
+      ]
+    ],
+    "sample_text": "010-4940-4583"
+  },
+  "data/samsung_internal/Galaxy Store/state_2022-11-01_183635589137.json:coupon_edit": {
+    "GT_categories": [
+      [
+        "code",
+        [
+          "coupon_code"
+        ]
+      ]
+    ],
+    "sample_text": "12345323132"
+  },
+  "data/samsung_internal/Galaxy Store/state_2022-11-01_184121181885.json:search_src_text": {
+    "GT_categories": [
+      [
+        "search",
+        [
+          "app"
+        ]
+      ]
+    ],
+    "sample_text": "battlegrounds"
+  },
+  "data/samsung_internal/Contacts/state_2022-11-01_173146572934.json:search_src_text": {
+    "GT_categories": [
+      [
+        "search",
+        [
+          "storage"
+        ]
+      ]
+    ],
+    "sample_text": "father"
+  },
+  "data/samsung_internal/Contacts/state_2022-11-01_173529930391.json:forCursorEdit": {
+    "GT_categories": [
+      [
+        "profile",
+        [
+          "name"
+        ]
+      ]
+    ],
+    "sample_text": "mother"
+  },
+  "data/samsung_internal/Contacts/state_2022-11-01_173529930391.json:nameEdit": {
+    "GT_categories": [
+      [
+        "profile",
+        [
+          "name"
+        ]
+      ]
+    ],
+    "sample_text": "father"
+  },
+  "data/samsung_internal/Contacts/state_2022-11-01_173529930391.json:editOrganizationTitle": {
+    "GT_categories": [
+      [
+        "profile",
+        [
+          "job"
+        ]
+      ]
+    ],
+    "sample_text": "professor"
+  },
+  "data/samsung_internal/Contacts/state_2022-11-01_173529930391.json:editOrganizationDepartment": {
+    "GT_categories": [
+      [
+        "profile",
+        [
+          "department"
+        ]
+      ]
+    ],
+    "sample_text": "mx"
+  },
+  "data/samsung_internal/Contacts/state_2022-11-01_173529930391.json:editOrganizationCompany": {
+    "GT_categories": [
+      [
+        "profile",
+        [
+          "company"
+        ]
+      ]
+    ],
+    "sample_text": "samsung"
+  },
+  "data/samsung_internal/Settings/state_2022-11-02_095831401950.json:search_src_text": {
+    "GT_categories": [
+      [
+        "search",
+        [
+          "storage"
+        ]
+      ]
+    ],
+    "sample_text": "sound"
+  },
+  "data/samsung_internal/Samsung Members/state_2022-11-02_101955202341.json:inputEditText": {
+    "GT_categories": [
+      [
+        "device_profile",
+        [
+          "serial_number"
+        ]
+      ]
+    ],
+    "sample_text": "galaxy10"
+  },
+  "data/samsung_internal/Samsung Members/state_2022-11-02_101839943819.json:nickname": {
+    "GT_categories": [
+      [
+        "profile",
+        [
+          "username"
+        ]
+      ]
+    ],
+    "sample_text": "dog"
+  },
+  "data/samsung_internal/Gallery/state_2022-11-01_172316447819.json:search_src_text": {
+    "GT_categories": [
+      [
+        "search",
+        [
+          "storage"
+        ]
+      ]
+    ],
+    "sample_text": "20221201"
+  },
+  "data/samsung_internal/Samsung Internet/state_2022-11-01_184749322308.json:location_bar_edit_text": {
+    "GT_categories": [
+      [
+        "search",
+        [
+          "web"
+        ]
+      ]
+    ],
+    "sample_text": "www.naver.com"
+  },
+  "data/samsung_internal/Clock/state_2022-11-01_184421020236.json:worldclock_search_map_txt_find": {
+    "GT_categories": [
+      [
+        "search",
+        [
+          "country"
+        ]
+      ],
+      [
+        "location",
+        [
+          "country"
+        ]
+      ]
+    ],
+    "sample_text": "korea"
+  },
+  "data/samsung_internal/Clock/state_2022-11-01_184255456720.json:numberpicker_input": {
+    "GT_categories": [
+      [
+        "datetime",
+        [
+          "minute"
+        ]
+      ]
+    ],
+    "sample_text": "10"
+  },
+  "data/samsung_internal/Clock/state_2022-11-01_184255456720.json:alarm_name": {
+    "GT_categories": [
+      [
+        "label",
+        []
+      ]
+    ],
+    "sample_text": "miracle morning"
+  },
+  "data/samsung_internal/Clock/state_2022-11-01_184455299444.json:hour": {
+    "GT_categories": [
+      [
+        "datetime",
+        [
+          "hour"
+        ]
+      ]
+    ],
+    "sample_text": "14"
+  },
+  "data/samsung_internal/Clock/state_2022-11-01_184455299444.json:minute": {
+    "GT_categories": [
+      [
+        "datetime",
+        [
+          "minute"
+        ]
+      ]
+    ],
+    "sample_text": "50"
+  },
+  "data/samsung_internal/Clock/state_2022-11-01_184455299444.json:second": {
+    "GT_categories": [
+      [
+        "datetime",
+        [
+          "second"
+        ]
+      ]
+    ],
+    "sample_text": "40"
+  },
+  "data/samsung_internal/Clock/state_2022-11-01_184455299444.json:preset_name": {
+    "GT_categories": [
+      [
+        "label",
+        []
+      ]
+    ],
+    "sample_text": "timer1"
+  },
+  "data/samsung_internal/Calendar/state_2022-11-01_172842215734.json:title": {
+    "GT_categories": [
+      [
+        "label",
+        []
+      ]
+    ],
+    "sample_text": "meeting"
+  },
+  "data/samsung_internal/Calendar/state_2022-11-01_172842215734.json:location": {
+    "GT_categories": [
+      [
+        "location",
+        [
+          "location"
+        ]
+      ]
+    ],
+    "sample_text": "meeting room1"
+  },
+  "data/samsung_internal/Calendar/state_2022-11-01_172842215734.json:note_text": {
+    "GT_categories": [
+      [
+        "description",
+        []
+      ]
+    ],
+    "sample_text": "with kaist "
+  }
+}

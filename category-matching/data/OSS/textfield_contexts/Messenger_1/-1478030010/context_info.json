@@ -1,0 +1,28 @@
+{
+  "previous_actions": [
+    [
+      {
+        "index": "0",
+        "package": "com.facebook.orca",
+        "class": "android.widget.EditText",
+        "text": "Phone number or email",
+        "content-desc": "Phone number or email",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "true",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[55,1442][1025,1585]",
+        "displayed": "true",
+        "sent_text": "greenmon@kaist.ac.kr"
+      },
+      "-1496142319"
+    ]
+  ],
+  "current_screen": "-1496142319"
+}

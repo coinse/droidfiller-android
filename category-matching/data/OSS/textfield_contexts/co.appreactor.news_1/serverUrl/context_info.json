@@ -1,0 +1,27 @@
+{
+  "previous_actions": [
+    [
+      {
+        "index": "0",
+        "package": "co.appreactor.news",
+        "class": "android.widget.Button",
+        "text": "Login with Miniflux",
+        "resource-id": "co.appreactor.news:id/loginWithMiniflux",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[110,1320][970,1452]",
+        "displayed": "true"
+      },
+      "955722716"
+    ]
+  ],
+  "current_screen": "-1160844204"
+}

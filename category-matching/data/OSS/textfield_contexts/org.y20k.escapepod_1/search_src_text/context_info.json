@@ -1,0 +1,27 @@
+{
+  "previous_actions": [
+    [
+      {
+        "index": "0",
+        "package": "org.y20k.escapepod",
+        "class": "android.widget.Button",
+        "text": "Add new podcast",
+        "resource-id": "org.y20k.escapepod:id/card_add_new_station",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[22,110][684,242]",
+        "displayed": "true"
+      },
+      "-1495398674"
+    ]
+  ],
+  "current_screen": "966430078"
+}

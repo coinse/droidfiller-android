@@ -1,0 +1,20 @@
+{
+  "index": "1",
+  "package": "com.huawei.maps.app",
+  "class": "android.widget.AutoCompleteTextView",
+  "text": "Hi, where to?",
+  "resource-id": "com.huawei.maps.app:id/search_src_text",
+  "checkable": "false",
+  "checked": "false",
+  "clickable": "true",
+  "enabled": "true",
+  "focusable": "true",
+  "focused": "false",
+  "long-clickable": "true",
+  "password": "false",
+  "scrollable": "false",
+  "selected": "false",
+  "bounds": "[174,1600][912,1720]",
+  "displayed": "true",
+  "sent_text": "eiffel tower"
+}

@@ -1,0 +1,21 @@
+{
+  "previous_actions": [
+    [
+      {
+        "type": "XCUIElementTypeButton",
+        "name": "Search",
+        "label": "Search",
+        "enabled": "true",
+        "visible": "true",
+        "accessible": "true",
+        "x": "197",
+        "y": "762",
+        "width": "191",
+        "height": "48",
+        "index": "1"
+      },
+      "-1144119704"
+    ]
+  ],
+  "current_screen": "516307039"
+}

@@ -1,0 +1,20 @@
+{
+  "index": "0",
+  "package": "im.status.ethereum",
+  "class": "android.widget.EditText",
+  "text": "Password...",
+  "content-desc": "password-input",
+  "checkable": "false",
+  "checked": "false",
+  "clickable": "true",
+  "enabled": "true",
+  "focusable": "true",
+  "focused": "true",
+  "long-clickable": "true",
+  "password": "true",
+  "scrollable": "false",
+  "selected": "false",
+  "bounds": "[88,983][838,1104]",
+  "displayed": "true",
+  "sent_text": "eyedrop$4forsale"
+}

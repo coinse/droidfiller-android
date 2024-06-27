@@ -1,0 +1,50 @@
+{
+  "previous_actions": [
+    [
+      {
+        "index": "6",
+        "package": "com.whatsapp",
+        "class": "android.widget.Button",
+        "text": "AGREE AND CONTINUE",
+        "resource-id": "com.whatsapp:id/eula_accept",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[138,1935][941,2067]",
+        "displayed": "true"
+      },
+      "1149387745"
+    ],
+    [
+      {
+        "index": "0",
+        "package": "com.whatsapp",
+        "class": "android.widget.EditText",
+        "text": "1",
+        "resource-id": "com.whatsapp:id/registration_cc",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "true",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[182,480][386,604]",
+        "displayed": "true",
+        "sent_text": "82"
+      },
+      "-960371024"
+    ]
+  ],
+  "current_screen": "1298032692"
+}

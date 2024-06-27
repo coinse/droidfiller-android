@@ -1,0 +1,20 @@
+{
+  "index": "1",
+  "package": "com.whatsapp",
+  "class": "android.widget.EditText",
+  "text": "phone number",
+  "resource-id": "com.whatsapp:id/registration_phone",
+  "checkable": "false",
+  "checked": "false",
+  "clickable": "true",
+  "enabled": "true",
+  "focusable": "true",
+  "focused": "true",
+  "long-clickable": "true",
+  "password": "false",
+  "scrollable": "false",
+  "selected": "false",
+  "bounds": "[400,480][897,604]",
+  "displayed": "true",
+  "sent_text": "1064782959"
+}

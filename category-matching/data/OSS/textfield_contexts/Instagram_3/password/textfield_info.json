@@ -1,0 +1,20 @@
+{
+  "index": "0",
+  "package": "com.instagram.android",
+  "class": "android.widget.EditText",
+  "text": "Password",
+  "resource-id": "com.instagram.android:id/password",
+  "checkable": "false",
+  "checked": "false",
+  "clickable": "true",
+  "enabled": "true",
+  "focusable": "true",
+  "focused": "false",
+  "long-clickable": "true",
+  "password": "true",
+  "scrollable": "false",
+  "selected": "false",
+  "bounds": "[77,567][1003,699]",
+  "displayed": "true",
+  "sent_text": "eyedrop$4forsale"
+}

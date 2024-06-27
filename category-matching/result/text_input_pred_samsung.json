@@ -1,0 +1,2720 @@
+{
+    "data/samsung_internal/Settings/state_2022-11-02_095831401950.json:search_src_text": {
+        "app_name": "Settings",
+        "screenshot_path": "data/samsung_internal/Settings/screen_2022-11-02_095831401950.png",
+        "best": [
+            "search",
+            "web"
+        ],
+        "properties": {
+            "activity_name": "com.android.settings.intelligence/.search.SearchActivity",
+            "resource_id": "com.android.settings.intelligence:id/search_src_text",
+            "class": "android.widget.EditText",
+            "pointer": "None",
+            "content_desc": "None",
+            "enabled": "true",
+            "visible": "true",
+            "checked": "false",
+            "selected": "false",
+            "editable": "true",
+            "clickable": "true",
+            "long_clickable": "true",
+            "scrollable_horizontal": "false",
+            "scrollable_vertical": "false",
+            "checkable": "false",
+            "text": "Search",
+            "text_hint": "None",
+            "bounds": "[137, 106, 939, 222]",
+            "rel_bounds": "[137, 106, 939, 222]",
+            "uid": "404a601fefa91af674bd3406a4da7f77",
+            "serialize_class": "AndroidViewTree",
+            "package_name": "com.android.settings.intelligence",
+            "fingerprint": "",
+            "type": "textfield",
+            "resource-id": "search_src_text",
+            "content-desc": "None"
+        },
+        "primary_categories_ranked": [
+            [
+                "search",
+                0.4556399515519539
+            ],
+            [
+                "auth_code",
+                0.682006394614776
+            ],
+            [
+                "description",
+                0.6893851913511753
+            ],
+            [
+                "messenger",
+                0.7090177275240421
+            ],
+            [
+                "profile",
+                0.7127039415140946
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "web",
+                0.7092171261707942
+            ],
+            [
+                "storage",
+                0.7233240654071172
+            ],
+            [
+                "news",
+                0.7410934002449115
+            ],
+            [
+                "book",
+                0.7562464928875366
+            ],
+            [
+                "video",
+                0.7565957879026731
+            ]
+        ],
+        "concrete_category": "web",
+        "predicted_inputs": [
+            "www.naver.com",
+            "www.google.com",
+            "How to make an apple pie"
+        ]
+    },
+    "data/samsung_internal/Galaxy Store/state_2022-11-01_183635589137.json:coupon_edit": {
+        "app_name": "Galaxy Store",
+        "screenshot_path": "data/samsung_internal/Galaxy Store/screen_2022-11-01_183635589137.png",
+        "best": [
+            "code",
+            "coupon_code"
+        ],
+        "properties": {
+            "activity_name": "com.sec.android.app.samsungapps/.promotion.mcs.McsWebViewActivity",
+            "resource_id": "com.sec.android.app.samsungapps:id/coupon_edit",
+            "class": "android.widget.EditText",
+            "pointer": "None",
+            "content_desc": "None",
+            "enabled": "true",
+            "visible": "true",
+            "checked": "false",
+            "selected": "false",
+            "editable": "true",
+            "clickable": "true",
+            "long_clickable": "true",
+            "scrollable_horizontal": "false",
+            "scrollable_vertical": "false",
+            "checkable": "false",
+            "text": "Enter code",
+            "text_hint": "None",
+            "bounds": "[89, 1912, 991, 2020]",
+            "rel_bounds": "[89, 1912, 991, 2020]",
+            "uid": "8f70160ffc8e1249dbd54475deac8c99",
+            "serialize_class": "AndroidViewTree",
+            "package_name": "com.sec.android.app.samsungapps",
+            "fingerprint": "",
+            "type": "textfield",
+            "resource-id": "coupon_edit",
+            "content-desc": "None"
+        },
+        "primary_categories_ranked": [
+            [
+                "code",
+                0.23850253721078235
+            ],
+            [
+                "auth_code",
+                0.4316598216692606
+            ],
+            [
+                "profile",
+                0.6708712736765543
+            ],
+            [
+                "search",
+                0.6997532206277053
+            ],
+            [
+                "tag",
+                0.7069439729054767
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "coupon_code",
+                0.12230235834916432
+            ],
+            [
+                "card_id",
+                0.6600649344424406
+            ]
+        ],
+        "concrete_category": "coupon_code",
+        "predicted_inputs": [
+            "12345323132",
+            "123456789",
+            "1234567890"
+        ]
+    },
+    "data/samsung_internal/Galaxy Store/state_2022-11-01_184121181885.json:search_src_text": {
+        "app_name": "Galaxy Store",
+        "screenshot_path": "data/samsung_internal/Galaxy Store/screen_2022-11-01_184121181885.png",
+        "best": [
+            "search",
+            "app"
+        ],
+        "properties": {
+            "activity_name": "com.sec.android.app.samsungapps/.SearchResultActivity",
+            "resource_id": "android:id/search_src_text",
+            "class": "android.widget.EditText",
+            "pointer": "None",
+            "content_desc": "None",
+            "enabled": "true",
+            "visible": "true",
+            "checked": "false",
+            "selected": "false",
+            "editable": "true",
+            "clickable": "true",
+            "long_clickable": "true",
+            "scrollable_horizontal": "false",
+            "scrollable_vertical": "false",
+            "checkable": "false",
+            "text": "Search",
+            "text_hint": "None",
+            "bounds": "[153, 118, 680, 213]",
+            "rel_bounds": "[153, 118, 680, 213]",
+            "uid": "038c2a2aad1d2ed292ae09d0dc1903c3",
+            "serialize_class": "AndroidViewTree",
+            "package_name": "com.sec.android.app.samsungapps",
+            "fingerprint": "",
+            "type": "textfield",
+            "resource-id": "search_src_text",
+            "content-desc": "None"
+        },
+        "primary_categories_ranked": [
+            [
+                "search",
+                0.4565422600756089
+            ],
+            [
+                "auth_code",
+                0.6467534390588601
+            ],
+            [
+                "profile",
+                0.6647418220837911
+            ],
+            [
+                "code",
+                0.6767950259149074
+            ],
+            [
+                "description",
+                0.6781892642378806
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "app",
+                0.48459992806116736
+            ],
+            [
+                "web",
+                0.6754552125930786
+            ],
+            [
+                "storage",
+                0.6795373558998108
+            ],
+            [
+                "video",
+                0.6830910717447599
+            ],
+            [
+                "iot_device",
+                0.7239970949788889
+            ]
+        ],
+        "concrete_category": "app",
+        "predicted_inputs": [
+            "battlegrounds",
+            "youtube",
+            "facebook"
+        ]
+    },
+    "data/samsung_internal/Galaxy Store/state_2022-11-01_184025384712.json:name": {
+        "app_name": "Galaxy Store",
+        "screenshot_path": "data/samsung_internal/Galaxy Store/screen_2022-11-01_184025384712.png",
+        "best": [
+            "profile",
+            "name"
+        ],
+        "properties": {
+            "activity_name": "com.sec.android.app.billing/.unifiedpayment.activity.CreditCardRegisterActivity",
+            "resource_id": "name",
+            "class": "android.widget.EditText",
+            "pointer": "None",
+            "content_desc": "None",
+            "enabled": "true",
+            "visible": "true",
+            "checked": "false",
+            "selected": "false",
+            "editable": "true",
+            "clickable": "true",
+            "long_clickable": "false",
+            "scrollable_horizontal": "false",
+            "scrollable_vertical": "false",
+            "checkable": "false",
+            "text": "",
+            "text_hint": "None",
+            "bounds": "[86, 725, 994, 859]",
+            "rel_bounds": "[86, 725, 994, 859]",
+            "uid": "2a345e25968f5797cb2151451111b411",
+            "serialize_class": "AndroidViewTree",
+            "package_name": "com.sec.android.app.billing",
+            "fingerprint": "",
+            "type": "textfield",
+            "resource-id": "name",
+            "content-desc": "None"
+        },
+        "primary_categories_ranked": [
+            [
+                "profile",
+                0.4579579561948776
+            ],
+            [
+                "label",
+                0.5616817131638527
+            ],
+            [
+                "auth_code",
+                0.5699611683686574
+            ],
+            [
+                "code",
+                0.6313389840225379
+            ],
+            [
+                "numerical",
+                0.6391724020242691
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "name",
+                0.2786439011494319
+            ],
+            [
+                "phone",
+                0.42954808970292413
+            ],
+            [
+                "username",
+                0.4572511042157809
+            ],
+            [
+                "samsung_account",
+                0.5440809664626916
+            ],
+            [
+                "email",
+                0.6214516336719195
+            ]
+        ],
+        "concrete_category": "name",
+        "predicted_inputs": [
+            "Juyeon Yoon",
+            "Suhee Choi",
+            "Bob Alen"
+        ]
+    },
+    "data/samsung_internal/Galaxy Store/state_2022-11-01_184025384712.json:phoneNumber": {
+        "app_name": "Galaxy Store",
+        "screenshot_path": "data/samsung_internal/Galaxy Store/screen_2022-11-01_184025384712.png",
+        "best": [
+            "numerical",
+            "enum"
+        ],
+        "properties": {
+            "activity_name": "com.sec.android.app.billing/.unifiedpayment.activity.CreditCardRegisterActivity",
+            "resource_id": "phoneNumber",
+            "class": "android.widget.EditText",
+            "pointer": "None",
+            "content_desc": "None",
+            "enabled": "true",
+            "visible": "true",
+            "checked": "false",
+            "selected": "false",
+            "editable": "true",
+            "clickable": "true",
+            "long_clickable": "false",
+            "scrollable_horizontal": "false",
+            "scrollable_vertical": "false",
+            "checkable": "false",
+            "text": "Phone number",
+            "text_hint": "None",
+            "bounds": "[86, 1846, 994, 1980]",
+            "rel_bounds": "[86, 1846, 994, 1980]",
+            "uid": "c025c4a1159390587d3365c4022d4d75",
+            "serialize_class": "AndroidViewTree",
+            "package_name": "com.sec.android.app.billing",
+            "fingerprint": "",
+            "type": "textfield",
+            "resource-id": "phoneNumber",
+            "content-desc": "None"
+        },
+        "primary_categories_ranked": [
+            [
+                "numerical",
+                0.35050805012385045
+            ],
+            [
+                "profile",
+                0.35076441466808317
+            ],
+            [
+                "device_profile",
+                0.4088084084292253
+            ],
+            [
+                "auth_code",
+                0.5042332475384076
+            ],
+            [
+                "code",
+                0.6173713129013776
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "enum",
+                0.38534513985117275
+            ],
+            [
+                "amount",
+                0.647507636497418
+            ],
+            [
+                "ratio",
+                0.6634436113138993
+            ]
+        ],
+        "concrete_category": "enum",
+        "predicted_inputs": [
+            "1",
+            "2",
+            "3"
+        ]
+    },
+    "data/samsung_internal/SmartThings/state_2022-11-01_175008826290.json:inviteAccountText": {
+        "app_name": "SmartThings",
+        "screenshot_path": "data/samsung_internal/SmartThings/screen_2022-11-01_175008826290.png",
+        "best": [
+            "profile",
+            "samsung_account"
+        ],
+        "properties": {
+            "activity_name": "com.samsung.android.oneconnect/.ui.invite.view.InviteUsingEmailActivity",
+            "resource_id": "com.samsung.android.oneconnect:id/inviteAccountText",
+            "class": "android.widget.EditText",
+            "pointer": "None",
+            "content_desc": "None",
+            "enabled": "true",
+            "visible": "true",
+            "checked": "false",
+            "selected": "false",
+            "editable": "true",
+            "clickable": "true",
+            "long_clickable": "true",
+            "scrollable_horizontal": "false",
+            "scrollable_vertical": "false",
+            "checkable": "false",
+            "text": "Samsung account or email address",
+            "text_hint": "None",
+            "bounds": "[63, 463, 1017, 547]",
+            "rel_bounds": "[63, 463, 1017, 547]",
+            "uid": "7c5be68203edfd90d97a865a8ed73c0c",
+            "serialize_class": "AndroidViewTree",
+            "package_name": "com.samsung.android.oneconnect",
+            "fingerprint": "",
+            "type": "textfield",
+            "resource-id": "inviteAccountText",
+            "content-desc": "None"
+        },
+        "primary_categories_ranked": [
+            [
+                "profile",
+                0.2779720182220141
+            ],
+            [
+                "auth_code",
+                0.33439049124717707
+            ],
+            [
+                "ledger",
+                0.42356249193350476
+            ],
+            [
+                "messenger",
+                0.5485413501660029
+            ],
+            [
+                "description",
+                0.6313250496983528
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "samsung_account",
+                0.1031504472096761
+            ],
+            [
+                "email",
+                0.15716430793205896
+            ],
+            [
+                "password",
+                0.5685286124547322
+            ],
+            [
+                "username",
+                0.5771364693840345
+            ],
+            [
+                "phone",
+                0.5982673267523448
+            ]
+        ],
+        "concrete_category": "samsung_account",
+        "predicted_inputs": [
+            "samsung2@samsung.com",
+            "samsung3@samsung.com",
+            "myaccount@samsung.com"
+        ]
+    },
+    "data/samsung_internal/SmartThings/state_2022-11-01_175242663868.json:search_src_text": {
+        "app_name": "SmartThings",
+        "screenshot_path": "data/samsung_internal/SmartThings/screen_2022-11-01_175242663868.png",
+        "best": [
+            "search",
+            "iot_device"
+        ],
+        "properties": {
+            "activity_name": "com.samsung.android.oneconnect/.ui.catalog.adddevice.search.activity.DeviceCatalogSearchActivity",
+            "resource_id": "com.samsung.android.oneconnect:id/search_src_text",
+            "class": "android.widget.EditText",
+            "pointer": "None",
+            "content_desc": "None",
+            "enabled": "true",
+            "visible": "true",
+            "checked": "false",
+            "selected": "false",
+            "editable": "true",
+            "clickable": "true",
+            "long_clickable": "true",
+            "scrollable_horizontal": "false",
+            "scrollable_vertical": "false",
+            "checkable": "false",
+            "text": "Search for a device or brand",
+            "text_hint": "None",
+            "bounds": "[137, 178, 939, 260]",
+            "rel_bounds": "[137, 178, 939, 260]",
+            "uid": "e44212ea8efc951ef178e24a7e8d0684",
+            "serialize_class": "AndroidViewTree",
+            "package_name": "com.samsung.android.oneconnect",
+            "fingerprint": "",
+            "type": "textfield",
+            "resource-id": "search_src_text",
+            "content-desc": "None"
+        },
+        "primary_categories_ranked": [
+            [
+                "search",
+                0.426839904487133
+            ],
+            [
+                "profile",
+                0.6330897351106008
+            ],
+            [
+                "datetime",
+                0.6680190409223238
+            ],
+            [
+                "label",
+                0.6708165366202592
+            ],
+            [
+                "description",
+                0.6770051538944244
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "iot_device",
+                0.1313779279589653
+            ],
+            [
+                "storage",
+                0.6815576180815697
+            ],
+            [
+                "app",
+                0.6834489579002063
+            ],
+            [
+                "location",
+                0.6845607484380405
+            ],
+            [
+                "web",
+                0.7030567998687426
+            ]
+        ],
+        "concrete_category": "iot_device",
+        "predicted_inputs": [
+            "Google Home",
+            "Yeelight",
+            "Amazon Echo"
+        ]
+    },
+    "data/samsung_internal/SmartThings/state_2022-11-01_183300373138.json:edit_text_name": {
+        "app_name": "SmartThings",
+        "screenshot_path": "data/samsung_internal/SmartThings/screen_2022-11-01_183300373138.png",
+        "best": [
+            "location",
+            "location"
+        ],
+        "properties": {
+            "activity_name": "com.samsung.android.oneconnect/.ui.mainmenu.addlocation.AddNewLocationActivity",
+            "resource_id": "com.samsung.android.oneconnect:id/edit_text_name",
+            "class": "android.widget.EditText",
+            "pointer": "None",
+            "content_desc": "None",
+            "enabled": "true",
+            "visible": "true",
+            "checked": "false",
+            "selected": "false",
+            "editable": "true",
+            "clickable": "true",
+            "long_clickable": "true",
+            "scrollable_horizontal": "false",
+            "scrollable_vertical": "false",
+            "checkable": "false",
+            "text": "Name your location",
+            "text_hint": "None",
+            "bounds": "[47, 303, 1017, 466]",
+            "rel_bounds": "[47, 303, 1017, 466]",
+            "uid": "41b60dd63a1c06fa2e35683801704b67",
+            "serialize_class": "AndroidViewTree",
+            "package_name": "com.samsung.android.oneconnect",
+            "fingerprint": "",
+            "type": "textfield",
+            "resource-id": "edit_text_name",
+            "content-desc": "None"
+        },
+        "primary_categories_ranked": [
+            [
+                "location",
+                0.4413842002550761
+            ],
+            [
+                "profile",
+                0.5544105907281239
+            ],
+            [
+                "label",
+                0.6117231398820877
+            ],
+            [
+                "description",
+                0.6152079224586486
+            ],
+            [
+                "auth_code",
+                0.6213804975152015
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "location",
+                0.23313652724027634
+            ],
+            [
+                "city",
+                0.6549953718980153
+            ],
+            [
+                "country",
+                0.7161355788509051
+            ]
+        ],
+        "concrete_category": "location",
+        "predicted_inputs": [
+            "Daejeon",
+            "meeting room",
+            "room 1",
+            "daejeon city hall"
+        ]
+    },
+    "data/samsung_internal/Messages/state_2022-11-01_172019083263.json:recipients_editor_to": {
+        "app_name": "Messages",
+        "screenshot_path": "data/samsung_internal/Messages/screen_2022-11-01_172019083263.png",
+        "best": [
+            "messenger",
+            "recipient"
+        ],
+        "properties": {
+            "activity_name": "com.samsung.android.messaging/com.android.mms.ui.ConversationComposer",
+            "resource_id": "com.samsung.android.messaging:id/recipients_editor_to",
+            "class": "android.widget.EditText",
+            "pointer": "None",
+            "content_desc": "None",
+            "enabled": "true",
+            "visible": "true",
+            "checked": "false",
+            "selected": "false",
+            "editable": "true",
+            "clickable": "true",
+            "long_clickable": "true",
+            "scrollable_horizontal": "false",
+            "scrollable_vertical": "false",
+            "checkable": "false",
+            "text": "Recipient",
+            "text_hint": "None",
+            "bounds": "[58, 262, 918, 328]",
+            "rel_bounds": "[58, 262, 918, 328]",
+            "uid": "382b41f84e0ec16af4026c9965ceb092",
+            "serialize_class": "AndroidViewTree",
+            "package_name": "com.samsung.android.messaging",
+            "fingerprint": "",
+            "type": "textfield",
+            "resource-id": "recipients_editor_to",
+            "content-desc": "None"
+        },
+        "primary_categories_ranked": [
+            [
+                "messenger",
+                0.6031806118786335
+            ],
+            [
+                "profile",
+                0.6702805086970329
+            ],
+            [
+                "auth_code",
+                0.693908992409706
+            ],
+            [
+                "ledger",
+                0.7354891110211611
+            ],
+            [
+                "datetime",
+                0.7585387652119
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "recipient",
+                0.22014928857485452
+            ],
+            [
+                "message",
+                0.48858127184212213
+            ]
+        ],
+        "concrete_category": "recipient",
+        "predicted_inputs": [
+            "Eugene",
+            "Bob",
+            "Alice"
+        ]
+    },
+    "data/samsung_internal/Messages/state_2022-11-01_172019083263.json:message_edit_text": {
+        "app_name": "Messages",
+        "screenshot_path": "data/samsung_internal/Messages/screen_2022-11-01_172019083263.png",
+        "best": [
+            "messenger",
+            "message"
+        ],
+        "properties": {
+            "activity_name": "com.samsung.android.messaging/com.android.mms.ui.ConversationComposer",
+            "resource_id": "com.samsung.android.messaging:id/message_edit_text",
+            "class": "android.widget.EditText",
+            "pointer": "None",
+            "content_desc": "None",
+            "enabled": "true",
+            "visible": "true",
+            "checked": "false",
+            "selected": "false",
+            "editable": "true",
+            "clickable": "true",
+            "long_clickable": "true",
+            "scrollable_horizontal": "false",
+            "scrollable_vertical": "false",
+            "checkable": "false",
+            "text": "",
+            "text_hint": "None",
+            "bounds": "[440, 2154, 914, 2242]",
+            "rel_bounds": "[440, 2154, 914, 2242]",
+            "uid": "4b3fa5f5a2c65a6fcc317f3b44ee4620",
+            "serialize_class": "AndroidViewTree",
+            "package_name": "com.samsung.android.messaging",
+            "fingerprint": "",
+            "type": "textfield",
+            "resource-id": "message_edit_text",
+            "content-desc": "None"
+        },
+        "primary_categories_ranked": [
+            [
+                "messenger",
+                0.3585872856279214
+            ],
+            [
+                "auth_code",
+                0.5883877918124198
+            ],
+            [
+                "profile",
+                0.5956624791026115
+            ],
+            [
+                "description",
+                0.639038631816705
+            ],
+            [
+                "code",
+                0.7456406561036903
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "message",
+                0.2861312267680963
+            ],
+            [
+                "recipient",
+                0.5255843717604876
+            ]
+        ],
+        "concrete_category": "message",
+        "predicted_inputs": [
+            "eugene",
+            "hi",
+            "hello"
+        ]
+    },
+    "data/samsung_internal/Messages/state_2022-11-01_125025142665.json:search_src_text": {
+        "app_name": "Messages",
+        "screenshot_path": "data/samsung_internal/Messages/screen_2022-11-01_125025142665.png",
+        "best": [
+            "search",
+            "web"
+        ],
+        "properties": {
+            "activity_name": "com.samsung.android.messaging/.ui.view.search.SearchActivity",
+            "resource_id": "com.samsung.android.messaging:id/search_src_text",
+            "class": "android.widget.EditText",
+            "pointer": "None",
+            "content_desc": "None",
+            "enabled": "true",
+            "visible": "true",
+            "checked": "false",
+            "selected": "false",
+            "editable": "true",
+            "clickable": "true",
+            "long_clickable": "true",
+            "scrollable_horizontal": "false",
+            "scrollable_vertical": "false",
+            "checkable": "false",
+            "text": "Search",
+            "text_hint": "None",
+            "bounds": "[138, 106, 905, 222]",
+            "rel_bounds": "[138, 106, 905, 222]",
+            "uid": "8c85784f95fbb509751684c1409cf168",
+            "serialize_class": "AndroidViewTree",
+            "package_name": "com.samsung.android.messaging",
+            "fingerprint": "",
+            "type": "textfield",
+            "resource-id": "search_src_text",
+            "content-desc": "None"
+        },
+        "primary_categories_ranked": [
+            [
+                "search",
+                0.4556399515519539
+            ],
+            [
+                "auth_code",
+                0.6840224934120973
+            ],
+            [
+                "description",
+                0.6893851913511753
+            ],
+            [
+                "messenger",
+                0.7095211319625377
+            ],
+            [
+                "profile",
+                0.7201212835808594
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "web",
+                0.7136156621078651
+            ],
+            [
+                "storage",
+                0.7294937806824844
+            ],
+            [
+                "news",
+                0.7410934002449115
+            ],
+            [
+                "book",
+                0.7562464928875366
+            ],
+            [
+                "video",
+                0.758464053273201
+            ]
+        ],
+        "concrete_category": "web",
+        "predicted_inputs": [
+            "www.naver.com",
+            "www.google.com",
+            "How to make an apple pie"
+        ]
+    },
+    "data/samsung_internal/Calendar/state_2022-11-01_172842215734.json:title": {
+        "app_name": "Calendar",
+        "screenshot_path": "data/samsung_internal/Calendar/screen_2022-11-01_172842215734.png",
+        "best": [
+            "label",
+            null
+        ],
+        "properties": {
+            "activity_name": "com.samsung.android.calendar/com.samsung.android.app.calendar.activity.DetailActivity",
+            "resource_id": "com.samsung.android.calendar:id/title",
+            "class": "android.widget.EditText",
+            "pointer": "None",
+            "content_desc": "None",
+            "enabled": "true",
+            "visible": "true",
+            "checked": "false",
+            "selected": "false",
+            "editable": "true",
+            "clickable": "true",
+            "long_clickable": "true",
+            "scrollable_horizontal": "false",
+            "scrollable_vertical": "false",
+            "checkable": "false",
+            "text": "Title",
+            "text_hint": "None",
+            "bounds": "[63, 238, 906, 343]",
+            "rel_bounds": "[63, 238, 906, 343]",
+            "uid": "b8c38a0b2e5438f6c58c9256b982a28b",
+            "serialize_class": "AndroidViewTree",
+            "package_name": "com.samsung.android.calendar",
+            "fingerprint": "",
+            "type": "textfield",
+            "resource-id": "title",
+            "content-desc": "None"
+        },
+        "primary_categories_ranked": [
+            [
+                "label",
+                0.2421195566654205
+            ],
+            [
+                "description",
+                0.5823156577845414
+            ],
+            [
+                "tag",
+                0.615062341094017
+            ],
+            [
+                "datetime",
+                0.6336521543562412
+            ],
+            [
+                "profile",
+                0.6458650360504786
+            ]
+        ],
+        "secondary_categories_ranked": [],
+        "concrete_category": "label",
+        "predicted_inputs": [
+            "name1",
+            "title1",
+            "label1"
+        ]
+    },
+    "data/samsung_internal/Calendar/state_2022-11-01_172842215734.json:location": {
+        "app_name": "Calendar",
+        "screenshot_path": "data/samsung_internal/Calendar/screen_2022-11-01_172842215734.png",
+        "best": [
+            "location",
+            "location"
+        ],
+        "properties": {
+            "activity_name": "com.samsung.android.calendar/com.samsung.android.app.calendar.activity.DetailActivity",
+            "resource_id": "com.samsung.android.calendar:id/location",
+            "class": "android.widget.EditText",
+            "pointer": "None",
+            "content_desc": "None",
+            "enabled": "true",
+            "visible": "true",
+            "checked": "false",
+            "selected": "false",
+            "editable": "true",
+            "clickable": "true",
+            "long_clickable": "true",
+            "scrollable_horizontal": "false",
+            "scrollable_vertical": "false",
+            "checkable": "false",
+            "text": "Location",
+            "text_hint": "None",
+            "bounds": "[167, 907, 996, 1044]",
+            "rel_bounds": "[167, 907, 996, 1044]",
+            "uid": "5c6f07d83d9b5fa70a7e128d51d7b237",
+            "serialize_class": "AndroidViewTree",
+            "package_name": "com.samsung.android.calendar",
+            "fingerprint": "",
+            "type": "textfield",
+            "resource-id": "location",
+            "content-desc": "None"
+        },
+        "primary_categories_ranked": [
+            [
+                "location",
+                0.27741306473811467
+            ],
+            [
+                "datetime",
+                0.5857586365193128
+            ],
+            [
+                "profile",
+                0.6254544630646706
+            ],
+            [
+                "description",
+                0.6387409972647826
+            ],
+            [
+                "auth_code",
+                0.6569874236981075
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "location",
+                0.11815407623847325
+            ],
+            [
+                "city",
+                0.6327794467409452
+            ],
+            [
+                "country",
+                0.7457410258551439
+            ]
+        ],
+        "concrete_category": "location",
+        "predicted_inputs": [
+            "Daejeon",
+            "meeting room",
+            "room 1",
+            "daejeon city hall"
+        ]
+    },
+    "data/samsung_internal/Calendar/state_2022-11-01_172842215734.json:note_text": {
+        "app_name": "Calendar",
+        "screenshot_path": "data/samsung_internal/Calendar/screen_2022-11-01_172842215734.png",
+        "best": [
+            "description",
+            null
+        ],
+        "properties": {
+            "activity_name": "com.samsung.android.calendar/com.samsung.android.app.calendar.activity.DetailActivity",
+            "resource_id": "com.samsung.android.calendar:id/note_text",
+            "class": "android.widget.EditText",
+            "pointer": "None",
+            "content_desc": "None",
+            "enabled": "true",
+            "visible": "true",
+            "checked": "false",
+            "selected": "false",
+            "editable": "true",
+            "clickable": "true",
+            "long_clickable": "true",
+            "scrollable_horizontal": "false",
+            "scrollable_vertical": "false",
+            "checkable": "false",
+            "text": "Notes",
+            "text_hint": "None",
+            "bounds": "[167, 1473, 1017, 1610]",
+            "rel_bounds": "[167, 1473, 1017, 1610]",
+            "uid": "12bd04673b59081e282e5d3620eadc4c",
+            "serialize_class": "AndroidViewTree",
+            "package_name": "com.samsung.android.calendar",
+            "fingerprint": "",
+            "type": "textfield",
+            "resource-id": "note_text",
+            "content-desc": "None"
+        },
+        "primary_categories_ranked": [
+            [
+                "description",
+                0.3755759512384732
+            ],
+            [
+                "auth_code",
+                0.5629099130630493
+            ],
+            [
+                "profile",
+                0.5822514235973358
+            ],
+            [
+                "messenger",
+                0.6244500624636808
+            ],
+            [
+                "datetime",
+                0.6287125925223033
+            ]
+        ],
+        "secondary_categories_ranked": [],
+        "concrete_category": "description",
+        "predicted_inputs": [
+            "with kaist",
+            "1201dinner",
+            "description1"
+        ]
+    },
+    "data/samsung_internal/Gallery/state_2022-11-01_172316447819.json:search_src_text": {
+        "app_name": "Gallery",
+        "screenshot_path": "data/samsung_internal/Gallery/screen_2022-11-01_172316447819.png",
+        "best": [
+            "search",
+            "video"
+        ],
+        "properties": {
+            "activity_name": "com.sec.android.gallery3d/com.samsung.android.gallery.app.activity.GalleryActivity",
+            "resource_id": "com.sec.android.gallery3d:id/search_src_text",
+            "class": "android.widget.EditText",
+            "pointer": "None",
+            "content_desc": "None",
+            "enabled": "true",
+            "visible": "true",
+            "checked": "false",
+            "selected": "false",
+            "editable": "true",
+            "clickable": "true",
+            "long_clickable": "true",
+            "scrollable_horizontal": "false",
+            "scrollable_vertical": "false",
+            "checkable": "false",
+            "text": "Search",
+            "text_hint": "None",
+            "bounds": "[137, 106, 939, 222]",
+            "rel_bounds": "[137, 106, 939, 222]",
+            "uid": "b370d2bd6d49e4de0c206ac4ddd54aff",
+            "serialize_class": "AndroidViewTree",
+            "package_name": "com.sec.android.gallery3d",
+            "fingerprint": "",
+            "type": "textfield",
+            "resource-id": "search_src_text",
+            "content-desc": "None"
+        },
+        "primary_categories_ranked": [
+            [
+                "search",
+                0.4717918990800778
+            ],
+            [
+                "description",
+                0.6624672248959541
+            ],
+            [
+                "auth_code",
+                0.6714304966231187
+            ],
+            [
+                "messenger",
+                0.6794802077114582
+            ],
+            [
+                "profile",
+                0.7024153341849644
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "video",
+                0.4799034545818965
+            ],
+            [
+                "storage",
+                0.5821239973107973
+            ],
+            [
+                "web",
+                0.6977059853573641
+            ],
+            [
+                "music",
+                0.7124956989039978
+            ],
+            [
+                "movie",
+                0.7265437313665947
+            ]
+        ],
+        "concrete_category": "video",
+        "predicted_inputs": [
+            "worldcup",
+            "top pop hits",
+            "kpop"
+        ]
+    },
+    "data/samsung_internal/Contacts/state_2022-11-01_173529930391.json:forCursorEdit": {
+        "app_name": "Contacts",
+        "screenshot_path": "data/samsung_internal/Contacts/screen_2022-11-01_173529930391.png",
+        "best": [
+            "profile",
+            "email"
+        ],
+        "properties": {
+            "activity_name": "com.samsung.android.app.contacts/com.samsung.android.contacts.editor.ContactEditorActivity",
+            "resource_id": "com.samsung.android.app.contacts:id/forCursorEdit",
+            "class": "android.widget.EditText",
+            "pointer": "None",
+            "content_desc": "None",
+            "enabled": "false",
+            "visible": "true",
+            "checked": "false",
+            "selected": "false",
+            "editable": "true",
+            "clickable": "true",
+            "long_clickable": "true",
+            "scrollable_horizontal": "false",
+            "scrollable_vertical": "false",
+            "checkable": "false",
+            "text": "",
+            "text_hint": "None",
+            "bounds": "[158, 1807, 161, 1810]",
+            "rel_bounds": "[158, 1807, 161, 1810]",
+            "uid": "1e448d0258cc03c19ea0e0d4395b3c6c",
+            "serialize_class": "AndroidViewTree",
+            "package_name": "com.samsung.android.app.contacts",
+            "fingerprint": "",
+            "type": "textfield",
+            "resource-id": "forCursorEdit",
+            "content-desc": "None"
+        },
+        "primary_categories_ranked": [
+            [
+                "profile",
+                0.5329538544019062
+            ],
+            [
+                "auth_code",
+                0.6228839534024397
+            ],
+            [
+                "label",
+                0.6634875707328319
+            ],
+            [
+                "description",
+                0.6955694658060868
+            ],
+            [
+                "datetime",
+                0.6958964799841245
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "email",
+                0.48009251927336055
+            ],
+            [
+                "job",
+                0.5335688137759765
+            ],
+            [
+                "company",
+                0.5416770080725352
+            ],
+            [
+                "department",
+                0.5601980014083286
+            ],
+            [
+                "name",
+                0.5785657304028671
+            ]
+        ],
+        "concrete_category": "email",
+        "predicted_inputs": [
+            "samsung3@samsung.com",
+            "asdf123@naver.com",
+            "samsung2@samsung.com"
+        ]
+    },
+    "data/samsung_internal/Contacts/state_2022-11-01_173529930391.json:nameEdit": {
+        "app_name": "Contacts",
+        "screenshot_path": "data/samsung_internal/Contacts/screen_2022-11-01_173529930391.png",
+        "best": [
+            "profile",
+            "name"
+        ],
+        "properties": {
+            "activity_name": "com.samsung.android.app.contacts/com.samsung.android.contacts.editor.ContactEditorActivity",
+            "resource_id": "com.samsung.android.app.contacts:id/nameEdit",
+            "class": "android.widget.EditText",
+            "pointer": "None",
+            "content_desc": "None",
+            "enabled": "true",
+            "visible": "true",
+            "checked": "false",
+            "selected": "false",
+            "editable": "true",
+            "clickable": "true",
+            "long_clickable": "true",
+            "scrollable_horizontal": "false",
+            "scrollable_vertical": "false",
+            "checkable": "false",
+            "text": "Name",
+            "text_hint": "None",
+            "bounds": "[144, 701, 827, 793]",
+            "rel_bounds": "[144, 701, 827, 793]",
+            "uid": "3f49fcaf713cbde7ab98449877ba5976",
+            "serialize_class": "AndroidViewTree",
+            "package_name": "com.samsung.android.app.contacts",
+            "fingerprint": "",
+            "type": "textfield",
+            "resource-id": "nameEdit",
+            "content-desc": "None"
+        },
+        "primary_categories_ranked": [
+            [
+                "profile",
+                0.4362713038921356
+            ],
+            [
+                "label",
+                0.5243905432522297
+            ],
+            [
+                "auth_code",
+                0.5905664232869942
+            ],
+            [
+                "description",
+                0.6277309238910675
+            ],
+            [
+                "tag",
+                0.676510963588953
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "name",
+                0.3703176137059927
+            ],
+            [
+                "email",
+                0.431960800041755
+            ],
+            [
+                "company",
+                0.47010496087993187
+            ],
+            [
+                "username",
+                0.4776834969719251
+            ],
+            [
+                "department",
+                0.5355594217156371
+            ]
+        ],
+        "concrete_category": "name",
+        "predicted_inputs": [
+            "Juyeon Yoon",
+            "Suhee Choi",
+            "Bob Alen"
+        ]
+    },
+    "data/samsung_internal/Contacts/state_2022-11-01_173529930391.json:editOrganizationTitle": {
+        "app_name": "Contacts",
+        "screenshot_path": "data/samsung_internal/Contacts/screen_2022-11-01_173529930391.png",
+        "best": [
+            "profile",
+            "job"
+        ],
+        "properties": {
+            "activity_name": "com.samsung.android.app.contacts/com.samsung.android.contacts.editor.ContactEditorActivity",
+            "resource_id": "com.samsung.android.app.contacts:id/editOrganizationTitle",
+            "class": "android.widget.EditText",
+            "pointer": "None",
+            "content_desc": "None",
+            "enabled": "true",
+            "visible": "true",
+            "checked": "false",
+            "selected": "false",
+            "editable": "true",
+            "clickable": "true",
+            "long_clickable": "true",
+            "scrollable_horizontal": "false",
+            "scrollable_vertical": "false",
+            "checkable": "false",
+            "text": "Job title",
+            "text_hint": "None",
+            "bounds": "[144, 963, 827, 1055]",
+            "rel_bounds": "[144, 963, 827, 1055]",
+            "uid": "7a1375a7d0d3888f78c52195d891e748",
+            "serialize_class": "AndroidViewTree",
+            "package_name": "com.samsung.android.app.contacts",
+            "fingerprint": "",
+            "type": "textfield",
+            "resource-id": "editOrganizationTitle",
+            "content-desc": "None"
+        },
+        "primary_categories_ranked": [
+            [
+                "profile",
+                0.35501793349782623
+            ],
+            [
+                "label",
+                0.41109368105729416
+            ],
+            [
+                "description",
+                0.6332343146204948
+            ],
+            [
+                "auth_code",
+                0.6356938521067301
+            ],
+            [
+                "tag",
+                0.6614325977861881
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "job",
+                0.20512947191794711
+            ],
+            [
+                "company",
+                0.3981357341011365
+            ],
+            [
+                "department",
+                0.4346286778648694
+            ],
+            [
+                "email",
+                0.4683817252516746
+            ],
+            [
+                "name",
+                0.522280290722847
+            ]
+        ],
+        "concrete_category": "job",
+        "predicted_inputs": [
+            "professor",
+            "doctor",
+            "lawyer"
+        ]
+    },
+    "data/samsung_internal/Contacts/state_2022-11-01_173529930391.json:editOrganizationDepartment": {
+        "app_name": "Contacts",
+        "screenshot_path": "data/samsung_internal/Contacts/screen_2022-11-01_173529930391.png",
+        "best": [
+            "profile",
+            "department"
+        ],
+        "properties": {
+            "activity_name": "com.samsung.android.app.contacts/com.samsung.android.contacts.editor.ContactEditorActivity",
+            "resource_id": "com.samsung.android.app.contacts:id/editOrganizationDepartment",
+            "class": "android.widget.EditText",
+            "pointer": "None",
+            "content_desc": "None",
+            "enabled": "true",
+            "visible": "true",
+            "checked": "false",
+            "selected": "false",
+            "editable": "true",
+            "clickable": "true",
+            "long_clickable": "true",
+            "scrollable_horizontal": "false",
+            "scrollable_vertical": "false",
+            "checkable": "false",
+            "text": "Department",
+            "text_hint": "None",
+            "bounds": "[144, 1079, 827, 1171]",
+            "rel_bounds": "[144, 1079, 827, 1171]",
+            "uid": "dd55922b8dbda53f15f78fabce61ac7d",
+            "serialize_class": "AndroidViewTree",
+            "package_name": "com.samsung.android.app.contacts",
+            "fingerprint": "",
+            "type": "textfield",
+            "resource-id": "editOrganizationDepartment",
+            "content-desc": "None"
+        },
+        "primary_categories_ranked": [
+            [
+                "profile",
+                0.3387673964103063
+            ],
+            [
+                "auth_code",
+                0.6424034011860688
+            ],
+            [
+                "label",
+                0.6511546192069847
+            ],
+            [
+                "description",
+                0.7023954436182975
+            ],
+            [
+                "location",
+                0.7087657791872819
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "department",
+                0.23190143518149853
+            ],
+            [
+                "job",
+                0.34934670478105545
+            ],
+            [
+                "company",
+                0.39963963845123845
+            ],
+            [
+                "email",
+                0.4708555315931638
+            ],
+            [
+                "name",
+                0.5867572985589504
+            ]
+        ],
+        "concrete_category": "department",
+        "predicted_inputs": [
+            "mx",
+            "marketing",
+            "sales"
+        ]
+    },
+    "data/samsung_internal/Contacts/state_2022-11-01_173529930391.json:editOrganizationCompany": {
+        "app_name": "Contacts",
+        "screenshot_path": "data/samsung_internal/Contacts/screen_2022-11-01_173529930391.png",
+        "best": [
+            "profile",
+            "company"
+        ],
+        "properties": {
+            "activity_name": "com.samsung.android.app.contacts/com.samsung.android.contacts.editor.ContactEditorActivity",
+            "resource_id": "com.samsung.android.app.contacts:id/editOrganizationCompany",
+            "class": "android.widget.EditText",
+            "pointer": "None",
+            "content_desc": "None",
+            "enabled": "true",
+            "visible": "true",
+            "checked": "false",
+            "selected": "false",
+            "editable": "true",
+            "clickable": "true",
+            "long_clickable": "true",
+            "scrollable_horizontal": "false",
+            "scrollable_vertical": "false",
+            "checkable": "false",
+            "text": "Company",
+            "text_hint": "None",
+            "bounds": "[144, 1195, 827, 1287]",
+            "rel_bounds": "[144, 1195, 827, 1287]",
+            "uid": "5331e810968eb09e5e2b399615b25e55",
+            "serialize_class": "AndroidViewTree",
+            "package_name": "com.samsung.android.app.contacts",
+            "fingerprint": "",
+            "type": "textfield",
+            "resource-id": "editOrganizationCompany",
+            "content-desc": "None"
+        },
+        "primary_categories_ranked": [
+            [
+                "profile",
+                0.32645297000805534
+            ],
+            [
+                "label",
+                0.6109000680347283
+            ],
+            [
+                "auth_code",
+                0.6406554264326889
+            ],
+            [
+                "description",
+                0.7027404079834619
+            ],
+            [
+                "location",
+                0.7216264846424263
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "company",
+                0.22510106085489195
+            ],
+            [
+                "job",
+                0.3436768079797427
+            ],
+            [
+                "department",
+                0.4213582059989373
+            ],
+            [
+                "email",
+                0.4695050604641437
+            ],
+            [
+                "name",
+                0.563618698467811
+            ]
+        ],
+        "concrete_category": "company",
+        "predicted_inputs": [
+            "samsung",
+            "google",
+            "apple"
+        ]
+    },
+    "data/samsung_internal/Contacts/state_2022-11-01_173146572934.json:search_src_text": {
+        "app_name": "Contacts",
+        "screenshot_path": "data/samsung_internal/Contacts/screen_2022-11-01_173146572934.png",
+        "best": [
+            "search",
+            "web"
+        ],
+        "properties": {
+            "activity_name": "com.samsung.android.app.contacts/com.samsung.android.contacts.search.activity.ContactSearchActivity",
+            "resource_id": "com.samsung.android.app.contacts:id/search_src_text",
+            "class": "android.widget.EditText",
+            "pointer": "None",
+            "content_desc": "None",
+            "enabled": "true",
+            "visible": "true",
+            "checked": "false",
+            "selected": "false",
+            "editable": "true",
+            "clickable": "true",
+            "long_clickable": "true",
+            "scrollable_horizontal": "false",
+            "scrollable_vertical": "false",
+            "checkable": "false",
+            "text": "Search",
+            "text_hint": "None",
+            "bounds": "[137, 106, 939, 222]",
+            "rel_bounds": "[137, 106, 939, 222]",
+            "uid": "53f4b26f263bd2f20df915dd16db744e",
+            "serialize_class": "AndroidViewTree",
+            "package_name": "com.samsung.android.app.contacts",
+            "fingerprint": "",
+            "type": "textfield",
+            "resource-id": "search_src_text",
+            "content-desc": "None"
+        },
+        "primary_categories_ranked": [
+            [
+                "search",
+                0.4556399515519539
+            ],
+            [
+                "auth_code",
+                0.6840224934120973
+            ],
+            [
+                "description",
+                0.6893851913511753
+            ],
+            [
+                "messenger",
+                0.7095211319625377
+            ],
+            [
+                "profile",
+                0.7201212835808594
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "web",
+                0.7136156621078651
+            ],
+            [
+                "storage",
+                0.7294937806824844
+            ],
+            [
+                "news",
+                0.7410934002449115
+            ],
+            [
+                "book",
+                0.7562464928875366
+            ],
+            [
+                "video",
+                0.758464053273201
+            ]
+        ],
+        "concrete_category": "web",
+        "predicted_inputs": [
+            "www.naver.com",
+            "www.google.com",
+            "How to make an apple pie"
+        ]
+    },
+    "data/samsung_internal/Samsung Members/state_2022-11-02_101955202341.json:inputEditText": {
+        "app_name": "Samsung Members",
+        "screenshot_path": "data/samsung_internal/Samsung Members/screen_2022-11-02_101955202341.png",
+        "best": [
+            "device_profile",
+            "serial_number"
+        ],
+        "properties": {
+            "activity_name": "com.samsung.android.voc/.myproduct.register.ProductRegisterActivity",
+            "resource_id": "com.samsung.android.voc:id/inputEditText",
+            "class": "android.widget.EditText",
+            "pointer": "None",
+            "content_desc": "None",
+            "enabled": "true",
+            "visible": "true",
+            "checked": "false",
+            "selected": "false",
+            "editable": "true",
+            "clickable": "true",
+            "long_clickable": "true",
+            "scrollable_horizontal": "false",
+            "scrollable_vertical": "false",
+            "checkable": "false",
+            "text": "None",
+            "text_hint": "None",
+            "bounds": "[47, 825, 1017, 922]",
+            "rel_bounds": "[47, 825, 1017, 922]",
+            "uid": "89b573c1d10401ea5d9e839fb97eaf1a",
+            "serialize_class": "AndroidViewTree",
+            "package_name": "com.samsung.android.voc",
+            "fingerprint": "",
+            "type": "textfield",
+            "resource-id": "inputEditText",
+            "content-desc": "None"
+        },
+        "primary_categories_ranked": [
+            [
+                "device_profile",
+                0.5856691269824902
+            ],
+            [
+                "profile",
+                0.6099524825811385
+            ],
+            [
+                "description",
+                0.6387559418876965
+            ],
+            [
+                "numerical",
+                0.6481558022399743
+            ],
+            [
+                "auth_code",
+                0.6487383762995402
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "serial_number",
+                0.47755449203153455
+            ],
+            [
+                "model_name",
+                0.5386173518685002
+            ]
+        ],
+        "concrete_category": "serial_number",
+        "predicted_inputs": [
+            "MSIP-RMM-SEC-LH65DMD",
+            "LC24B550U/XY",
+            "AF0B3CFL501325B"
+        ]
+    },
+    "data/samsung_internal/Samsung Members/state_2022-11-02_101839943819.json:nickname": {
+        "app_name": "Samsung Members",
+        "screenshot_path": "data/samsung_internal/Samsung Members/screen_2022-11-02_101839943819.png",
+        "best": [
+            "profile",
+            "username"
+        ],
+        "properties": {
+            "activity_name": "com.samsung.android.voc/.community.myprofile.ProfileEditActivity",
+            "resource_id": "com.samsung.android.voc:id/nickname",
+            "class": "android.widget.EditText",
+            "pointer": "None",
+            "content_desc": "None",
+            "enabled": "true",
+            "visible": "true",
+            "checked": "false",
+            "selected": "false",
+            "editable": "true",
+            "clickable": "true",
+            "long_clickable": "true",
+            "scrollable_horizontal": "false",
+            "scrollable_vertical": "false",
+            "checkable": "false",
+            "text": "Nickname",
+            "text_hint": "None",
+            "bounds": "[63, 1622, 751, 1707]",
+            "rel_bounds": "[63, 1622, 751, 1707]",
+            "uid": "cc8e6926ffee83ae4239837a93a5be26",
+            "serialize_class": "AndroidViewTree",
+            "package_name": "com.samsung.android.voc",
+            "fingerprint": "",
+            "type": "textfield",
+            "resource-id": "nickname",
+            "content-desc": "None"
+        },
+        "primary_categories_ranked": [
+            [
+                "profile",
+                0.6354260449608167
+            ],
+            [
+                "label",
+                0.6795804861932992
+            ],
+            [
+                "description",
+                0.73734130859375
+            ],
+            [
+                "music",
+                0.7601329476883013
+            ],
+            [
+                "tag",
+                0.7638853520154952
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "username",
+                0.3134225991864999
+            ],
+            [
+                "name",
+                0.5065520976980527
+            ],
+            [
+                "password",
+                0.7333286367356777
+            ],
+            [
+                "phone",
+                0.7392611497392257
+            ],
+            [
+                "email",
+                0.7555457030733427
+            ]
+        ],
+        "concrete_category": "username",
+        "predicted_inputs": [
+            "samsung123",
+            "greenmon2",
+            "colddog"
+        ]
+    },
+    "data/samsung_internal/My Files/state_2022-11-02_100330860289.json:search_src_text": {
+        "app_name": "My Files",
+        "screenshot_path": "data/samsung_internal/My Files/screen_2022-11-02_100330860289.png",
+        "best": [
+            "search",
+            "storage"
+        ],
+        "properties": {
+            "activity_name": "com.sec.android.app.myfiles/.external.ui.MainActivity",
+            "resource_id": "com.sec.android.app.myfiles:id/search_src_text",
+            "class": "android.widget.EditText",
+            "pointer": "None",
+            "content_desc": "None",
+            "enabled": "true",
+            "visible": "true",
+            "checked": "false",
+            "selected": "false",
+            "editable": "true",
+            "clickable": "true",
+            "long_clickable": "true",
+            "scrollable_horizontal": "false",
+            "scrollable_vertical": "false",
+            "checkable": "false",
+            "text": "Search",
+            "text_hint": "None",
+            "bounds": "[137, 106, 939, 222]",
+            "rel_bounds": "[137, 106, 939, 222]",
+            "uid": "2fcff61a871a31d9fc069d074d991edb",
+            "serialize_class": "AndroidViewTree",
+            "package_name": "com.sec.android.app.myfiles",
+            "fingerprint": "",
+            "type": "textfield",
+            "resource-id": "search_src_text",
+            "content-desc": "None"
+        },
+        "primary_categories_ranked": [
+            [
+                "search",
+                0.4639335094640652
+            ],
+            [
+                "description",
+                0.6606723263859748
+            ],
+            [
+                "auth_code",
+                0.6642065477867921
+            ],
+            [
+                "messenger",
+                0.6751116275787353
+            ],
+            [
+                "profile",
+                0.6828954105575878
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "storage",
+                0.4450510715444883
+            ],
+            [
+                "video",
+                0.457637757062912
+            ],
+            [
+                "web",
+                0.6887609226008257
+            ],
+            [
+                "music",
+                0.6942665434132019
+            ],
+            [
+                "book",
+                0.702798572058479
+            ]
+        ],
+        "concrete_category": "storage",
+        "predicted_inputs": [
+            "filename",
+            "father",
+            "hi",
+            "love dive",
+            "drug store",
+            "sound",
+            "20221201"
+        ]
+    },
+    "data/samsung_internal/My Files/state_2022-11-02_100555195131.json:search_src_text": {
+        "app_name": "My Files",
+        "screenshot_path": "data/samsung_internal/My Files/screen_2022-11-02_100555195131.png",
+        "best": [
+            "search",
+            "storage"
+        ],
+        "properties": {
+            "activity_name": "com.sec.android.app.myfiles/.external.ui.MainActivity",
+            "resource_id": "com.sec.android.app.myfiles:id/search_src_text",
+            "class": "android.widget.EditText",
+            "pointer": "None",
+            "content_desc": "None",
+            "enabled": "true",
+            "visible": "true",
+            "checked": "false",
+            "selected": "false",
+            "editable": "true",
+            "clickable": "true",
+            "long_clickable": "true",
+            "scrollable_horizontal": "false",
+            "scrollable_vertical": "false",
+            "checkable": "false",
+            "text": "Search",
+            "text_hint": "None",
+            "bounds": "[137, 106, 939, 222]",
+            "rel_bounds": "[137, 106, 939, 222]",
+            "uid": "2fcff61a871a31d9fc069d074d991edb",
+            "serialize_class": "AndroidViewTree",
+            "package_name": "com.sec.android.app.myfiles",
+            "fingerprint": "",
+            "type": "textfield",
+            "resource-id": "search_src_text",
+            "content-desc": "None"
+        },
+        "primary_categories_ranked": [
+            [
+                "search",
+                0.45947310167054334
+            ],
+            [
+                "description",
+                0.6561661273241043
+            ],
+            [
+                "auth_code",
+                0.6632476759453614
+            ],
+            [
+                "messenger",
+                0.6751116275787353
+            ],
+            [
+                "profile",
+                0.6828954105575878
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "storage",
+                0.4368847707907359
+            ],
+            [
+                "video",
+                0.4536759952704112
+            ],
+            [
+                "web",
+                0.6881122353176277
+            ],
+            [
+                "music",
+                0.6927929849674305
+            ],
+            [
+                "book",
+                0.7000231761485338
+            ]
+        ],
+        "concrete_category": "storage",
+        "predicted_inputs": [
+            "filename",
+            "father",
+            "hi",
+            "love dive",
+            "drug store",
+            "sound",
+            "20221201"
+        ]
+    },
+    "data/samsung_internal/Samsung Internet/state_2022-11-01_184749322308.json:location_bar_edit_text": {
+        "app_name": "Samsung Internet",
+        "screenshot_path": "data/samsung_internal/Samsung Internet/screen_2022-11-01_184749322308.png",
+        "best": [
+            "search",
+            "web"
+        ],
+        "properties": {
+            "activity_name": "com.sec.android.app.sbrowser/.SBrowserMainActivity",
+            "resource_id": "com.sec.android.app.sbrowser:id/location_bar_edit_text",
+            "class": "android.widget.EditText",
+            "pointer": "None",
+            "content_desc": "None",
+            "enabled": "true",
+            "visible": "true",
+            "checked": "false",
+            "selected": "false",
+            "editable": "true",
+            "clickable": "true",
+            "long_clickable": "true",
+            "scrollable_horizontal": "false",
+            "scrollable_vertical": "false",
+            "checkable": "false",
+            "text": "Search or enter URL",
+            "text_hint": "None",
+            "bounds": "[205, 106, 959, 206]",
+            "rel_bounds": "[205, 106, 959, 206]",
+            "uid": "3790f1a46c671e6c0702330849f8e12b",
+            "serialize_class": "AndroidViewTree",
+            "package_name": "com.sec.android.app.sbrowser",
+            "fingerprint": "",
+            "type": "textfield",
+            "resource-id": "location_bar_edit_text",
+            "content-desc": "None"
+        },
+        "primary_categories_ranked": [
+            [
+                "search",
+                0.423888948559761
+            ],
+            [
+                "location",
+                0.5344934381544589
+            ],
+            [
+                "description",
+                0.5682165945569675
+            ],
+            [
+                "profile",
+                0.6229027678569158
+            ],
+            [
+                "auth_code",
+                0.6453465859095255
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "web",
+                0.377252034842968
+            ],
+            [
+                "location",
+                0.5252218618988991
+            ],
+            [
+                "storage",
+                0.6588822851578394
+            ],
+            [
+                "video",
+                0.6934913843870163
+            ],
+            [
+                "country_code",
+                0.7237251549959183
+            ]
+        ],
+        "concrete_category": "web",
+        "predicted_inputs": [
+            "www.naver.com",
+            "www.google.com",
+            "How to make an apple pie"
+        ]
+    },
+    "data/samsung_internal/Clock/state_2022-11-01_184255456720.json:numberpicker_input": {
+        "app_name": "Clock",
+        "screenshot_path": "data/samsung_internal/Clock/screen_2022-11-01_184255456720.png",
+        "best": [
+            "numerical",
+            "enum"
+        ],
+        "properties": {
+            "activity_name": "com.sec.android.app.clockpackage/.alarm.activity.AlarmEditActivity",
+            "resource_id": "com.sec.android.app.clockpackage:id/numberpicker_input",
+            "class": "android.widget.EditText",
+            "pointer": "None",
+            "content_desc": "None",
+            "enabled": "true",
+            "visible": "true",
+            "checked": "false",
+            "selected": "false",
+            "editable": "true",
+            "clickable": "true",
+            "long_clickable": "false",
+            "scrollable_horizontal": "false",
+            "scrollable_vertical": "false",
+            "checkable": "false",
+            "text": "00",
+            "text_hint": "None",
+            "bounds": "[612, 408, 936, 645]",
+            "rel_bounds": "[612, 408, 936, 645]",
+            "uid": "fb0c6997270766a7cfb6c87368cd6736",
+            "serialize_class": "AndroidViewTree",
+            "package_name": "com.sec.android.app.clockpackage",
+            "fingerprint": "",
+            "type": "textfield",
+            "resource-id": "numberpicker_input",
+            "content-desc": "None"
+        },
+        "primary_categories_ranked": [
+            [
+                "numerical",
+                0.510179037352403
+            ],
+            [
+                "device_profile",
+                0.5679475272695222
+            ],
+            [
+                "profile",
+                0.6469239550332228
+            ],
+            [
+                "datetime",
+                0.6998903589944045
+            ],
+            [
+                "auth_code",
+                0.716889085372289
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "enum",
+                0.5746872549255689
+            ],
+            [
+                "amount",
+                0.7053526223947605
+            ],
+            [
+                "ratio",
+                0.7446516714990139
+            ]
+        ],
+        "concrete_category": "enum",
+        "predicted_inputs": [
+            "1",
+            "2",
+            "3"
+        ]
+    },
+    "data/samsung_internal/Clock/state_2022-11-01_184255456720.json:alarm_name": {
+        "app_name": "Clock",
+        "screenshot_path": "data/samsung_internal/Clock/screen_2022-11-01_184255456720.png",
+        "best": [
+            "profile",
+            "name"
+        ],
+        "properties": {
+            "activity_name": "com.sec.android.app.clockpackage/.alarm.activity.AlarmEditActivity",
+            "resource_id": "com.sec.android.app.clockpackage:id/alarm_name",
+            "class": "android.widget.EditText",
+            "pointer": "None",
+            "content_desc": "None",
+            "enabled": "true",
+            "visible": "true",
+            "checked": "false",
+            "selected": "false",
+            "editable": "true",
+            "clickable": "true",
+            "long_clickable": "true",
+            "scrollable_horizontal": "false",
+            "scrollable_vertical": "false",
+            "checkable": "false",
+            "text": "Alarm name",
+            "text_hint": "None",
+            "bounds": "[47, 1388, 1017, 1475]",
+            "rel_bounds": "[47, 1388, 1017, 1475]",
+            "uid": "51b277ef37ca87d253df4b9606b9c310",
+            "serialize_class": "AndroidViewTree",
+            "package_name": "com.sec.android.app.clockpackage",
+            "fingerprint": "",
+            "type": "textfield",
+            "resource-id": "alarm_name",
+            "content-desc": "None"
+        },
+        "primary_categories_ranked": [
+            [
+                "profile",
+                0.5607384338974952
+            ],
+            [
+                "label",
+                0.6445785898715257
+            ],
+            [
+                "auth_code",
+                0.675404717028141
+            ],
+            [
+                "datetime",
+                0.7041572976857424
+            ],
+            [
+                "tag",
+                0.7288887245580554
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "name",
+                0.41174600552767515
+            ],
+            [
+                "username",
+                0.5432945073892673
+            ],
+            [
+                "phone",
+                0.646384843935569
+            ],
+            [
+                "email",
+                0.6693187579512596
+            ],
+            [
+                "password",
+                0.6781884375959635
+            ]
+        ],
+        "concrete_category": "name",
+        "predicted_inputs": [
+            "Juyeon Yoon",
+            "Suhee Choi",
+            "Bob Alen"
+        ]
+    },
+    "data/samsung_internal/Clock/state_2022-11-01_184421020236.json:worldclock_search_map_txt_find": {
+        "app_name": "Clock",
+        "screenshot_path": "data/samsung_internal/Clock/screen_2022-11-01_184421020236.png",
+        "best": [
+            "location",
+            "country"
+        ],
+        "properties": {
+            "activity_name": "com.sec.android.app.clockpackage/.worldclock.viewmodel.WorldclockGlobeMain",
+            "resource_id": "com.sec.android.app.clockpackage:id/worldclock_search_map_txt_find",
+            "class": "android.widget.EditText",
+            "pointer": "None",
+            "content_desc": "None",
+            "enabled": "true",
+            "visible": "true",
+            "checked": "false",
+            "selected": "false",
+            "editable": "true",
+            "clickable": "true",
+            "long_clickable": "true",
+            "scrollable_horizontal": "false",
+            "scrollable_vertical": "false",
+            "checkable": "false",
+            "text": "City/country/region",
+            "text_hint": "None",
+            "bounds": "[158, 140, 928, 256]",
+            "rel_bounds": "[158, 140, 928, 256]",
+            "uid": "16adb8c6527f4412ad75dc214239b2dd",
+            "serialize_class": "AndroidViewTree",
+            "package_name": "com.sec.android.app.clockpackage",
+            "fingerprint": "",
+            "type": "textfield",
+            "resource-id": "worldclock_search_map_txt_find",
+            "content-desc": "None"
+        },
+        "primary_categories_ranked": [
+            [
+                "location",
+                0.0
+            ],
+            [
+                "profile",
+                0.35945839633544285
+            ],
+            [
+                "search",
+                0.3857767196993033
+            ],
+            [
+                "auth_code",
+                0.5902862730125586
+            ],
+            [
+                "description",
+                0.7156446439524491
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "country",
+                0.16187579929828644
+            ],
+            [
+                "city",
+                0.19146188100179037
+            ],
+            [
+                "location",
+                0.6046186039845148
+            ]
+        ],
+        "concrete_category": "country",
+        "predicted_inputs": [
+            "Korea",
+            "Algeria",
+            "Argentina"
+        ]
+    },
+    "data/samsung_internal/Clock/state_2022-11-01_184455299444.json:hour": {
+        "app_name": "Clock",
+        "screenshot_path": "data/samsung_internal/Clock/screen_2022-11-01_184455299444.png",
+        "best": [
+            "datetime",
+            "hour"
+        ],
+        "properties": {
+            "activity_name": "com.sec.android.app.clockpackage/.ClockPackage",
+            "resource_id": "com.sec.android.app.clockpackage:id/hour",
+            "class": "android.widget.EditText",
+            "pointer": "None",
+            "content_desc": "None",
+            "enabled": "true",
+            "visible": "true",
+            "checked": "false",
+            "selected": "false",
+            "editable": "true",
+            "clickable": "true",
+            "long_clickable": "true",
+            "scrollable_horizontal": "false",
+            "scrollable_vertical": "false",
+            "checkable": "false",
+            "text": "00",
+            "text_hint": "None",
+            "bounds": "[48, 1787, 169, 1886]",
+            "rel_bounds": "[48, 1787, 169, 1886]",
+            "uid": "787a173ee52daf26bec91c7c87282150",
+            "serialize_class": "AndroidViewTree",
+            "package_name": "com.sec.android.app.clockpackage",
+            "fingerprint": "",
+            "type": "textfield",
+            "resource-id": "hour",
+            "content-desc": "None"
+        },
+        "primary_categories_ranked": [
+            [
+                "datetime",
+                0.6452925351758797
+            ],
+            [
+                "profile",
+                0.7443725939840078
+            ],
+            [
+                "numerical",
+                0.7736531011760234
+            ],
+            [
+                "messenger",
+                0.7893378137300412
+            ],
+            [
+                "auth_code",
+                0.8207746834804613
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "hour",
+                0.46299660826722777
+            ],
+            [
+                "minute",
+                0.5703370794653893
+            ],
+            [
+                "time",
+                0.6443105116486549
+            ],
+            [
+                "month",
+                0.6948007779816786
+            ],
+            [
+                "second",
+                0.7687548676816126
+            ]
+        ],
+        "concrete_category": "hour",
+        "predicted_inputs": [
+            "14",
+            "10",
+            "1"
+        ]
+    },
+    "data/samsung_internal/Clock/state_2022-11-01_184455299444.json:minute": {
+        "app_name": "Clock",
+        "screenshot_path": "data/samsung_internal/Clock/screen_2022-11-01_184455299444.png",
+        "best": [
+            "datetime",
+            "minute"
+        ],
+        "properties": {
+            "activity_name": "com.sec.android.app.clockpackage/.ClockPackage",
+            "resource_id": "com.sec.android.app.clockpackage:id/minute",
+            "class": "android.widget.EditText",
+            "pointer": "None",
+            "content_desc": "None",
+            "enabled": "true",
+            "visible": "true",
+            "checked": "false",
+            "selected": "false",
+            "editable": "true",
+            "clickable": "true",
+            "long_clickable": "true",
+            "scrollable_horizontal": "false",
+            "scrollable_vertical": "false",
+            "checkable": "false",
+            "text": "00",
+            "text_hint": "None",
+            "bounds": "[201, 1787, 322, 1886]",
+            "rel_bounds": "[201, 1787, 322, 1886]",
+            "uid": "4d974e44eff699a31b813f309cf0fe8b",
+            "serialize_class": "AndroidViewTree",
+            "package_name": "com.sec.android.app.clockpackage",
+            "fingerprint": "",
+            "type": "textfield",
+            "resource-id": "minute",
+            "content-desc": "None"
+        },
+        "primary_categories_ranked": [
+            [
+                "datetime",
+                0.6462606328229109
+            ],
+            [
+                "profile",
+                0.7566134927173455
+            ],
+            [
+                "numerical",
+                0.7633724590142567
+            ],
+            [
+                "description",
+                0.7907887789731223
+            ],
+            [
+                "code",
+                0.8031242116043964
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "minute",
+                0.45477667450904846
+            ],
+            [
+                "hour",
+                0.5785570132235686
+            ],
+            [
+                "time",
+                0.6388958469033241
+            ],
+            [
+                "month",
+                0.7159470344583193
+            ],
+            [
+                "second",
+                0.741551266827931
+            ]
+        ],
+        "concrete_category": "minute",
+        "predicted_inputs": [
+            "00",
+            "10",
+            "30"
+        ]
+    },
+    "data/samsung_internal/Clock/state_2022-11-01_184455299444.json:second": {
+        "app_name": "Clock",
+        "screenshot_path": "data/samsung_internal/Clock/screen_2022-11-01_184455299444.png",
+        "best": [
+            "datetime",
+            "second"
+        ],
+        "properties": {
+            "activity_name": "com.sec.android.app.clockpackage/.ClockPackage",
+            "resource_id": "com.sec.android.app.clockpackage:id/second",
+            "class": "android.widget.EditText",
+            "pointer": "None",
+            "content_desc": "None",
+            "enabled": "true",
+            "visible": "true",
+            "checked": "false",
+            "selected": "false",
+            "editable": "true",
+            "clickable": "true",
+            "long_clickable": "true",
+            "scrollable_horizontal": "false",
+            "scrollable_vertical": "false",
+            "checkable": "false",
+            "text": "00",
+            "text_hint": "None",
+            "bounds": "[354, 1787, 475, 1886]",
+            "rel_bounds": "[354, 1787, 475, 1886]",
+            "uid": "484d3e7feca69f9d55d8788cb4159dff",
+            "serialize_class": "AndroidViewTree",
+            "package_name": "com.sec.android.app.clockpackage",
+            "fingerprint": "",
+            "type": "textfield",
+            "resource-id": "second",
+            "content-desc": "None"
+        },
+        "primary_categories_ranked": [
+            [
+                "datetime",
+                0.6586182167132695
+            ],
+            [
+                "profile",
+                0.7414007841298977
+            ],
+            [
+                "label",
+                0.7810125075280665
+            ],
+            [
+                "numerical",
+                0.781184734776616
+            ],
+            [
+                "description",
+                0.8024228138849139
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "second",
+                0.5160047913280627
+            ],
+            [
+                "time",
+                0.6730150990188122
+            ],
+            [
+                "minute",
+                0.6803231500089169
+            ],
+            [
+                "month",
+                0.7154287646214167
+            ],
+            [
+                "hour",
+                0.7157466846207777
+            ]
+        ],
+        "concrete_category": "second",
+        "predicted_inputs": [
+            "40",
+            "00",
+            "30"
+        ]
+    },
+    "data/samsung_internal/Clock/state_2022-11-01_184455299444.json:preset_name": {
+        "app_name": "Clock",
+        "screenshot_path": "data/samsung_internal/Clock/screen_2022-11-01_184455299444.png",
+        "best": [
+            "profile",
+            "name"
+        ],
+        "properties": {
+            "activity_name": "com.sec.android.app.clockpackage/.ClockPackage",
+            "resource_id": "com.sec.android.app.clockpackage:id/preset_name",
+            "class": "android.widget.EditText",
+            "pointer": "None",
+            "content_desc": "None",
+            "enabled": "true",
+            "visible": "true",
+            "checked": "false",
+            "selected": "false",
+            "editable": "true",
+            "clickable": "true",
+            "long_clickable": "true",
+            "scrollable_horizontal": "false",
+            "scrollable_vertical": "false",
+            "checkable": "false",
+            "text": "Preset timer name",
+            "text_hint": "None",
+            "bounds": "[48, 1944, 1016, 2031]",
+            "rel_bounds": "[48, 1944, 1016, 2031]",
+            "uid": "56cbd3edc5d5ea53ffe4d861c0b25089",
+            "serialize_class": "AndroidViewTree",
+            "package_name": "com.sec.android.app.clockpackage",
+            "fingerprint": "",
+            "type": "textfield",
+            "resource-id": "preset_name",
+            "content-desc": "None"
+        },
+        "primary_categories_ranked": [
+            [
+                "profile",
+                0.6251765569051106
+            ],
+            [
+                "label",
+                0.6569336296369631
+            ],
+            [
+                "auth_code",
+                0.7104573977490265
+            ],
+            [
+                "numerical",
+                0.7140105287233988
+            ],
+            [
+                "tag",
+                0.7238606167336303
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "name",
+                0.4581761391212543
+            ],
+            [
+                "username",
+                0.5324942568937937
+            ],
+            [
+                "password",
+                0.6870301812887192
+            ],
+            [
+                "email",
+                0.7171412569781144
+            ],
+            [
+                "phone",
+                0.7313454933464527
+            ]
+        ],
+        "concrete_category": "name",
+        "predicted_inputs": [
+            "Juyeon Yoon",
+            "Suhee Choi",
+            "Bob Alen"
+        ]
+    }
+}

@@ -1,0 +1,73 @@
+{
+  "previous_actions": [
+    [
+      {
+        "index": "5",
+        "package": "deep.ryd.rydplayer",
+        "class": "android.view.View",
+        "text": "",
+        "content-desc": "Library\nTab 3 of 3",
+        "resource-id": "",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[720,220][1080,424]",
+        "displayed": "true"
+      },
+      "271078467"
+    ],
+    [
+      {
+        "index": "2",
+        "package": "deep.ryd.rydplayer",
+        "class": "android.widget.Button",
+        "text": "",
+        "resource-id": "",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[882,1768][1036,1922]",
+        "displayed": "true"
+      },
+      "271078467"
+    ],
+    [
+      {
+        "index": "1",
+        "package": "deep.ryd.rydplayer",
+        "class": "android.widget.Button",
+        "text": "",
+        "content-desc": "Import from YouTube",
+        "resource-id": "",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[155,1210][925,1342]",
+        "displayed": "true"
+      },
+      "-810896823"
+    ]
+  ],
+  "current_screen": "-762092943"
+}

@@ -1,0 +1,20 @@
+{
+  "index": "0",
+  "package": "com.whatsapp",
+  "class": "android.widget.EditText",
+  "text": "\u2013\u2013\u2013\u00a0\u2013\u2013\u2013",
+  "resource-id": "com.whatsapp:id/verify_sms_code_input",
+  "checkable": "false",
+  "checked": "false",
+  "clickable": "true",
+  "enabled": "true",
+  "focusable": "true",
+  "focused": "true",
+  "long-clickable": "true",
+  "password": "false",
+  "scrollable": "false",
+  "selected": "false",
+  "bounds": "[320,392][760,474]",
+  "displayed": "true",
+  "sent_text": "801346"
+}

@@ -1,0 +1,49 @@
+{
+  "previous_actions": [
+    [
+      {
+        "index": "0",
+        "package": "com.poupa.vinylmusicplayer",
+        "class": "android.widget.Button",
+        "text": "GET STARTED",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[371,1152][710,1284]",
+        "displayed": "true"
+      },
+      "-873657479"
+    ],
+    [
+      {
+        "index": "0",
+        "package": "com.poupa.vinylmusicplayer",
+        "class": "android.widget.TextView",
+        "text": "",
+        "content-desc": "Search",
+        "resource-id": "com.poupa.vinylmusicplayer:id/action_search",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[837,77][969,209]",
+        "displayed": "true"
+      },
+      "741334294"
+    ]
+  ],
+  "current_screen": "404149954"
+}

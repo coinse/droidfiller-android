@@ -1,0 +1,20 @@
+{
+  "index": "1",
+  "package": "me.hackerchick.catima",
+  "class": "android.widget.EditText",
+  "text": "AB1234",
+  "resource-id": "me.hackerchick.catima:id/cardId",
+  "checkable": "false",
+  "checked": "false",
+  "clickable": "true",
+  "enabled": "true",
+  "focusable": "true",
+  "focused": "false",
+  "long-clickable": "true",
+  "password": "false",
+  "scrollable": "false",
+  "selected": "false",
+  "bounds": "[285,408][1052,540]",
+  "displayed": "true",
+  "sent_text": "A12345A"
+}

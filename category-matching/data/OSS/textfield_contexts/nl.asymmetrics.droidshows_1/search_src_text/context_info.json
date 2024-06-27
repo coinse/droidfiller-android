@@ -1,0 +1,49 @@
+{
+  "previous_actions": [
+    [
+      {
+        "index": "1",
+        "package": "android",
+        "class": "android.widget.Button",
+        "text": "OK",
+        "resource-id": "android:id/button1",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[799,1257][975,1406]",
+        "displayed": "true"
+      },
+      "202607886"
+    ],
+    [
+      {
+        "index": "1",
+        "package": "nl.asymmetrics.droidshows",
+        "class": "android.widget.Button",
+        "text": "ADD SHOW",
+        "resource-id": "nl.asymmetrics.droidshows:id/add_show",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[407,323][672,455]",
+        "displayed": "true"
+      },
+      "-1909396126"
+    ]
+  ],
+  "current_screen": "-924464529"
+}

@@ -1,0 +1,5393 @@
+{
+    "data/OSS/textfield_contexts/Plex_Stream_Movies_TV_1/-1469543694": {
+        "app_name": "Plex_Stream_Movies_TV",
+        "screenshot_path": "data/OSS/snapshots/Plex_Stream_Movies_TV/2009846125/screenshot.png",
+        "best": [
+            "search",
+            "music"
+        ],
+        "properties": {
+            "index": "0",
+            "package": "com.plexapp.android",
+            "class": "android.widget.EditText",
+            "text": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "true",
+            "long-clickable": "true",
+            "password": "false",
+            "scrollable": "false",
+            "selected": "false",
+            "bounds": "[0,66][939,220]",
+            "displayed": "true",
+            "sent_text": "Drama"
+        },
+        "primary_categories_ranked": [
+            [
+                "search",
+                0.34821588223179184
+            ],
+            [
+                "music",
+                0.4757743147512277
+            ],
+            [
+                "label",
+                0.5690272969504196
+            ],
+            [
+                "profile",
+                0.6056911448637645
+            ],
+            [
+                "description",
+                0.6441023290157318
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "music",
+                0.6064514455695946
+            ],
+            [
+                "location",
+                0.611415222287178
+            ],
+            [
+                "storage",
+                0.6186801244815191
+            ],
+            [
+                "book",
+                0.6752108410000801
+            ],
+            [
+                "tv_show",
+                0.6880336018900077
+            ]
+        ],
+        "concrete_category": "music",
+        "predicted_inputs": [
+            "love dive",
+            "rock around the clock",
+            "kanywe west"
+        ]
+    },
+    "data/OSS/textfield_contexts/HERE_WeGo_Maps_Navigation_v4.4.200_5/-1630317872": {
+        "app_name": "HERE_WeGo_Maps_Navigation_v4.4.200",
+        "screenshot_path": "data/OSS/snapshots/HERE_WeGo_Maps_Navigation_v4.4.200/156770900/screenshot.png",
+        "best": [
+            "search",
+            "location"
+        ],
+        "properties": {
+            "index": "0",
+            "package": "com.here.app.maps",
+            "class": "android.widget.EditText",
+            "text": "Where to?",
+            "resource-id": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "true",
+            "long-clickable": "false",
+            "password": "false",
+            "scrollable": "false",
+            "selected": "false",
+            "bounds": "[44,176][899,308]",
+            "displayed": "true",
+            "sent_text": "eiffel tower"
+        },
+        "primary_categories_ranked": [
+            [
+                "search",
+                0.555601317435503
+            ],
+            [
+                "datetime",
+                0.6804094575345515
+            ],
+            [
+                "location",
+                0.7020514510571957
+            ],
+            [
+                "description",
+                0.7248547251025835
+            ],
+            [
+                "profile",
+                0.7296189195166032
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "location",
+                0.39269808307290077
+            ],
+            [
+                "tv_show",
+                0.5913960039615631
+            ],
+            [
+                "country",
+                0.7067864201962948
+            ],
+            [
+                "web",
+                0.7239738367497921
+            ],
+            [
+                "country_code",
+                0.7264408301562071
+            ]
+        ],
+        "concrete_category": "location",
+        "predicted_inputs": [
+            "Daejeon",
+            "meeting room",
+            "room 1",
+            "daejeon city hall"
+        ]
+    },
+    "data/OSS/textfield_contexts/com.invoiceninja.app_1/1230535790": {
+        "app_name": "com.invoiceninja.app",
+        "screenshot_path": "data/OSS/snapshots/com.invoiceninja.app/950430309/screenshot.png",
+        "best": [
+            "profile",
+            "email"
+        ],
+        "properties": {
+            "index": "4",
+            "package": "com.invoiceninja.app",
+            "class": "android.widget.EditText",
+            "text": "Email",
+            "resource-id": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "true",
+            "long-clickable": "false",
+            "password": "false",
+            "scrollable": "false",
+            "selected": "false",
+            "bounds": "[88,943][992,1106]",
+            "displayed": "true",
+            "sent_text": "anony1017mous@gmail.com"
+        },
+        "primary_categories_ranked": [
+            [
+                "profile",
+                0.16348261932531993
+            ],
+            [
+                "auth_code",
+                0.21087514410416286
+            ],
+            [
+                "messenger",
+                0.570288433631261
+            ],
+            [
+                "description",
+                0.5965130545198917
+            ],
+            [
+                "ledger",
+                0.6687042206525802
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "email",
+                0.0962940181295077
+            ],
+            [
+                "password",
+                0.35821610937515896
+            ],
+            [
+                "username",
+                0.5262547334035238
+            ],
+            [
+                "phone",
+                0.5956392089525858
+            ],
+            [
+                "samsung_account",
+                0.6186536848545074
+            ]
+        ],
+        "concrete_category": "email",
+        "predicted_inputs": [
+            "samsung3@samsung.com",
+            "asdf123@naver.com",
+            "samsung2@samsung.com"
+        ]
+    },
+    "data/OSS/textfield_contexts/com.invoiceninja.app_1/1271870479": {
+        "app_name": "com.invoiceninja.app",
+        "screenshot_path": "data/OSS/snapshots/com.invoiceninja.app/950430309/screenshot.png",
+        "best": [
+            "profile",
+            "password"
+        ],
+        "properties": {
+            "index": "5",
+            "package": "com.invoiceninja.app",
+            "class": "android.widget.EditText",
+            "text": "Password",
+            "resource-id": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "long-clickable": "false",
+            "password": "true",
+            "scrollable": "false",
+            "selected": "false",
+            "bounds": "[88,1106][992,1268]",
+            "displayed": "true",
+            "sent_text": "abcd!4321"
+        },
+        "primary_categories_ranked": [
+            [
+                "profile",
+                0.13837434897820153
+            ],
+            [
+                "auth_code",
+                0.5086061671376229
+            ],
+            [
+                "ledger",
+                0.619622317701578
+            ],
+            [
+                "description",
+                0.7068056183556716
+            ],
+            [
+                "code",
+                0.7201862283051014
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "password",
+                0.07301108787457149
+            ],
+            [
+                "email",
+                0.3814990396300952
+            ],
+            [
+                "username",
+                0.4087549075484276
+            ],
+            [
+                "samsung_account",
+                0.5786404889076948
+            ],
+            [
+                "phone",
+                0.6454543024301529
+            ]
+        ],
+        "concrete_category": "password",
+        "predicted_inputs": [
+            "abcd!1234@",
+            "abcd!1234",
+            "gus@ka123"
+        ]
+    },
+    "data/OSS/textfield_contexts/de.chaosdorf.meteroid_1/-1344947040": {
+        "app_name": "de.chaosdorf.meteroid",
+        "screenshot_path": "data/OSS/snapshots/de.chaosdorf.meteroid/-597245818/screenshot.png",
+        "best": [
+            "profile",
+            "url"
+        ],
+        "properties": {
+            "index": "0",
+            "package": "de.chaosdorf.meteroid",
+            "class": "android.widget.EditText",
+            "text": "https",
+            "resource-id": "hostname",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "true",
+            "long-clickable": "true",
+            "password": "false",
+            "scrollable": "false",
+            "selected": "false",
+            "bounds": "[44,360][1036,513]",
+            "displayed": "true",
+            "sent_text": "https://mete.chaosdorf.space/api/v1"
+        },
+        "primary_categories_ranked": [
+            [
+                "profile",
+                0.6115506559610366
+            ],
+            [
+                "auth_code",
+                0.638278855383396
+            ],
+            [
+                "description",
+                0.7009372821698586
+            ],
+            [
+                "code",
+                0.7331188866247733
+            ],
+            [
+                "numerical",
+                0.7458137692262727
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "url",
+                0.237607870871822
+            ],
+            [
+                "username",
+                0.6030235172559818
+            ],
+            [
+                "password",
+                0.6543324729427695
+            ],
+            [
+                "email",
+                0.6781093838314215
+            ],
+            [
+                "name",
+                0.7028261379649242
+            ]
+        ],
+        "concrete_category": "url",
+        "predicted_inputs": [
+            "www.naver.com",
+            "https://www.google.com",
+            "https://www.youtube.com"
+        ]
+    },
+    "data/OSS/textfield_contexts/co.appreactor.news_1/serverUrl": {
+        "app_name": "co.appreactor.news",
+        "screenshot_path": "data/OSS/snapshots/co.appreactor.news/-1160844204/screenshot.png",
+        "best": [
+            "profile",
+            "url"
+        ],
+        "properties": {
+            "index": "0",
+            "package": "co.appreactor.news",
+            "class": "android.widget.EditText",
+            "text": "https",
+            "resource-id": "serverUrl",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "long-clickable": "true",
+            "password": "false",
+            "scrollable": "false",
+            "selected": "false",
+            "bounds": "[44,301][1036,454]",
+            "displayed": "true",
+            "sent_text": "https://example.com"
+        },
+        "primary_categories_ranked": [
+            [
+                "profile",
+                0.5502259351313114
+            ],
+            [
+                "auth_code",
+                0.6573044108847776
+            ],
+            [
+                "description",
+                0.6919855025907357
+            ],
+            [
+                "code",
+                0.7045900618036588
+            ],
+            [
+                "messenger",
+                0.7321500887473423
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "url",
+                0.16170352324843407
+            ],
+            [
+                "password",
+                0.4278323135028283
+            ],
+            [
+                "username",
+                0.458543403695027
+            ],
+            [
+                "email",
+                0.6569609443346659
+            ],
+            [
+                "name",
+                0.6697629590829213
+            ]
+        ],
+        "concrete_category": "url",
+        "predicted_inputs": [
+            "www.naver.com",
+            "https://www.google.com",
+            "https://www.youtube.com"
+        ]
+    },
+    "data/OSS/textfield_contexts/co.appreactor.news_1/password": {
+        "app_name": "co.appreactor.news",
+        "screenshot_path": "data/OSS/snapshots/co.appreactor.news/-1160844204/screenshot.png",
+        "best": [
+            "profile",
+            "password"
+        ],
+        "properties": {
+            "index": "0",
+            "package": "co.appreactor.news",
+            "class": "android.widget.EditText",
+            "text": "Password",
+            "resource-id": "password",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "long-clickable": "true",
+            "password": "true",
+            "scrollable": "false",
+            "selected": "false",
+            "bounds": "[44,877][1036,1030]",
+            "displayed": "true",
+            "sent_text": "eyedrop$4forsale"
+        },
+        "primary_categories_ranked": [
+            [
+                "profile",
+                0.14977331558863322
+            ],
+            [
+                "auth_code",
+                0.5850249469280242
+            ],
+            [
+                "ledger",
+                0.6125811778008937
+            ],
+            [
+                "code",
+                0.7026077397167682
+            ],
+            [
+                "description",
+                0.7026499899725119
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "password",
+                0.05680548151334127
+            ],
+            [
+                "username",
+                0.3182650854190191
+            ],
+            [
+                "url",
+                0.5029198095823327
+            ],
+            [
+                "samsung_account",
+                0.5671041042854389
+            ],
+            [
+                "email",
+                0.5727583269278208
+            ]
+        ],
+        "concrete_category": "password",
+        "predicted_inputs": [
+            "abcd!1234@",
+            "abcd!1234",
+            "gus@ka123"
+        ]
+    },
+    "data/OSS/textfield_contexts/co.appreactor.news_1/username": {
+        "app_name": "co.appreactor.news",
+        "screenshot_path": "data/OSS/snapshots/co.appreactor.news/-1160844204/screenshot.png",
+        "best": [
+            "profile",
+            "username"
+        ],
+        "properties": {
+            "index": "0",
+            "package": "co.appreactor.news",
+            "class": "android.widget.EditText",
+            "text": "Username",
+            "resource-id": "username",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "long-clickable": "true",
+            "password": "false",
+            "scrollable": "false",
+            "selected": "false",
+            "bounds": "[44,654][1036,807]",
+            "displayed": "true",
+            "sent_text": "anony1017mous"
+        },
+        "primary_categories_ranked": [
+            [
+                "profile",
+                0.14969951063394546
+            ],
+            [
+                "auth_code",
+                0.5943063432971636
+            ],
+            [
+                "ledger",
+                0.5991207449386518
+            ],
+            [
+                "description",
+                0.6238703476885955
+            ],
+            [
+                "messenger",
+                0.6892262108623981
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "username",
+                0.19328247010707855
+            ],
+            [
+                "password",
+                0.2185621460278829
+            ],
+            [
+                "url",
+                0.4685800932347775
+            ],
+            [
+                "name",
+                0.5274067421754202
+            ],
+            [
+                "samsung_account",
+                0.5679771987100443
+            ]
+        ],
+        "concrete_category": "username",
+        "predicted_inputs": [
+            "samsung123",
+            "greenmon2",
+            "colddog"
+        ]
+    },
+    "data/OSS/textfield_contexts/com.poupa.vinylmusicplayer_1/search_src_text": {
+        "app_name": "com.poupa.vinylmusicplayer",
+        "screenshot_path": "data/OSS/snapshots/com.poupa.vinylmusicplayer/404149954/screenshot.png",
+        "best": [
+            "search",
+            "storage"
+        ],
+        "properties": {
+            "index": "0",
+            "package": "com.poupa.vinylmusicplayer",
+            "class": "android.widget.AutoCompleteTextView",
+            "text": "Search your library\u2026",
+            "resource-id": "search_src_text",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "true",
+            "long-clickable": "true",
+            "password": "false",
+            "scrollable": "false",
+            "selected": "false",
+            "bounds": "[220,93][1058,192]",
+            "displayed": "true",
+            "sent_text": "lofi"
+        },
+        "primary_categories_ranked": [
+            [
+                "search",
+                0.4300210252404213
+            ],
+            [
+                "description",
+                0.5801461438337961
+            ],
+            [
+                "auth_code",
+                0.6294695367415746
+            ],
+            [
+                "messenger",
+                0.6405873492360115
+            ],
+            [
+                "profile",
+                0.6493863582611084
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "storage",
+                0.40740493436654407
+            ],
+            [
+                "book",
+                0.6390344562629858
+            ],
+            [
+                "web",
+                0.6589056178927422
+            ],
+            [
+                "video",
+                0.6969898330668608
+            ],
+            [
+                "country_code",
+                0.7106894205013912
+            ]
+        ],
+        "concrete_category": "storage",
+        "predicted_inputs": [
+            "filename",
+            "father",
+            "hi",
+            "love dive",
+            "drug store",
+            "sound",
+            "20221201"
+        ]
+    },
+    "data/OSS/textfield_contexts/com.poupa.vinylmusicplayer_1/title1": {
+        "app_name": "com.poupa.vinylmusicplayer",
+        "screenshot_path": "data/OSS/snapshots/com.poupa.vinylmusicplayer/-141330720/screenshot.png",
+        "best": [
+            "label",
+            null
+        ],
+        "properties": {
+            "index": "0",
+            "package": "com.poupa.vinylmusicplayer",
+            "class": "android.widget.EditText",
+            "text": "Lofi Study",
+            "resource-id": "title1",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "true",
+            "long-clickable": "true",
+            "password": "false",
+            "scrollable": "false",
+            "selected": "false",
+            "bounds": "[44,272][1036,403]",
+            "displayed": "true",
+            "sent_text": "Lofi Study"
+        },
+        "primary_categories_ranked": [
+            [
+                "label",
+                0.4261359594762325
+            ],
+            [
+                "music",
+                0.4590702290336291
+            ],
+            [
+                "tag",
+                0.5634224702914555
+            ],
+            [
+                "datetime",
+                0.6251400381326675
+            ],
+            [
+                "description",
+                0.6327143007268509
+            ]
+        ],
+        "secondary_categories_ranked": [],
+        "concrete_category": "label",
+        "predicted_inputs": [
+            "name1",
+            "title1",
+            "label1"
+        ]
+    },
+    "data/OSS/textfield_contexts/com.poupa.vinylmusicplayer_1/genre": {
+        "app_name": "com.poupa.vinylmusicplayer",
+        "screenshot_path": "data/OSS/snapshots/com.poupa.vinylmusicplayer/-979703431/screenshot.png",
+        "best": [
+            "music",
+            "genre"
+        ],
+        "properties": {
+            "index": "0",
+            "package": "com.poupa.vinylmusicplayer",
+            "class": "android.widget.EditText",
+            "text": "Jazz",
+            "resource-id": "genre",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "long-clickable": "true",
+            "password": "false",
+            "scrollable": "false",
+            "selected": "false",
+            "bounds": "[44,821][1036,952]",
+            "displayed": "true",
+            "sent_text": "Jazz"
+        },
+        "primary_categories_ranked": [
+            [
+                "music",
+                0.1815588360031446
+            ],
+            [
+                "label",
+                0.6122887097299098
+            ],
+            [
+                "tag",
+                0.6774469078402034
+            ],
+            [
+                "description",
+                0.7034488525241613
+            ],
+            [
+                "datetime",
+                0.703708034940064
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "genre",
+                0.17505273471275967
+            ],
+            [
+                "album",
+                0.40306076283256215
+            ],
+            [
+                "artist",
+                0.43365483979384106
+            ],
+            [
+                "song",
+                0.48048268382747966
+            ],
+            [
+                "number",
+                0.5617213500663638
+            ]
+        ],
+        "concrete_category": "genre",
+        "predicted_inputs": [
+            "classic",
+            "pop",
+            "rock"
+        ]
+    },
+    "data/OSS/textfield_contexts/com.poupa.vinylmusicplayer_1/track_number": {
+        "app_name": "com.poupa.vinylmusicplayer",
+        "screenshot_path": "data/OSS/snapshots/com.poupa.vinylmusicplayer/-979703431/screenshot.png",
+        "best": [
+            "numerical",
+            "enum"
+        ],
+        "properties": {
+            "index": "0",
+            "package": "com.poupa.vinylmusicplayer",
+            "class": "android.widget.EditText",
+            "text": "1",
+            "resource-id": "track_number",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "long-clickable": "true",
+            "password": "false",
+            "scrollable": "false",
+            "selected": "false",
+            "bounds": "[44,1143][1036,1274]",
+            "displayed": "true",
+            "sent_text": "1"
+        },
+        "primary_categories_ranked": [
+            [
+                "numerical",
+                0.43141015544533723
+            ],
+            [
+                "device_profile",
+                0.4886709481477737
+            ],
+            [
+                "music",
+                0.49970344218115004
+            ],
+            [
+                "datetime",
+                0.6104612946510315
+            ],
+            [
+                "label",
+                0.6250163106247781
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "enum",
+                0.4567204713821411
+            ],
+            [
+                "amount",
+                0.6713773868978024
+            ],
+            [
+                "ratio",
+                0.6801282664140065
+            ]
+        ],
+        "concrete_category": "enum",
+        "predicted_inputs": [
+            "1",
+            "2",
+            "3"
+        ]
+    },
+    "data/OSS/textfield_contexts/com.poupa.vinylmusicplayer_1/year": {
+        "app_name": "com.poupa.vinylmusicplayer",
+        "screenshot_path": "data/OSS/snapshots/com.poupa.vinylmusicplayer/-979703431/screenshot.png",
+        "best": [
+            "datetime",
+            "year"
+        ],
+        "properties": {
+            "index": "0",
+            "package": "com.poupa.vinylmusicplayer",
+            "class": "android.widget.EditText",
+            "text": "2022",
+            "resource-id": "year",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "long-clickable": "true",
+            "password": "false",
+            "scrollable": "false",
+            "selected": "false",
+            "bounds": "[44,982][1036,1113]",
+            "displayed": "true",
+            "sent_text": "2022"
+        },
+        "primary_categories_ranked": [
+            [
+                "datetime",
+                0.30557634035746256
+            ],
+            [
+                "music",
+                0.6224673330318182
+            ],
+            [
+                "numerical",
+                0.6904784801726539
+            ],
+            [
+                "label",
+                0.7115564522333442
+            ],
+            [
+                "tag",
+                0.7120359375141561
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "year",
+                0.20744122316439945
+            ],
+            [
+                "month",
+                0.3753344863653183
+            ],
+            [
+                "time",
+                0.5696077505126595
+            ],
+            [
+                "second",
+                0.61706736497581
+            ],
+            [
+                "date",
+                0.6688669814417759
+            ]
+        ],
+        "concrete_category": "year",
+        "predicted_inputs": [
+            "2022",
+            "2021",
+            "2020"
+        ]
+    },
+    "data/OSS/textfield_contexts/com.poupa.vinylmusicplayer_1/artist": {
+        "app_name": "com.poupa.vinylmusicplayer",
+        "screenshot_path": "data/OSS/snapshots/com.poupa.vinylmusicplayer/-979703431/screenshot.png",
+        "best": [
+            "music",
+            "artist"
+        ],
+        "properties": {
+            "index": "0",
+            "package": "com.poupa.vinylmusicplayer",
+            "class": "android.widget.EditText",
+            "text": "FASSounds",
+            "resource-id": "artist",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "long-clickable": "true",
+            "password": "false",
+            "scrollable": "false",
+            "selected": "false",
+            "bounds": "[44,660][1036,791]",
+            "displayed": "true",
+            "sent_text": "FASSounds"
+        },
+        "primary_categories_ranked": [
+            [
+                "music",
+                0.3102692121018966
+            ],
+            [
+                "label",
+                0.6416704388956228
+            ],
+            [
+                "tag",
+                0.6584550678730011
+            ],
+            [
+                "datetime",
+                0.7087994750589132
+            ],
+            [
+                "description",
+                0.7098377984017133
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "artist",
+                0.25071826825539273
+            ],
+            [
+                "album",
+                0.41872394022842246
+            ],
+            [
+                "genre",
+                0.46666032355278736
+            ],
+            [
+                "song",
+                0.5069908164441586
+            ],
+            [
+                "number",
+                0.5864600657174984
+            ]
+        ],
+        "concrete_category": "artist",
+        "predicted_inputs": [
+            "New Jeans",
+            "Daft Punk",
+            "FKJ"
+        ]
+    },
+    "data/OSS/textfield_contexts/com.poupa.vinylmusicplayer_1/disc_number": {
+        "app_name": "com.poupa.vinylmusicplayer",
+        "screenshot_path": "data/OSS/snapshots/com.poupa.vinylmusicplayer/-979703431/screenshot.png",
+        "best": [
+            "numerical",
+            "enum"
+        ],
+        "properties": {
+            "index": "0",
+            "package": "com.poupa.vinylmusicplayer",
+            "class": "android.widget.EditText",
+            "text": "1",
+            "resource-id": "disc_number",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "long-clickable": "true",
+            "password": "false",
+            "scrollable": "false",
+            "selected": "false",
+            "bounds": "[44,1304][1036,1435]",
+            "displayed": "true",
+            "sent_text": "1"
+        },
+        "primary_categories_ranked": [
+            [
+                "numerical",
+                0.4321310445666313
+            ],
+            [
+                "device_profile",
+                0.4921762332320213
+            ],
+            [
+                "music",
+                0.515330221876502
+            ],
+            [
+                "datetime",
+                0.6230593418081601
+            ],
+            [
+                "label",
+                0.646167071474095
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "enum",
+                0.46496061918636167
+            ],
+            [
+                "amount",
+                0.6685082788268726
+            ],
+            [
+                "ratio",
+                0.6851227680842081
+            ]
+        ],
+        "concrete_category": "enum",
+        "predicted_inputs": [
+            "1",
+            "2",
+            "3"
+        ]
+    },
+    "data/OSS/textfield_contexts/AOL_News_Mail_Video_v6.47.2_1/search_edit_text": {
+        "app_name": "AOL_News_Mail_Video_v6.47.2",
+        "screenshot_path": "data/OSS/snapshots/AOL_News_Mail_Video_v6.47.2/-2077864795/screenshot.png",
+        "best": [
+            "search",
+            "app"
+        ],
+        "properties": {
+            "index": "1",
+            "package": "com.aol.mobile.aolapp",
+            "class": "android.widget.EditText",
+            "text": "Search",
+            "resource-id": "search_edit_text",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "long-clickable": "true",
+            "password": "false",
+            "scrollable": "false",
+            "selected": "false",
+            "bounds": "[182,66][1080,220]",
+            "displayed": "true",
+            "sent_text": "Abe Shinzo"
+        },
+        "primary_categories_ranked": [
+            [
+                "search",
+                0.4527788343528906
+            ],
+            [
+                "description",
+                0.5528222223122914
+            ],
+            [
+                "profile",
+                0.6283176019787788
+            ],
+            [
+                "auth_code",
+                0.6377359834810098
+            ],
+            [
+                "messenger",
+                0.6391041256487369
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "app",
+                0.5884032882750034
+            ],
+            [
+                "storage",
+                0.6108027721444765
+            ],
+            [
+                "web",
+                0.6859459516902765
+            ],
+            [
+                "book",
+                0.6869136119882266
+            ],
+            [
+                "video",
+                0.687118678043286
+            ]
+        ],
+        "concrete_category": "app",
+        "predicted_inputs": [
+            "battlegrounds",
+            "youtube",
+            "facebook"
+        ]
+    },
+    "data/OSS/textfield_contexts/org.y20k.escapepod_1/search_src_text": {
+        "app_name": "org.y20k.escapepod",
+        "screenshot_path": "data/OSS/snapshots/org.y20k.escapepod/966430078/screenshot.png",
+        "best": [
+            "search",
+            "podcast"
+        ],
+        "properties": {
+            "index": "0",
+            "package": "org.y20k.escapepod",
+            "class": "android.widget.AutoCompleteTextView",
+            "text": "Name or feed address",
+            "resource-id": "search_src_text",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "long-clickable": "true",
+            "password": "false",
+            "scrollable": "false",
+            "selected": "false",
+            "bounds": "[248,1053][942,1152]",
+            "displayed": "true",
+            "sent_text": "http://feeds.feedburner.com/TEDTalks_audio"
+        },
+        "primary_categories_ranked": [
+            [
+                "search",
+                0.37459213982025774
+            ],
+            [
+                "profile",
+                0.5027774622042973
+            ],
+            [
+                "label",
+                0.5361672398944695
+            ],
+            [
+                "auth_code",
+                0.545075732966264
+            ],
+            [
+                "description",
+                0.5613458981116612
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "podcast",
+                0.294582836329937
+            ],
+            [
+                "web",
+                0.4117391208807627
+            ],
+            [
+                "storage",
+                0.6417029971877733
+            ],
+            [
+                "location",
+                0.6541779910524685
+            ],
+            [
+                "book",
+                0.6600854384402435
+            ]
+        ],
+        "concrete_category": "podcast",
+        "predicted_inputs": [
+            "The Joe Rogan Experience",
+            "The Daily",
+            "This American Life"
+        ]
+    },
+    "data/OSS/textfield_contexts/org.koitharu.kotatsu_1/searchView": {
+        "app_name": "org.koitharu.kotatsu",
+        "screenshot_path": "data/OSS/snapshots/org.koitharu.kotatsu/-1399196902/screenshot.png",
+        "best": [
+            "search",
+            "manga"
+        ],
+        "properties": {
+            "index": "2",
+            "package": "org.koitharu.kotatsu",
+            "class": "android.widget.EditText",
+            "text": "Search manga",
+            "resource-id": "searchView",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "long-clickable": "true",
+            "password": "false",
+            "scrollable": "false",
+            "selected": "false",
+            "bounds": "[198,119][919,189]",
+            "displayed": "true",
+            "sent_text": "titan"
+        },
+        "primary_categories_ranked": [
+            [
+                "search",
+                0.4025154160956541
+            ],
+            [
+                "description",
+                0.619270137200753
+            ],
+            [
+                "auth_code",
+                0.7154748102029163
+            ],
+            [
+                "code",
+                0.720419331267476
+            ],
+            [
+                "music",
+                0.7298300132155418
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "manga",
+                0.27691755133370555
+            ],
+            [
+                "app",
+                0.5876400992274284
+            ],
+            [
+                "book",
+                0.6104462568958601
+            ],
+            [
+                "location",
+                0.6555840354412794
+            ],
+            [
+                "storage",
+                0.6727342642843723
+            ]
+        ],
+        "concrete_category": "manga",
+        "predicted_inputs": [
+            "one piece",
+            "naruto",
+            "bleach"
+        ]
+    },
+    "data/OSS/textfield_contexts/BookStore_1/Search": {
+        "app_name": "BookStore",
+        "screenshot_path": "data/OSS/snapshots/BookStore/516307039/screenshot.png",
+        "best": [
+            "search",
+            "book"
+        ],
+        "properties": {
+            "type": "XCUIElementTypeSearchField",
+            "name": "Search",
+            "label": "Search",
+            "enabled": "true",
+            "visible": "true",
+            "accessible": "true",
+            "x": "8",
+            "y": "57",
+            "width": "310",
+            "height": "36",
+            "index": "0",
+            "sent_text": "Microsoft"
+        },
+        "primary_categories_ranked": [
+            [
+                "search",
+                0.2787898493309816
+            ],
+            [
+                "description",
+                0.7160448573529721
+            ],
+            [
+                "numerical",
+                0.7320845389117796
+            ],
+            [
+                "tag",
+                0.7434941917657851
+            ],
+            [
+                "auth_code",
+                0.744839492936929
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "book",
+                0.5218050008018812
+            ],
+            [
+                "storage",
+                0.6743462023635706
+            ],
+            [
+                "web",
+                0.6878320798277855
+            ],
+            [
+                "location",
+                0.6948035197953383
+            ],
+            [
+                "iot_device",
+                0.7032584473490715
+            ]
+        ],
+        "concrete_category": "book",
+        "predicted_inputs": [
+            "Demian",
+            "Elle",
+            "The Alchemist"
+        ]
+    },
+    "data/OSS/textfield_contexts/Instagram_1/email_field": {
+        "app_name": "Instagram",
+        "screenshot_path": "data/OSS/snapshots/Instagram/178737488/screenshot.png",
+        "best": [
+            "profile",
+            "email"
+        ],
+        "properties": {
+            "index": "0",
+            "package": "com.instagram.android",
+            "class": "android.widget.AutoCompleteTextView",
+            "text": "Email",
+            "resource-id": "email_field",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "true",
+            "long-clickable": "true",
+            "password": "false",
+            "scrollable": "false",
+            "selected": "false",
+            "bounds": "[77,747][1003,879]",
+            "displayed": "true",
+            "sent_text": "greenmon@kaist.ac.kr"
+        },
+        "primary_categories_ranked": [
+            [
+                "profile",
+                0.3116215987751881
+            ],
+            [
+                "auth_code",
+                0.367624149719874
+            ],
+            [
+                "messenger",
+                0.6099820544322331
+            ],
+            [
+                "description",
+                0.6229965139180421
+            ],
+            [
+                "ledger",
+                0.6465652556469041
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "email",
+                0.20243436718980473
+            ],
+            [
+                "phone",
+                0.5045635346323252
+            ],
+            [
+                "samsung_account",
+                0.5361639304707448
+            ],
+            [
+                "password",
+                0.6005195006728172
+            ],
+            [
+                "username",
+                0.6276059448719025
+            ]
+        ],
+        "concrete_category": "email",
+        "predicted_inputs": [
+            "samsung3@samsung.com",
+            "asdf123@naver.com",
+            "samsung2@samsung.com"
+        ]
+    },
+    "data/OSS/textfield_contexts/BBC_News_v5.23.0_1/search": {
+        "app_name": "BBC_News_v5.23.0",
+        "screenshot_path": "data/OSS/snapshots/BBC_News_v5.23.0/-1912259750/screenshot.png",
+        "best": [
+            "search",
+            "news"
+        ],
+        "properties": {
+            "index": "2",
+            "package": "bbc.mobile.news.ww",
+            "class": "android.widget.EditText",
+            "text": "Search topics and articles",
+            "resource-id": "search",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "long-clickable": "true",
+            "password": "false",
+            "scrollable": "false",
+            "selected": "false",
+            "bounds": "[198,179][1058,246]",
+            "displayed": "true",
+            "sent_text": "Russia-Ukraine war\\n"
+        },
+        "primary_categories_ranked": [
+            [
+                "search",
+                0.4373947240412235
+            ],
+            [
+                "description",
+                0.5746001571416854
+            ],
+            [
+                "messenger",
+                0.7351278687516848
+            ],
+            [
+                "datetime",
+                0.7518559950093427
+            ],
+            [
+                "auth_code",
+                0.758968349546194
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "news",
+                0.5882747011880081
+            ],
+            [
+                "location",
+                0.6595336707929771
+            ],
+            [
+                "web",
+                0.6819785460829735
+            ],
+            [
+                "storage",
+                0.6911627165973186
+            ],
+            [
+                "book",
+                0.7127537280321121
+            ]
+        ],
+        "concrete_category": "news",
+        "predicted_inputs": [
+            "worldcup",
+            "COVID",
+            "election"
+        ]
+    },
+    "data/OSS/textfield_contexts/Brave_Private_Web_Browser_v1.39.115_1/-1629784746": {
+        "app_name": "Brave_Private_Web_Browser_v1.39.115",
+        "screenshot_path": "data/OSS/snapshots/Brave_Private_Web_Browser_v1.39.115/-29924823/screenshot.png",
+        "best": [
+            "search",
+            "web"
+        ],
+        "properties": {
+            "index": "0",
+            "package": "com.brave.browser",
+            "class": "android.widget.EditText",
+            "text": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "scrollable": "false",
+            "selected": "false",
+            "bounds": "[110,772][1067,847]",
+            "displayed": "true",
+            "sent_text": "something interesting"
+        },
+        "primary_categories_ranked": [
+            [
+                "search",
+                0.5625915736580889
+            ],
+            [
+                "description",
+                0.6929151911288499
+            ],
+            [
+                "profile",
+                0.7050981362660724
+            ],
+            [
+                "auth_code",
+                0.7110650205363829
+            ],
+            [
+                "numerical",
+                0.7206078519423802
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "web",
+                0.5445189382880926
+            ],
+            [
+                "location",
+                0.6335835746334245
+            ],
+            [
+                "app",
+                0.6838673632591963
+            ],
+            [
+                "storage",
+                0.7136087032655876
+            ],
+            [
+                "tv_show",
+                0.7308202739804983
+            ]
+        ],
+        "concrete_category": "web",
+        "predicted_inputs": [
+            "www.naver.com",
+            "www.google.com",
+            "How to make an apple pie"
+        ]
+    },
+    "data/OSS/textfield_contexts/Brave_Private_Web_Browser_v1.39.115_1/url_bar": {
+        "app_name": "Brave_Private_Web_Browser_v1.39.115",
+        "screenshot_path": "data/OSS/snapshots/Brave_Private_Web_Browser_v1.39.115/-2130272688/screenshot.png",
+        "best": [
+            "search",
+            "web"
+        ],
+        "properties": {
+            "index": "1",
+            "package": "com.brave.browser",
+            "class": "android.widget.EditText",
+            "text": "Search or type web address",
+            "resource-id": "url_bar",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "true",
+            "long-clickable": "true",
+            "password": "false",
+            "scrollable": "false",
+            "selected": "false",
+            "bounds": "[154,74][926,212]",
+            "displayed": "true",
+            "sent_text": "www.google.com"
+        },
+        "primary_categories_ranked": [
+            [
+                "search",
+                0.3985832467675208
+            ],
+            [
+                "profile",
+                0.5582366173466047
+            ],
+            [
+                "auth_code",
+                0.5801314204931259
+            ],
+            [
+                "description",
+                0.582949386537075
+            ],
+            [
+                "numerical",
+                0.5925354309380054
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "web",
+                0.0
+            ],
+            [
+                "location",
+                0.5493147497375805
+            ],
+            [
+                "storage",
+                0.630630391339461
+            ],
+            [
+                "video",
+                0.6392738210658232
+            ],
+            [
+                "iot_device",
+                0.6500441779692968
+            ]
+        ],
+        "concrete_category": "web",
+        "predicted_inputs": [
+            "www.naver.com",
+            "www.google.com",
+            "How to make an apple pie"
+        ]
+    },
+    "data/OSS/textfield_contexts/Ratios_1/2113677831": {
+        "app_name": "Ratios",
+        "screenshot_path": "data/OSS/snapshots/Ratios/-1499365203/screenshot.png",
+        "best": [
+            "numerical",
+            "ratio"
+        ],
+        "properties": {
+            "type": "XCUIElementTypeTextField",
+            "label": "",
+            "enabled": "true",
+            "visible": "true",
+            "accessible": "true",
+            "x": "228",
+            "y": "277",
+            "width": "40",
+            "height": "31",
+            "index": "7",
+            "sent_text": "10"
+        },
+        "primary_categories_ranked": [
+            [
+                "numerical",
+                0.2483247622847557
+            ],
+            [
+                "datetime",
+                0.5952837963898976
+            ],
+            [
+                "search",
+                0.6033436929186184
+            ],
+            [
+                "profile",
+                0.6040368427832922
+            ],
+            [
+                "auth_code",
+                0.6888965666294098
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "ratio",
+                0.3857275918126106
+            ],
+            [
+                "amount",
+                0.4934304356575012
+            ],
+            [
+                "enum",
+                0.7351166543861231
+            ]
+        ],
+        "concrete_category": "ratio",
+        "predicted_inputs": [
+            "1.00",
+            "1.25",
+            "1:4"
+        ]
+    },
+    "data/OSS/textfield_contexts/Ratios_1/157233290": {
+        "app_name": "Ratios",
+        "screenshot_path": "data/OSS/snapshots/Ratios/-1499365203/screenshot.png",
+        "best": [
+            "numerical",
+            "ratio"
+        ],
+        "properties": {
+            "type": "XCUIElementTypeTextField",
+            "label": "",
+            "enabled": "true",
+            "visible": "true",
+            "accessible": "true",
+            "x": "120",
+            "y": "133",
+            "width": "150",
+            "height": "23",
+            "index": "1",
+            "sent_text": "16"
+        },
+        "primary_categories_ranked": [
+            [
+                "numerical",
+                0.2483247622847557
+            ],
+            [
+                "datetime",
+                0.5952837963898976
+            ],
+            [
+                "search",
+                0.6033436929186184
+            ],
+            [
+                "profile",
+                0.6040368427832922
+            ],
+            [
+                "auth_code",
+                0.6888965666294098
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "ratio",
+                0.3857275918126106
+            ],
+            [
+                "amount",
+                0.4934304356575012
+            ],
+            [
+                "enum",
+                0.7351166543861231
+            ]
+        ],
+        "concrete_category": "ratio",
+        "predicted_inputs": [
+            "1.00",
+            "1.25",
+            "1:4"
+        ]
+    },
+    "data/OSS/textfield_contexts/Tubi_Movies_1/password": {
+        "app_name": "Tubi_Movies",
+        "screenshot_path": "data/OSS/snapshots/Tubi_Movies/-1563197355/screenshot.png",
+        "best": [
+            "profile",
+            "password"
+        ],
+        "properties": {
+            "index": "0",
+            "package": "com.tubitv",
+            "class": "android.widget.EditText",
+            "text": "Password",
+            "resource-id": "password",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "long-clickable": "true",
+            "password": "true",
+            "scrollable": "false",
+            "selected": "false",
+            "bounds": "[53,1047][1027,1179]",
+            "displayed": "true",
+            "sent_text": "eyedrop$4forsale"
+        },
+        "primary_categories_ranked": [
+            [
+                "profile",
+                0.14326233516136802
+            ],
+            [
+                "auth_code",
+                0.4830226555466652
+            ],
+            [
+                "ledger",
+                0.6236953996121883
+            ],
+            [
+                "description",
+                0.6898656579355399
+            ],
+            [
+                "datetime",
+                0.695112997914354
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "password",
+                0.09984838217496872
+            ],
+            [
+                "email",
+                0.3723819628357887
+            ],
+            [
+                "username",
+                0.3829476038614909
+            ],
+            [
+                "name",
+                0.5182315409183502
+            ],
+            [
+                "age",
+                0.5497045988837878
+            ]
+        ],
+        "concrete_category": "password",
+        "predicted_inputs": [
+            "abcd!1234@",
+            "abcd!1234",
+            "gus@ka123"
+        ]
+    },
+    "data/OSS/textfield_contexts/Tubi_Movies_1/text_year_or_age": {
+        "app_name": "Tubi_Movies",
+        "screenshot_path": "data/OSS/snapshots/Tubi_Movies/-1563197355/screenshot.png",
+        "best": [
+            "datetime",
+            "year"
+        ],
+        "properties": {
+            "index": "0",
+            "package": "com.tubitv",
+            "class": "android.widget.EditText",
+            "text": "Age",
+            "resource-id": "text_year_or_age",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "scrollable": "false",
+            "selected": "false",
+            "bounds": "[53,674][487,793]",
+            "displayed": "true",
+            "sent_text": "27"
+        },
+        "primary_categories_ranked": [
+            [
+                "datetime",
+                0.34274365355571107
+            ],
+            [
+                "profile",
+                0.49980907489856075
+            ],
+            [
+                "auth_code",
+                0.5369940898070733
+            ],
+            [
+                "description",
+                0.6027755332489808
+            ],
+            [
+                "messenger",
+                0.6314198526243369
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "year",
+                0.22105044685304165
+            ],
+            [
+                "month",
+                0.3848120955129465
+            ],
+            [
+                "second",
+                0.47647114656865597
+            ],
+            [
+                "time",
+                0.5372609160840511
+            ],
+            [
+                "date",
+                0.656723087032636
+            ]
+        ],
+        "concrete_category": "year",
+        "predicted_inputs": [
+            "2022",
+            "2021",
+            "2020"
+        ]
+    },
+    "data/OSS/textfield_contexts/Tubi_Movies_1/search_input_box": {
+        "app_name": "Tubi_Movies",
+        "screenshot_path": "data/OSS/snapshots/Tubi_Movies/-73242223/screenshot.png",
+        "best": [
+            "search",
+            "tv_show"
+        ],
+        "properties": {
+            "index": "1",
+            "package": "com.tubitv",
+            "class": "android.widget.EditText",
+            "text": "Find movies, TV shows & more",
+            "resource-id": "search_input_box",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "true",
+            "long-clickable": "true",
+            "password": "false",
+            "scrollable": "false",
+            "selected": "false",
+            "bounds": "[50,214][1030,304]",
+            "displayed": "true",
+            "sent_text": "Drama"
+        },
+        "primary_categories_ranked": [
+            [
+                "search",
+                0.21236620868245762
+            ],
+            [
+                "music",
+                0.5833176024258137
+            ],
+            [
+                "description",
+                0.6165975118676822
+            ],
+            [
+                "label",
+                0.6312727767974139
+            ],
+            [
+                "auth_code",
+                0.6539906074603399
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "tv_show",
+                0.26662324368953705
+            ],
+            [
+                "movie",
+                0.40620795389016473
+            ],
+            [
+                "music",
+                0.544788063193361
+            ],
+            [
+                "location",
+                0.5942279770970345
+            ],
+            [
+                "video",
+                0.6159062584241232
+            ]
+        ],
+        "concrete_category": "tv_show",
+        "predicted_inputs": [
+            "breaking bad",
+            "friends",
+            "the office"
+        ]
+    },
+    "data/OSS/textfield_contexts/Tubi_Movies_1/name": {
+        "app_name": "Tubi_Movies",
+        "screenshot_path": "data/OSS/snapshots/Tubi_Movies/-1563197355/screenshot.png",
+        "best": [
+            "profile",
+            "name"
+        ],
+        "properties": {
+            "index": "0",
+            "package": "com.tubitv",
+            "class": "android.widget.EditText",
+            "text": "First Name",
+            "resource-id": "name",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "long-clickable": "true",
+            "password": "false",
+            "scrollable": "false",
+            "selected": "false",
+            "bounds": "[53,486][1027,608]",
+            "displayed": "true",
+            "sent_text": "Jane Doe"
+        },
+        "primary_categories_ranked": [
+            [
+                "profile",
+                0.44529060274362564
+            ],
+            [
+                "datetime",
+                0.4798429665466149
+            ],
+            [
+                "auth_code",
+                0.5610738394161064
+            ],
+            [
+                "label",
+                0.59116530418396
+            ],
+            [
+                "description",
+                0.6179173653324445
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "name",
+                0.36885304749011993
+            ],
+            [
+                "username",
+                0.45029454367856186
+            ],
+            [
+                "password",
+                0.45032545644789934
+            ],
+            [
+                "email",
+                0.4517971631139517
+            ],
+            [
+                "age",
+                0.5198871089766423
+            ]
+        ],
+        "concrete_category": "name",
+        "predicted_inputs": [
+            "Juyeon Yoon",
+            "Suhee Choi",
+            "Bob Alen"
+        ]
+    },
+    "data/OSS/textfield_contexts/Tubi_Movies_1/email": {
+        "app_name": "Tubi_Movies",
+        "screenshot_path": "data/OSS/snapshots/Tubi_Movies/-1563197355/screenshot.png",
+        "best": [
+            "profile",
+            "email"
+        ],
+        "properties": {
+            "index": "0",
+            "package": "com.tubitv",
+            "class": "android.widget.EditText",
+            "text": "Email",
+            "resource-id": "email",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "long-clickable": "true",
+            "password": "false",
+            "scrollable": "false",
+            "selected": "false",
+            "bounds": "[53,859][1027,981]",
+            "displayed": "true",
+            "sent_text": "anony10170mous@gmail.com"
+        },
+        "primary_categories_ranked": [
+            [
+                "profile",
+                0.16837060550848643
+            ],
+            [
+                "auth_code",
+                0.18529163251320518
+            ],
+            [
+                "messenger",
+                0.5476220106085141
+            ],
+            [
+                "description",
+                0.57957309409976
+            ],
+            [
+                "datetime",
+                0.6621656544506549
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "email",
+                0.08717694133520126
+            ],
+            [
+                "password",
+                0.3850534036755562
+            ],
+            [
+                "username",
+                0.5004474297165871
+            ],
+            [
+                "name",
+                0.5311118091146151
+            ],
+            [
+                "url",
+                0.5660792763034503
+            ]
+        ],
+        "concrete_category": "email",
+        "predicted_inputs": [
+            "samsung3@samsung.com",
+            "asdf123@naver.com",
+            "samsung2@samsung.com"
+        ]
+    },
+    "data/OSS/textfield_contexts/Podcast_Addict_Podcast_player_v2022.4_1/pattern": {
+        "app_name": "Podcast_Addict_Podcast_player_v2022.4",
+        "screenshot_path": "data/OSS/snapshots/Podcast_Addict_Podcast_player_v2022.4/-596023753/screenshot.png",
+        "best": [
+            "search",
+            "podcast"
+        ],
+        "properties": {
+            "index": "0",
+            "package": "com.bambuna.podcastaddict",
+            "class": "android.widget.AutoCompleteTextView",
+            "text": "Podcast name / Keywords",
+            "resource-id": "pattern",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "true",
+            "long-clickable": "true",
+            "password": "false",
+            "scrollable": "false",
+            "selected": "false",
+            "bounds": "[86,306][994,430]",
+            "displayed": "true",
+            "sent_text": "grim and mild"
+        },
+        "primary_categories_ranked": [
+            [
+                "search",
+                0.32390322883923844
+            ],
+            [
+                "label",
+                0.5345554567873477
+            ],
+            [
+                "description",
+                0.5858090316255887
+            ],
+            [
+                "profile",
+                0.5924389958381653
+            ],
+            [
+                "music",
+                0.5950630679726601
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "podcast",
+                0.38894967238108313
+            ],
+            [
+                "video",
+                0.42181024389962357
+            ],
+            [
+                "music",
+                0.4961826900641123
+            ],
+            [
+                "book",
+                0.6302411444485188
+            ],
+            [
+                "web",
+                0.6511106590429941
+            ]
+        ],
+        "concrete_category": "podcast",
+        "predicted_inputs": [
+            "The Joe Rogan Experience",
+            "The Daily",
+            "This American Life"
+        ]
+    },
+    "data/OSS/textfield_contexts/Petal_Maps\u2013GPS_Navigation_v2.5.0.303(002)_1/search_src_text": {
+        "app_name": "Petal_Maps\u2013GPS_Navigation_v2.5.0.303(002)",
+        "screenshot_path": "data/OSS/snapshots/Petal_Maps\u2013GPS_Navigation_v2.5.0.303(002)/-1677063389/screenshot.png",
+        "best": [
+            "search",
+            "location"
+        ],
+        "properties": {
+            "index": "1",
+            "package": "com.huawei.maps.app",
+            "class": "android.widget.AutoCompleteTextView",
+            "text": "Hi, where to?",
+            "resource-id": "search_src_text",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "long-clickable": "true",
+            "password": "false",
+            "scrollable": "false",
+            "selected": "false",
+            "bounds": "[174,1600][912,1720]",
+            "displayed": "true",
+            "sent_text": "eiffel tower"
+        },
+        "primary_categories_ranked": [
+            [
+                "search",
+                0.38900688091913854
+            ],
+            [
+                "description",
+                0.5777283658583958
+            ],
+            [
+                "location",
+                0.6117744199931621
+            ],
+            [
+                "messenger",
+                0.6164004221558571
+            ],
+            [
+                "auth_code",
+                0.6309286291400592
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "location",
+                0.3065021658937136
+            ],
+            [
+                "video",
+                0.47981045519312226
+            ],
+            [
+                "app",
+                0.5670637326935928
+            ],
+            [
+                "storage",
+                0.6203312476476033
+            ],
+            [
+                "web",
+                0.641038735707601
+            ]
+        ],
+        "concrete_category": "location",
+        "predicted_inputs": [
+            "Daejeon",
+            "meeting room",
+            "room 1",
+            "daejeon city hall"
+        ]
+    },
+    "data/OSS/textfield_contexts/WhatsApp_1/registration_phone": {
+        "app_name": "WhatsApp",
+        "screenshot_path": "data/OSS/snapshots/WhatsApp/1298032692/screenshot.png",
+        "best": [
+            "profile",
+            "phone"
+        ],
+        "properties": {
+            "index": "1",
+            "package": "com.whatsapp",
+            "class": "android.widget.EditText",
+            "text": "phone number",
+            "resource-id": "registration_phone",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "true",
+            "long-clickable": "true",
+            "password": "false",
+            "scrollable": "false",
+            "selected": "false",
+            "bounds": "[400,480][897,604]",
+            "displayed": "true",
+            "sent_text": "1064782959"
+        },
+        "primary_categories_ranked": [
+            [
+                "profile",
+                0.35259995112816495
+            ],
+            [
+                "numerical",
+                0.4002882942557334
+            ],
+            [
+                "device_profile",
+                0.4565034287671248
+            ],
+            [
+                "auth_code",
+                0.5145973066488901
+            ],
+            [
+                "description",
+                0.6257240595916906
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "phone",
+                0.358405914157629
+            ],
+            [
+                "country",
+                0.5804666178300977
+            ],
+            [
+                "email",
+                0.5939544998109341
+            ],
+            [
+                "country_code",
+                0.6156485117971897
+            ],
+            [
+                "samsung_account",
+                0.6397384504477183
+            ]
+        ],
+        "concrete_category": "phone",
+        "predicted_inputs": [
+            "(010) 4940-4583",
+            "010-4940-4583",
+            "01049404583"
+        ]
+    },
+    "data/OSS/textfield_contexts/WhatsApp_1/verify_sms_code_input": {
+        "app_name": "WhatsApp",
+        "screenshot_path": "data/OSS/snapshots/WhatsApp/-1824722619/screenshot.png",
+        "best": [
+            "auth_code",
+            null
+        ],
+        "properties": {
+            "index": "0",
+            "package": "com.whatsapp",
+            "class": "android.widget.EditText",
+            "text": "\u2013\u2013\u2013\u00a0\u2013\u2013\u2013",
+            "resource-id": "verify_sms_code_input",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "true",
+            "long-clickable": "true",
+            "password": "false",
+            "scrollable": "false",
+            "selected": "false",
+            "bounds": "[320,392][760,474]",
+            "displayed": "true",
+            "sent_text": "801346"
+        },
+        "primary_categories_ranked": [
+            [
+                "auth_code",
+                0.0
+            ],
+            [
+                "code",
+                0.43661815424760186
+            ],
+            [
+                "profile",
+                0.562123991549015
+            ],
+            [
+                "description",
+                0.5740586407482623
+            ],
+            [
+                "numerical",
+                0.6015085188051064
+            ]
+        ],
+        "secondary_categories_ranked": [],
+        "concrete_category": "auth_code",
+        "predicted_inputs": [
+            "5974",
+            "123789",
+            "000000"
+        ]
+    },
+    "data/OSS/textfield_contexts/WhatsApp_1/registration_cc": {
+        "app_name": "WhatsApp",
+        "screenshot_path": "data/OSS/snapshots/WhatsApp/-960371024/screenshot.png",
+        "best": [
+            "profile",
+            "country_code"
+        ],
+        "properties": {
+            "index": "0",
+            "package": "com.whatsapp",
+            "class": "android.widget.EditText",
+            "text": "1",
+            "resource-id": "registration_cc",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "long-clickable": "true",
+            "password": "false",
+            "scrollable": "false",
+            "selected": "false",
+            "bounds": "[182,480][386,604]",
+            "displayed": "true",
+            "sent_text": "82"
+        },
+        "primary_categories_ranked": [
+            [
+                "profile",
+                0.5620858751237392
+            ],
+            [
+                "auth_code",
+                0.6136029260853926
+            ],
+            [
+                "description",
+                0.6499719443420569
+            ],
+            [
+                "numerical",
+                0.6509679059187572
+            ],
+            [
+                "device_profile",
+                0.6776543115576108
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "country_code",
+                0.4430426054944595
+            ],
+            [
+                "phone",
+                0.5825564476350943
+            ],
+            [
+                "country",
+                0.6040729486073058
+            ],
+            [
+                "email",
+                0.6716709694204231
+            ],
+            [
+                "name",
+                0.6962392007311186
+            ]
+        ],
+        "concrete_category": "country_code",
+        "predicted_inputs": [
+            "82",
+            "algeria, 213",
+            "1"
+        ]
+    },
+    "data/OSS/textfield_contexts/OK_Social_Network_v22.6.1_1/text_login": {
+        "app_name": "OK_Social_Network_v22.6.1",
+        "screenshot_path": "data/OSS/snapshots/OK_Social_Network_v22.6.1/-711716765/screenshot.png",
+        "best": [
+            "profile",
+            "email"
+        ],
+        "properties": {
+            "index": "0",
+            "package": "ru.ok.android",
+            "class": "android.widget.AutoCompleteTextView",
+            "text": "Mobile phone or e-mail address",
+            "resource-id": "text_login",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "long-clickable": "true",
+            "password": "false",
+            "scrollable": "false",
+            "selected": "false",
+            "bounds": "[66,448][1014,555]",
+            "displayed": "true",
+            "sent_text": "+821066622455"
+        },
+        "primary_categories_ranked": [
+            [
+                "profile",
+                0.08356890479723612
+            ],
+            [
+                "auth_code",
+                0.3144367138544718
+            ],
+            [
+                "description",
+                0.556452193359534
+            ],
+            [
+                "messenger",
+                0.5566299219926197
+            ],
+            [
+                "ledger",
+                0.6233544255296389
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "email",
+                0.15346323450406393
+            ],
+            [
+                "phone",
+                0.16576683521270752
+            ],
+            [
+                "password",
+                0.3015454187989235
+            ],
+            [
+                "username",
+                0.4736128573616346
+            ],
+            [
+                "samsung_account",
+                0.5480795552333196
+            ]
+        ],
+        "concrete_category": "email",
+        "predicted_inputs": [
+            "samsung3@samsung.com",
+            "asdf123@naver.com",
+            "samsung2@samsung.com"
+        ]
+    },
+    "data/OSS/textfield_contexts/OK_Social_Network_v22.6.1_1/password_text": {
+        "app_name": "OK_Social_Network_v22.6.1",
+        "screenshot_path": "data/OSS/snapshots/OK_Social_Network_v22.6.1/-1550987636/screenshot.png",
+        "best": [
+            "profile",
+            "password"
+        ],
+        "properties": {
+            "index": "0",
+            "package": "ru.ok.android",
+            "class": "android.widget.EditText",
+            "text": "Password",
+            "resource-id": "password_text",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "long-clickable": "true",
+            "password": "true",
+            "scrollable": "false",
+            "selected": "false",
+            "bounds": "[66,607][1014,739]",
+            "displayed": "true",
+            "sent_text": "coinse3457"
+        },
+        "primary_categories_ranked": [
+            [
+                "profile",
+                0.2094870435694853
+            ],
+            [
+                "auth_code",
+                0.4945053013662497
+            ],
+            [
+                "description",
+                0.5890709357957045
+            ],
+            [
+                "messenger",
+                0.5974569335579871
+            ],
+            [
+                "ledger",
+                0.6630362920463084
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "password",
+                0.1768600841363271
+            ],
+            [
+                "email",
+                0.36106243232886
+            ],
+            [
+                "phone",
+                0.42491595198710763
+            ],
+            [
+                "username",
+                0.4632507264614105
+            ],
+            [
+                "samsung_account",
+                0.6033630128949881
+            ]
+        ],
+        "concrete_category": "password",
+        "predicted_inputs": [
+            "abcd!1234@",
+            "abcd!1234",
+            "gus@ka123"
+        ]
+    },
+    "data/OSS/textfield_contexts/nl.asymmetrics.droidshows_1/search_text": {
+        "app_name": "nl.asymmetrics.droidshows",
+        "screenshot_path": "data/OSS/snapshots/nl.asymmetrics.droidshows/-52577856/screenshot.png",
+        "best": [
+            "search",
+            "tv_show"
+        ],
+        "properties": {
+            "index": "0",
+            "package": "nl.asymmetrics.droidshows",
+            "class": "android.widget.EditText",
+            "text": "Search\u2026",
+            "resource-id": "search_text",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "true",
+            "long-clickable": "true",
+            "password": "false",
+            "scrollable": "false",
+            "selected": "false",
+            "bounds": "[0,220][872,321]",
+            "displayed": "true",
+            "sent_text": "Good Place"
+        },
+        "primary_categories_ranked": [
+            [
+                "search",
+                0.40504570975899695
+            ],
+            [
+                "description",
+                0.5698306212822597
+            ],
+            [
+                "messenger",
+                0.6145432882010936
+            ],
+            [
+                "auth_code",
+                0.6347255563984315
+            ],
+            [
+                "profile",
+                0.6483293548226357
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "tv_show",
+                0.6161713631202776
+            ],
+            [
+                "storage",
+                0.6170351654291153
+            ],
+            [
+                "web",
+                0.6575379619995754
+            ],
+            [
+                "book",
+                0.6721041277050972
+            ],
+            [
+                "video",
+                0.6862210078785816
+            ]
+        ],
+        "concrete_category": "tv_show",
+        "predicted_inputs": [
+            "breaking bad",
+            "friends",
+            "the office"
+        ]
+    },
+    "data/OSS/textfield_contexts/nl.asymmetrics.droidshows_1/search_src_text": {
+        "app_name": "nl.asymmetrics.droidshows",
+        "screenshot_path": "data/OSS/snapshots/nl.asymmetrics.droidshows/-924464529/screenshot.png",
+        "best": [
+            "search",
+            "tv_show"
+        ],
+        "properties": {
+            "index": "0",
+            "package": "nl.asymmetrics.droidshows",
+            "class": "android.widget.AutoCompleteTextView",
+            "text": "   Show to add\u2026",
+            "resource-id": "search_src_text",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "true",
+            "long-clickable": "true",
+            "password": "false",
+            "scrollable": "false",
+            "selected": "false",
+            "bounds": "[183,81][1058,180]",
+            "displayed": "true",
+            "sent_text": "Friends\\n"
+        },
+        "primary_categories_ranked": [
+            [
+                "search",
+                0.41208333894610405
+            ],
+            [
+                "description",
+                0.5604020198186237
+            ],
+            [
+                "auth_code",
+                0.6237103059887885
+            ],
+            [
+                "messenger",
+                0.6358712653319041
+            ],
+            [
+                "profile",
+                0.6587384156882763
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "tv_show",
+                0.4573947799702485
+            ],
+            [
+                "app",
+                0.5830176211893559
+            ],
+            [
+                "storage",
+                0.6486557573080063
+            ],
+            [
+                "web",
+                0.6653816848993301
+            ],
+            [
+                "video",
+                0.669928961743911
+            ]
+        ],
+        "concrete_category": "tv_show",
+        "predicted_inputs": [
+            "breaking bad",
+            "friends",
+            "the office"
+        ]
+    },
+    "data/OSS/textfield_contexts/Raivo_1/passwordConfirmation": {
+        "app_name": "Raivo",
+        "screenshot_path": "data/OSS/snapshots/Raivo/159475504/screenshot.png",
+        "best": [
+            "profile",
+            "password"
+        ],
+        "properties": {
+            "type": "XCUIElementTypeSecureTextField",
+            "value": "hC^FA7gW}TnW5MXB",
+            "name": "passwordConfirmation",
+            "label": "",
+            "enabled": "true",
+            "visible": "true",
+            "accessible": "true",
+            "x": "8",
+            "y": "288",
+            "width": "374",
+            "height": "46",
+            "index": "2",
+            "sent_text": "abcd1234"
+        },
+        "primary_categories_ranked": [
+            [
+                "profile",
+                0.27793530796964966
+            ],
+            [
+                "auth_code",
+                0.29685283179084454
+            ],
+            [
+                "ledger",
+                0.645682434240977
+            ],
+            [
+                "datetime",
+                0.6728492762893439
+            ],
+            [
+                "code",
+                0.6870348934084176
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "password",
+                0.18897887070973712
+            ],
+            [
+                "username",
+                0.4842815386752288
+            ],
+            [
+                "email",
+                0.5284754907091459
+            ],
+            [
+                "samsung_account",
+                0.6119894379129013
+            ],
+            [
+                "phone",
+                0.662431978310148
+            ]
+        ],
+        "concrete_category": "password",
+        "predicted_inputs": [
+            "abcd!1234@",
+            "abcd!1234",
+            "gus@ka123"
+        ]
+    },
+    "data/OSS/textfield_contexts/Raivo_1/passwordInitial": {
+        "app_name": "Raivo",
+        "screenshot_path": "data/OSS/snapshots/Raivo/797759489/screenshot.png",
+        "best": [
+            "profile",
+            "password"
+        ],
+        "properties": {
+            "type": "XCUIElementTypeSecureTextField",
+            "value": "hC^FA7gW}TnW5MXB",
+            "name": "passwordInitial",
+            "label": "",
+            "enabled": "true",
+            "visible": "true",
+            "accessible": "true",
+            "x": "8",
+            "y": "330",
+            "width": "374",
+            "height": "45",
+            "index": "2",
+            "sent_text": "abcd1234"
+        },
+        "primary_categories_ranked": [
+            [
+                "profile",
+                0.3568024060378472
+            ],
+            [
+                "auth_code",
+                0.5814982451498508
+            ],
+            [
+                "numerical",
+                0.6341116845607757
+            ],
+            [
+                "datetime",
+                0.6523955838133891
+            ],
+            [
+                "ledger",
+                0.6651383268336455
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "password",
+                0.22293628845363855
+            ],
+            [
+                "username",
+                0.4840170356134574
+            ],
+            [
+                "samsung_account",
+                0.6263079599787792
+            ],
+            [
+                "email",
+                0.6270738312353691
+            ],
+            [
+                "phone",
+                0.6758568945030372
+            ]
+        ],
+        "concrete_category": "password",
+        "predicted_inputs": [
+            "abcd!1234@",
+            "abcd!1234",
+            "gus@ka123"
+        ]
+    },
+    "data/OSS/textfield_contexts/ExampleMVVM_1/AccessibilityIdentifierSearchMovies": {
+        "app_name": "ExampleMVVM",
+        "screenshot_path": "data/OSS/snapshots/ExampleMVVM/47995988/screenshot.png",
+        "best": [
+            "search",
+            "movie"
+        ],
+        "properties": {
+            "type": "XCUIElementTypeSearchField",
+            "name": "AccessibilityIdentifierSearchMovies",
+            "label": "Search Movies",
+            "enabled": "true",
+            "visible": "true",
+            "accessible": "true",
+            "x": "8",
+            "y": "101",
+            "width": "374",
+            "height": "36",
+            "index": "0",
+            "sent_text": "Arrival"
+        },
+        "primary_categories_ranked": [
+            [
+                "search",
+                0.44176705082257584
+            ],
+            [
+                "music",
+                0.6633455254137516
+            ],
+            [
+                "profile",
+                0.6826536789536476
+            ],
+            [
+                "auth_code",
+                0.6911209538578986
+            ],
+            [
+                "numerical",
+                0.6937365184227624
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "movie",
+                0.49144857935607433
+            ],
+            [
+                "tv_show",
+                0.6640480731924375
+            ],
+            [
+                "video",
+                0.6696717937787374
+            ],
+            [
+                "music",
+                0.6758956996103127
+            ],
+            [
+                "web",
+                0.6849319661657016
+            ]
+        ],
+        "concrete_category": "movie",
+        "predicted_inputs": [
+            "harry potter",
+            "arrival",
+            "Avatar"
+        ]
+    },
+    "data/OSS/textfield_contexts/Firefox_Fast_Private_Browser_v101.1.1_1/mozac_browser_toolbar_edit_url_view": {
+        "app_name": "Firefox_Fast_Private_Browser_v101.1.1",
+        "screenshot_path": "data/OSS/snapshots/Firefox_Fast_Private_Browser_v101.1.1/1018090987/screenshot.png",
+        "best": [
+            "search",
+            "web"
+        ],
+        "properties": {
+            "index": "2",
+            "package": "org.mozilla.firefox",
+            "class": "android.widget.EditText",
+            "text": "Search or enter address",
+            "resource-id": "mozac_browser_toolbar_edit_url_view",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "true",
+            "long-clickable": "true",
+            "password": "false",
+            "scrollable": "false",
+            "selected": "false",
+            "bounds": "[154,1331][948,1441]",
+            "displayed": "true",
+            "sent_text": "www.google.com"
+        },
+        "primary_categories_ranked": [
+            [
+                "search",
+                0.42050420319040616
+            ],
+            [
+                "profile",
+                0.5677504097421964
+            ],
+            [
+                "auth_code",
+                0.5766533027092616
+            ],
+            [
+                "description",
+                0.5876631990075111
+            ],
+            [
+                "messenger",
+                0.6923404256502786
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "web",
+                0.15714422861735025
+            ],
+            [
+                "storage",
+                0.6445855634907881
+            ],
+            [
+                "app",
+                0.6657558791339397
+            ],
+            [
+                "location",
+                0.6926254307230313
+            ],
+            [
+                "video",
+                0.6963806822896004
+            ]
+        ],
+        "concrete_category": "web",
+        "predicted_inputs": [
+            "www.naver.com",
+            "www.google.com",
+            "How to make an apple pie"
+        ]
+    },
+    "data/OSS/textfield_contexts/Opera_Mini_fast_web_browser_v63.0.2254.61942_1/url_field": {
+        "app_name": "Opera_Mini_fast_web_browser_v63.0.2254.61942",
+        "screenshot_path": "data/OSS/snapshots/Opera_Mini_fast_web_browser_v63.0.2254.61942/70984969/screenshot.png",
+        "best": [
+            "search",
+            "web"
+        ],
+        "properties": {
+            "index": "2",
+            "package": "com.opera.mini.native",
+            "class": "android.widget.EditText",
+            "text": "Search or enter address",
+            "resource-id": "url_field",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "false",
+            "focused": "false",
+            "long-clickable": "true",
+            "password": "false",
+            "scrollable": "false",
+            "selected": "false",
+            "bounds": "[140,231][918,352]",
+            "displayed": "true",
+            "sent_text": "www.google.com"
+        },
+        "primary_categories_ranked": [
+            [
+                "search",
+                0.4164590229590734
+            ],
+            [
+                "profile",
+                0.5478992258508999
+            ],
+            [
+                "auth_code",
+                0.5722711846232414
+            ],
+            [
+                "code",
+                0.6186025629440943
+            ],
+            [
+                "description",
+                0.6267315044999122
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "web",
+                0.1825300057729085
+            ],
+            [
+                "news",
+                0.4788837016870578
+            ],
+            [
+                "location",
+                0.5992377772927284
+            ],
+            [
+                "podcast",
+                0.6088359318673611
+            ],
+            [
+                "storage",
+                0.6466004066169262
+            ]
+        ],
+        "concrete_category": "web",
+        "predicted_inputs": [
+            "www.naver.com",
+            "www.google.com",
+            "How to make an apple pie"
+        ]
+    },
+    "data/OSS/textfield_contexts/Waze_Navigation_Live_Traffic_v4.84.0.2_1/searchBox": {
+        "app_name": "Waze_Navigation_Live_Traffic_v4.84.0.2",
+        "screenshot_path": "data/OSS/snapshots/Waze_Navigation_Live_Traffic_v4.84.0.2/-1669109699/screenshot.png",
+        "best": [
+            "search",
+            "location"
+        ],
+        "properties": {
+            "index": "0",
+            "package": "com.waze",
+            "class": "android.widget.EditText",
+            "text": "Where to?",
+            "content-desc": "sideMenuSearchBox",
+            "resource-id": "searchBox",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "false",
+            "focused": "false",
+            "long-clickable": "true",
+            "password": "false",
+            "scrollable": "false",
+            "selected": "false",
+            "bounds": "[33,621][937,753]",
+            "displayed": "true",
+            "sent_text": "eiffel tower"
+        },
+        "primary_categories_ranked": [
+            [
+                "search",
+                0.37559593568245564
+            ],
+            [
+                "label",
+                0.6066121239215135
+            ],
+            [
+                "datetime",
+                0.6227248199284077
+            ],
+            [
+                "profile",
+                0.6408086329698562
+            ],
+            [
+                "description",
+                0.6412115067243576
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "location",
+                0.3805679827928543
+            ],
+            [
+                "web",
+                0.5436434869964918
+            ],
+            [
+                "car_model",
+                0.6129992641508579
+            ],
+            [
+                "storage",
+                0.6534242282311122
+            ],
+            [
+                "country",
+                0.6600109872718651
+            ]
+        ],
+        "concrete_category": "location",
+        "predicted_inputs": [
+            "Daejeon",
+            "meeting room",
+            "room 1",
+            "daejeon city hall"
+        ]
+    },
+    "data/OSS/textfield_contexts/Instagram_3/password": {
+        "app_name": "Instagram",
+        "screenshot_path": "data/OSS/snapshots/Instagram/215427127/screenshot.png",
+        "best": [
+            "profile",
+            "password"
+        ],
+        "properties": {
+            "index": "0",
+            "package": "com.instagram.android",
+            "class": "android.widget.EditText",
+            "text": "Password",
+            "resource-id": "password",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "long-clickable": "true",
+            "password": "true",
+            "scrollable": "false",
+            "selected": "false",
+            "bounds": "[77,567][1003,699]",
+            "displayed": "true",
+            "sent_text": "eyedrop$4forsale"
+        },
+        "primary_categories_ranked": [
+            [
+                "profile",
+                0.19083366046349204
+            ],
+            [
+                "auth_code",
+                0.5813983261585235
+            ],
+            [
+                "ledger",
+                0.6271069727838039
+            ],
+            [
+                "search",
+                0.6387049627800782
+            ],
+            [
+                "description",
+                0.6818572136263052
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "password",
+                0.1102337787548701
+            ],
+            [
+                "username",
+                0.38578099509080255
+            ],
+            [
+                "name",
+                0.5048163508375485
+            ],
+            [
+                "email",
+                0.5414036015669504
+            ],
+            [
+                "samsung_account",
+                0.6057911732544502
+            ]
+        ],
+        "concrete_category": "password",
+        "predicted_inputs": [
+            "abcd!1234@",
+            "abcd!1234",
+            "gus@ka123"
+        ]
+    },
+    "data/OSS/textfield_contexts/Instagram_3/search": {
+        "app_name": "Instagram",
+        "screenshot_path": "data/OSS/snapshots/Instagram/1381772643/screenshot.png",
+        "best": [
+            "profile",
+            "country"
+        ],
+        "properties": {
+            "index": "0",
+            "package": "com.instagram.android",
+            "class": "android.widget.EditText",
+            "text": "Country name or code",
+            "resource-id": "search",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "long-clickable": "true",
+            "password": "false",
+            "scrollable": "false",
+            "selected": "false",
+            "bounds": "[122,665][925,797]",
+            "displayed": "true",
+            "sent_text": "South Korea"
+        },
+        "primary_categories_ranked": [
+            [
+                "profile",
+                0.3638448943694433
+            ],
+            [
+                "location",
+                0.40257391532262166
+            ],
+            [
+                "search",
+                0.42101296832164126
+            ],
+            [
+                "auth_code",
+                0.44643077527483305
+            ],
+            [
+                "code",
+                0.4489486234883467
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "country",
+                0.323786439994971
+            ],
+            [
+                "name",
+                0.3916364287336667
+            ],
+            [
+                "username",
+                0.5252238611380259
+            ],
+            [
+                "email",
+                0.6630006444950899
+            ],
+            [
+                "company",
+                0.6682489166657131
+            ]
+        ],
+        "concrete_category": "country",
+        "predicted_inputs": [
+            "Korea",
+            "Algeria",
+            "Argentina"
+        ]
+    },
+    "data/OSS/textfield_contexts/Instagram_3/full_name": {
+        "app_name": "Instagram",
+        "screenshot_path": "data/OSS/snapshots/Instagram/973891293/screenshot.png",
+        "best": [
+            "profile",
+            "name"
+        ],
+        "properties": {
+            "index": "0",
+            "package": "com.instagram.android",
+            "class": "android.widget.EditText",
+            "text": "Full name",
+            "resource-id": "full_name",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "long-clickable": "true",
+            "password": "false",
+            "scrollable": "false",
+            "selected": "false",
+            "bounds": "[77,391][1003,523]",
+            "displayed": "true",
+            "sent_text": "Jane Doe"
+        },
+        "primary_categories_ranked": [
+            [
+                "profile",
+                0.5234472591429948
+            ],
+            [
+                "label",
+                0.5261401008814572
+            ],
+            [
+                "description",
+                0.575698871165514
+            ],
+            [
+                "search",
+                0.581952291354537
+            ],
+            [
+                "datetime",
+                0.6377277582883835
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "name",
+                0.3702681337793668
+            ],
+            [
+                "password",
+                0.4603154972816507
+            ],
+            [
+                "username",
+                0.4657434582089385
+            ],
+            [
+                "email",
+                0.6179741860056917
+            ],
+            [
+                "company",
+                0.663377587373058
+            ]
+        ],
+        "concrete_category": "name",
+        "predicted_inputs": [
+            "Juyeon Yoon",
+            "Suhee Choi",
+            "Bob Alen"
+        ]
+    },
+    "data/OSS/textfield_contexts/Instagram_3/confirmation_field": {
+        "app_name": "Instagram",
+        "screenshot_path": "data/OSS/snapshots/Instagram/1954100112/screenshot.png",
+        "best": [
+            "auth_code",
+            null
+        ],
+        "properties": {
+            "index": "0",
+            "package": "com.instagram.android",
+            "class": "android.widget.EditText",
+            "text": "Confirmation code",
+            "resource-id": "confirmation_field",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "true",
+            "long-clickable": "true",
+            "password": "false",
+            "scrollable": "false",
+            "selected": "false",
+            "bounds": "[77,508][1003,640]",
+            "displayed": "true",
+            "sent_text": "180953"
+        },
+        "primary_categories_ranked": [
+            [
+                "auth_code",
+                0.15484397361675897
+            ],
+            [
+                "code",
+                0.4540979243814945
+            ],
+            [
+                "profile",
+                0.5504148257275422
+            ],
+            [
+                "numerical",
+                0.6218460616966088
+            ],
+            [
+                "description",
+                0.6577552340924739
+            ]
+        ],
+        "secondary_categories_ranked": [],
+        "concrete_category": "auth_code",
+        "predicted_inputs": [
+            "5974",
+            "123789",
+            "000000"
+        ]
+    },
+    "data/OSS/textfield_contexts/Instagram_3/phone_field": {
+        "app_name": "Instagram",
+        "screenshot_path": "data/OSS/snapshots/Instagram/-628214519/screenshot.png",
+        "best": [
+            "profile",
+            "phone"
+        ],
+        "properties": {
+            "index": "2",
+            "package": "com.instagram.android",
+            "class": "android.widget.AutoCompleteTextView",
+            "text": "(555) 123-4567",
+            "resource-id": "phone_field",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "true",
+            "long-clickable": "true",
+            "password": "false",
+            "scrollable": "false",
+            "selected": "false",
+            "bounds": "[293,1070][915,1202]",
+            "displayed": "true",
+            "sent_text": "1064782959"
+        },
+        "primary_categories_ranked": [
+            [
+                "profile",
+                0.3185626409947872
+            ],
+            [
+                "auth_code",
+                0.45701782753070186
+            ],
+            [
+                "code",
+                0.6415262286861737
+            ],
+            [
+                "location",
+                0.6521552857011557
+            ],
+            [
+                "messenger",
+                0.6692527944842973
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "phone",
+                0.36393347258369124
+            ],
+            [
+                "email",
+                0.41215301925937337
+            ],
+            [
+                "samsung_account",
+                0.5276010862241189
+            ],
+            [
+                "country",
+                0.560432213669022
+            ],
+            [
+                "password",
+                0.5944528182347616
+            ]
+        ],
+        "concrete_category": "phone",
+        "predicted_inputs": [
+            "(010) 4940-4583",
+            "010-4940-4583",
+            "01049404583"
+        ]
+    },
+    "data/OSS/textfield_contexts/im.status.ethereum_1/-103358224": {
+        "app_name": "im.status.ethereum",
+        "screenshot_path": "data/OSS/snapshots/im.status.ethereum/508861723/screenshot.png",
+        "best": [
+            "profile",
+            "password"
+        ],
+        "properties": {
+            "index": "0",
+            "package": "im.status.ethereum",
+            "class": "android.widget.EditText",
+            "text": "Confirm your password...",
+            "content-desc": "password-input",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "long-clickable": "true",
+            "password": "true",
+            "scrollable": "false",
+            "selected": "false",
+            "bounds": "[88,1192][838,1313]",
+            "displayed": "true",
+            "sent_text": "eyedrop$4forsale"
+        },
+        "primary_categories_ranked": [
+            [
+                "profile",
+                0.360184475282828
+            ],
+            [
+                "auth_code",
+                0.43346350093682606
+            ],
+            [
+                "description",
+                0.637831558783849
+            ],
+            [
+                "ledger",
+                0.6532949452598888
+            ],
+            [
+                "search",
+                0.6576226276655991
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "password",
+                0.2282346412539482
+            ],
+            [
+                "username",
+                0.4895411307613055
+            ],
+            [
+                "email",
+                0.597297266125679
+            ],
+            [
+                "samsung_account",
+                0.6374045455207427
+            ],
+            [
+                "name",
+                0.6831438938776652
+            ]
+        ],
+        "concrete_category": "password",
+        "predicted_inputs": [
+            "abcd!1234@",
+            "abcd!1234",
+            "gus@ka123"
+        ]
+    },
+    "data/OSS/textfield_contexts/im.status.ethereum_1/-400961918": {
+        "app_name": "im.status.ethereum",
+        "screenshot_path": "data/OSS/snapshots/im.status.ethereum/508861723/screenshot.png",
+        "best": [
+            "profile",
+            "password"
+        ],
+        "properties": {
+            "index": "0",
+            "package": "im.status.ethereum",
+            "class": "android.widget.EditText",
+            "text": "Password...",
+            "content-desc": "password-input",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "true",
+            "long-clickable": "true",
+            "password": "true",
+            "scrollable": "false",
+            "selected": "false",
+            "bounds": "[88,983][838,1104]",
+            "displayed": "true",
+            "sent_text": "eyedrop$4forsale"
+        },
+        "primary_categories_ranked": [
+            [
+                "profile",
+                0.3313377077380816
+            ],
+            [
+                "auth_code",
+                0.5754254241784412
+            ],
+            [
+                "description",
+                0.6648802662889163
+            ],
+            [
+                "ledger",
+                0.6741647313038508
+            ],
+            [
+                "messenger",
+                0.7262402797738711
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "password",
+                0.19256468613942462
+            ],
+            [
+                "username",
+                0.4701089089115461
+            ],
+            [
+                "email",
+                0.607199976220727
+            ],
+            [
+                "samsung_account",
+                0.6482812563578287
+            ],
+            [
+                "name",
+                0.6812130423883597
+            ]
+        ],
+        "concrete_category": "password",
+        "predicted_inputs": [
+            "abcd!1234@",
+            "abcd!1234",
+            "gus@ka123"
+        ]
+    },
+    "data/OSS/textfield_contexts/Messenger_1/131573223": {
+        "app_name": "Messenger",
+        "screenshot_path": "data/OSS/snapshots/Messenger/-1496142319/screenshot.png",
+        "best": [
+            "profile",
+            "email"
+        ],
+        "properties": {
+            "index": "0",
+            "package": "com.facebook.orca",
+            "class": "android.widget.EditText",
+            "text": "Phone number or email",
+            "content-desc": "Phone number or email",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "long-clickable": "true",
+            "password": "false",
+            "scrollable": "false",
+            "selected": "false",
+            "bounds": "[55,1442][1025,1585]",
+            "displayed": "true",
+            "sent_text": "greenmon@kaist.ac.kr"
+        },
+        "primary_categories_ranked": [
+            [
+                "profile",
+                0.1404540518919627
+            ],
+            [
+                "auth_code",
+                0.3569712921977043
+            ],
+            [
+                "numerical",
+                0.4058798951407273
+            ],
+            [
+                "device_profile",
+                0.46254410892724984
+            ],
+            [
+                "messenger",
+                0.6156443618237972
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "email",
+                0.20320130263765654
+            ],
+            [
+                "phone",
+                0.34160638600587845
+            ],
+            [
+                "password",
+                0.4098554278413455
+            ],
+            [
+                "samsung_account",
+                0.48292408759395283
+            ],
+            [
+                "username",
+                0.5285350618263085
+            ]
+        ],
+        "concrete_category": "email",
+        "predicted_inputs": [
+            "samsung3@samsung.com",
+            "asdf123@naver.com",
+            "samsung2@samsung.com"
+        ]
+    },
+    "data/OSS/textfield_contexts/Messenger_1/-1478030010": {
+        "app_name": "Messenger",
+        "screenshot_path": "data/OSS/snapshots/Messenger/-1496142319/screenshot.png",
+        "best": [
+            "profile",
+            "password"
+        ],
+        "properties": {
+            "index": "0",
+            "package": "com.facebook.orca",
+            "class": "android.widget.EditText",
+            "text": "Password",
+            "content-desc": "Password",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "long-clickable": "true",
+            "password": "true",
+            "scrollable": "false",
+            "selected": "false",
+            "bounds": "[55,825][1025,968]",
+            "displayed": "true",
+            "sent_text": "eyedrop$4forsale"
+        },
+        "primary_categories_ranked": [
+            [
+                "profile",
+                0.10429106007019677
+            ],
+            [
+                "auth_code",
+                0.5213681623339652
+            ],
+            [
+                "ledger",
+                0.5570006169378757
+            ],
+            [
+                "numerical",
+                0.6927553383012611
+            ],
+            [
+                "description",
+                0.6968202027181785
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "password",
+                0.09240498145421346
+            ],
+            [
+                "email",
+                0.37768583248058957
+            ],
+            [
+                "username",
+                0.3777045955260595
+            ],
+            [
+                "samsung_account",
+                0.4629036740710338
+            ],
+            [
+                "phone",
+                0.5138052453597387
+            ]
+        ],
+        "concrete_category": "password",
+        "predicted_inputs": [
+            "abcd!1234@",
+            "abcd!1234",
+            "gus@ka123"
+        ]
+    },
+    "data/OSS/textfield_contexts/Hulu_1/password": {
+        "app_name": "Hulu",
+        "screenshot_path": "data/OSS/snapshots/Hulu/638690253/screenshot.png",
+        "best": [
+            "profile",
+            "password"
+        ],
+        "properties": {
+            "index": "0",
+            "package": "com.hulu.plus",
+            "class": "android.widget.EditText",
+            "text": "password",
+            "resource-id": "password",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "long-clickable": "true",
+            "password": "true",
+            "scrollable": "false",
+            "selected": "false",
+            "bounds": "[66,875][1014,1012]",
+            "displayed": "true",
+            "sent_text": "eyedrop$4forsale"
+        },
+        "primary_categories_ranked": [
+            [
+                "profile",
+                0.13837434897820153
+            ],
+            [
+                "auth_code",
+                0.5246619030833244
+            ],
+            [
+                "ledger",
+                0.5534497432410717
+            ],
+            [
+                "description",
+                0.6974332811931769
+            ],
+            [
+                "messenger",
+                0.7123330655197302
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "password",
+                0.07471684863169988
+            ],
+            [
+                "email",
+                0.38283251722653705
+            ],
+            [
+                "username",
+                0.4035118992129962
+            ],
+            [
+                "samsung_account",
+                0.46062338290115196
+            ],
+            [
+                "name",
+                0.6505925580859184
+            ]
+        ],
+        "concrete_category": "password",
+        "predicted_inputs": [
+            "abcd!1234@",
+            "abcd!1234",
+            "gus@ka123"
+        ]
+    },
+    "data/OSS/textfield_contexts/Hulu_1/email": {
+        "app_name": "Hulu",
+        "screenshot_path": "data/OSS/snapshots/Hulu/638690253/screenshot.png",
+        "best": [
+            "profile",
+            "email"
+        ],
+        "properties": {
+            "index": "0",
+            "package": "com.hulu.plus",
+            "class": "android.widget.EditText",
+            "text": "email",
+            "resource-id": "email",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "long-clickable": "true",
+            "password": "false",
+            "scrollable": "false",
+            "selected": "false",
+            "bounds": "[66,653][1014,790]",
+            "displayed": "true",
+            "sent_text": "anony1017mous@gmail.com"
+        },
+        "primary_categories_ranked": [
+            [
+                "profile",
+                0.16348261932531993
+            ],
+            [
+                "auth_code",
+                0.22693088004986445
+            ],
+            [
+                "messenger",
+                0.5591568102439244
+            ],
+            [
+                "description",
+                0.587140717357397
+            ],
+            [
+                "ledger",
+                0.6025316461920738
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "email",
+                0.0976274957259496
+            ],
+            [
+                "password",
+                0.3599218701322873
+            ],
+            [
+                "samsung_account",
+                0.5006365788479645
+            ],
+            [
+                "username",
+                0.5210117250680923
+            ],
+            [
+                "phone",
+                0.6079043969511986
+            ]
+        ],
+        "concrete_category": "email",
+        "predicted_inputs": [
+            "samsung3@samsung.com",
+            "asdf123@naver.com",
+            "samsung2@samsung.com"
+        ]
+    },
+    "data/OSS/textfield_contexts/deep.ryd.rydplayer_1/617068565": {
+        "app_name": "deep.ryd.rydplayer",
+        "screenshot_path": "data/OSS/snapshots/deep.ryd.rydplayer/-762092943/screenshot.png",
+        "best": [
+            "music",
+            "playlist_url"
+        ],
+        "properties": {
+            "index": "0",
+            "package": "deep.ryd.rydplayer",
+            "class": "android.widget.EditText",
+            "text": "Youtube Playlist URL",
+            "resource-id": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "scrollable": "false",
+            "selected": "false",
+            "bounds": "[155,1041][925,1203]",
+            "displayed": "true",
+            "sent_text": "https://youtube.com/playlist?list=PLoIcW4SY1awPlYZkE3qacewGEtfhDLrLt"
+        },
+        "primary_categories_ranked": [
+            [
+                "music",
+                0.5125475086271762
+            ],
+            [
+                "description",
+                0.6651525562008221
+            ],
+            [
+                "auth_code",
+                0.7445979547997316
+            ],
+            [
+                "profile",
+                0.7464777688185373
+            ],
+            [
+                "search",
+                0.7524876347432533
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "playlist_url",
+                0.0
+            ],
+            [
+                "song",
+                0.5149168018251657
+            ],
+            [
+                "album",
+                0.6190843563526869
+            ],
+            [
+                "genre",
+                0.6576475938782096
+            ],
+            [
+                "artist",
+                0.7165442978342375
+            ]
+        ],
+        "concrete_category": "playlist_url",
+        "predicted_inputs": [
+            "https://www.youtube.com/watch?v=zugAhfd2r0g&ab_channel=JYPEntertainment",
+            "https://youtube.com/playlist?list=PLoIcW4SY1awPlYZkE3qacewGEtfhDLrLt",
+            "https://youtube.com/playlist?list=PLoIcW4SY1awNonkj3DKFWhOFtFw-atqb1"
+        ]
+    },
+    "data/OSS/textfield_contexts/com.velas.mobile_wallet_1/735730464": {
+        "app_name": "com.velas.mobile_wallet",
+        "screenshot_path": "data/OSS/snapshots/com.velas.mobile_wallet/2009846125/screenshot.png",
+        "best": [
+            "profile",
+            "password"
+        ],
+        "properties": {
+            "index": "1",
+            "package": "com.velas.mobile_wallet",
+            "class": "android.widget.EditText",
+            "text": "Password",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "long-clickable": "true",
+            "password": "true",
+            "scrollable": "false",
+            "selected": "false",
+            "bounds": "[124,1048][973,1185]",
+            "displayed": "true",
+            "sent_text": "eyedrop$4forsale"
+        },
+        "primary_categories_ranked": [
+            [
+                "profile",
+                0.22277010778586065
+            ],
+            [
+                "auth_code",
+                0.6090910091996193
+            ],
+            [
+                "ledger",
+                0.6403439968824386
+            ],
+            [
+                "code",
+                0.7218218259513377
+            ],
+            [
+                "description",
+                0.7224262314538161
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "password",
+                0.12302133440971375
+            ],
+            [
+                "username",
+                0.44374830275774
+            ],
+            [
+                "email",
+                0.6074287531276544
+            ],
+            [
+                "samsung_account",
+                0.6232226174324751
+            ],
+            [
+                "name",
+                0.67079683765769
+            ]
+        ],
+        "concrete_category": "password",
+        "predicted_inputs": [
+            "abcd!1234@",
+            "abcd!1234",
+            "gus@ka123"
+        ]
+    },
+    "data/OSS/textfield_contexts/Issuu_magazines_news_books_v5.67.0_1/search_src_text": {
+        "app_name": "Issuu_magazines_news_books_v5.67.0",
+        "screenshot_path": "data/OSS/snapshots/Issuu_magazines_news_books_v5.67.0/-514105064/screenshot.png",
+        "best": [
+            "search",
+            "storage"
+        ],
+        "properties": {
+            "index": "0",
+            "package": "com.issuu.android.app",
+            "class": "android.widget.AutoCompleteTextView",
+            "text": "Search on Issuu",
+            "resource-id": "search_src_text",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "long-clickable": "true",
+            "password": "false",
+            "scrollable": "false",
+            "selected": "false",
+            "bounds": "[154,92][1036,191]",
+            "displayed": "true",
+            "sent_text": "Wedding\\n"
+        },
+        "primary_categories_ranked": [
+            [
+                "search",
+                0.4438951211671034
+            ],
+            [
+                "description",
+                0.5942514938612778
+            ],
+            [
+                "auth_code",
+                0.636863234390815
+            ],
+            [
+                "label",
+                0.637741429110368
+            ],
+            [
+                "profile",
+                0.6430481379230817
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "storage",
+                0.5350351060430208
+            ],
+            [
+                "megazine",
+                0.6455812441805998
+            ],
+            [
+                "book",
+                0.661394522835811
+            ],
+            [
+                "web",
+                0.664691152671973
+            ],
+            [
+                "country_code",
+                0.6991410131255786
+            ]
+        ],
+        "concrete_category": "storage",
+        "predicted_inputs": [
+            "filename",
+            "father",
+            "hi",
+            "love dive",
+            "drug store",
+            "sound",
+            "20221201"
+        ]
+    },
+    "data/OSS/textfield_contexts/AutoScout24_Buy_sell_cars_v9.8/textinput_filter_edittext": {
+        "app_name": "AutoScout24_Buy_sell_cars",
+        "screenshot_path": "data/OSS/snapshots/AutoScout24_Buy_sell_cars/1694299268/screenshot.png",
+        "best": [
+            "search",
+            "car_model"
+        ],
+        "properties": {
+            "index": "0",
+            "package": "com.autoscout24",
+            "class": "android.widget.EditText",
+            "text": "Search",
+            "resource-id": "textinput_filter_edittext",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "long-clickable": "true",
+            "password": "false",
+            "scrollable": "false",
+            "selected": "false",
+            "bounds": "[188,301][892,433]",
+            "displayed": "true",
+            "sent_text": "3 series"
+        },
+        "primary_categories_ranked": [
+            [
+                "search",
+                0.442582239707311
+            ],
+            [
+                "description",
+                0.5650246952970822
+            ],
+            [
+                "messenger",
+                0.6107419920464356
+            ],
+            [
+                "profile",
+                0.6251301109790801
+            ],
+            [
+                "auth_code",
+                0.637342860798041
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "car_model",
+                0.5306239637235801
+            ],
+            [
+                "storage",
+                0.6048180684447289
+            ],
+            [
+                "tv_show",
+                0.6372943694392841
+            ],
+            [
+                "book",
+                0.6504447621603807
+            ],
+            [
+                "web",
+                0.6849260826905568
+            ]
+        ],
+        "concrete_category": "car_model",
+        "predicted_inputs": [
+            "750",
+            "3 Series",
+            "i30"
+        ]
+    },
+    "data/OSS/textfield_contexts/org.billthefarmer.currency_1/edit": {
+        "app_name": "org.billthefarmer.currency",
+        "screenshot_path": "data/OSS/snapshots/org.billthefarmer.currency/-330216155/screenshot.png",
+        "best": [
+            "datetime",
+            "date"
+        ],
+        "properties": {
+            "index": "2",
+            "package": "org.billthefarmer.currency",
+            "class": "android.widget.EditText",
+            "text": "1.071",
+            "resource-id": "edit",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "true",
+            "long-clickable": "true",
+            "password": "false",
+            "scrollable": "false",
+            "selected": "false",
+            "bounds": "[497,242][1058,381]",
+            "displayed": "true",
+            "sent_text": "1.171"
+        },
+        "primary_categories_ranked": [
+            [
+                "datetime",
+                0.6476847601433594
+            ],
+            [
+                "description",
+                0.6547571043173471
+            ],
+            [
+                "profile",
+                0.6682524333397548
+            ],
+            [
+                "numerical",
+                0.7089535541832446
+            ],
+            [
+                "auth_code",
+                0.7459650720159212
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "date",
+                0.5402269102632999
+            ],
+            [
+                "time",
+                0.6920867661635081
+            ],
+            [
+                "month",
+                0.7011781769494215
+            ],
+            [
+                "year",
+                0.7169634600480398
+            ],
+            [
+                "minute",
+                0.7191965952515602
+            ]
+        ],
+        "concrete_category": "date",
+        "predicted_inputs": [
+            "2021-01-01",
+            "2021/01/02",
+            "2021, 01, 03"
+        ]
+    },
+    "data/OSS/textfield_contexts/me.hackerchick.catima_1/search_src_text": {
+        "app_name": "me.hackerchick.catima",
+        "screenshot_path": "data/OSS/snapshots/me.hackerchick.catima/-1021118874/screenshot.png",
+        "best": [
+            "search",
+            "storage"
+        ],
+        "properties": {
+            "index": "0",
+            "package": "me.hackerchick.catima",
+            "class": "android.widget.AutoCompleteTextView",
+            "text": "   ",
+            "resource-id": "search_src_text",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "true",
+            "long-clickable": "true",
+            "password": "false",
+            "scrollable": "false",
+            "selected": "false",
+            "bounds": "[176,103][683,202]",
+            "displayed": "true",
+            "sent_text": "Grocery Store"
+        },
+        "primary_categories_ranked": [
+            [
+                "search",
+                0.45762317764262356
+            ],
+            [
+                "description",
+                0.5818706512451172
+            ],
+            [
+                "auth_code",
+                0.6356754151483376
+            ],
+            [
+                "messenger",
+                0.6591288283467293
+            ],
+            [
+                "profile",
+                0.6717950796087582
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "storage",
+                0.6230052461226782
+            ],
+            [
+                "web",
+                0.6603880152106285
+            ],
+            [
+                "book",
+                0.6937860790640116
+            ],
+            [
+                "video",
+                0.7019959638516108
+            ],
+            [
+                "app",
+                0.7274408489465714
+            ]
+        ],
+        "concrete_category": "storage",
+        "predicted_inputs": [
+            "filename",
+            "father",
+            "hi",
+            "love dive",
+            "drug store",
+            "sound",
+            "20221201"
+        ]
+    },
+    "data/OSS/textfield_contexts/me.hackerchick.catima_1/storeNameEdit": {
+        "app_name": "me.hackerchick.catima",
+        "screenshot_path": "data/OSS/snapshots/me.hackerchick.catima/-236981483/screenshot.png",
+        "best": [
+            "code",
+            "card_id"
+        ],
+        "properties": {
+            "index": "0",
+            "package": "me.hackerchick.catima",
+            "class": "android.widget.EditText",
+            "text": "Name",
+            "resource-id": "storeNameEdit",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "long-clickable": "true",
+            "password": "false",
+            "scrollable": "false",
+            "selected": "false",
+            "bounds": "[199,417][1052,570]",
+            "displayed": "true",
+            "sent_text": "Grocery Store"
+        },
+        "primary_categories_ranked": [
+            [
+                "code",
+                0.5019051998853683
+            ],
+            [
+                "profile",
+                0.579097614188989
+            ],
+            [
+                "description",
+                0.5866526025036971
+            ],
+            [
+                "label",
+                0.603205733994643
+            ],
+            [
+                "auth_code",
+                0.6158952181537944
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "card_id",
+                0.38993662036955357
+            ],
+            [
+                "coupon_code",
+                0.5258763842284679
+            ]
+        ],
+        "concrete_category": "card_id",
+        "predicted_inputs": [
+            "AB123",
+            "1234abcd",
+            "1234ABCD"
+        ]
+    },
+    "data/OSS/textfield_contexts/me.hackerchick.catima_1/cardId": {
+        "app_name": "me.hackerchick.catima",
+        "screenshot_path": "data/OSS/snapshots/me.hackerchick.catima/530085251/screenshot.png",
+        "best": [
+            "code",
+            "card_id"
+        ],
+        "properties": {
+            "index": "1",
+            "package": "me.hackerchick.catima",
+            "class": "android.widget.EditText",
+            "text": "AB1234",
+            "resource-id": "cardId",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "long-clickable": "true",
+            "password": "false",
+            "scrollable": "false",
+            "selected": "false",
+            "bounds": "[285,408][1052,540]",
+            "displayed": "true",
+            "sent_text": "A12345A"
+        },
+        "primary_categories_ranked": [
+            [
+                "code",
+                0.16428587237993877
+            ],
+            [
+                "auth_code",
+                0.6018963823715846
+            ],
+            [
+                "profile",
+                0.6304556230703989
+            ],
+            [
+                "description",
+                0.681966150427858
+            ],
+            [
+                "numerical",
+                0.7081941073139508
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "card_id",
+                0.1142329846819242
+            ],
+            [
+                "coupon_code",
+                0.5302500401933988
+            ]
+        ],
+        "concrete_category": "card_id",
+        "predicted_inputs": [
+            "AB123",
+            "1234abcd",
+            "1234ABCD"
+        ]
+    },
+    "data/OSS/textfield_contexts/de.kromke.andreas.opus1musicplayer_1/search_src_text": {
+        "app_name": "de.kromke.andreas.opus1musicplayer",
+        "screenshot_path": "data/OSS/snapshots/de.kromke.andreas.opus1musicplayer/1643267838/screenshot.png",
+        "best": [
+            "search",
+            "app"
+        ],
+        "properties": {
+            "index": "0",
+            "package": "de.kromke.andreas.opus1musicplayer",
+            "class": "android.widget.AutoCompleteTextView",
+            "text": "Search\u2026",
+            "resource-id": "search_src_text",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "true",
+            "long-clickable": "true",
+            "password": "false",
+            "scrollable": "false",
+            "selected": "false",
+            "bounds": "[111,71][837,170]",
+            "displayed": "true",
+            "sent_text": "Lofi"
+        },
+        "primary_categories_ranked": [
+            [
+                "search",
+                0.4552300407240788
+            ],
+            [
+                "description",
+                0.5916725650429725
+            ],
+            [
+                "auth_code",
+                0.6261794996758302
+            ],
+            [
+                "label",
+                0.6431549052397411
+            ],
+            [
+                "profile",
+                0.654249628384908
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "app",
+                0.5372341523567835
+            ],
+            [
+                "storage",
+                0.6068885748585064
+            ],
+            [
+                "music",
+                0.6425526992728313
+            ],
+            [
+                "web",
+                0.6630946323275566
+            ],
+            [
+                "video",
+                0.6636450464526812
+            ]
+        ],
+        "concrete_category": "app",
+        "predicted_inputs": [
+            "battlegrounds",
+            "youtube",
+            "facebook"
+        ]
+    },
+    "data/OSS/textfield_contexts/BOTIM_Video_and_Voice_Call_v2.7.9_1/search_box": {
+        "app_name": "BOTIM_Video_and_Voice_Call_v2.7.9",
+        "screenshot_path": "data/OSS/snapshots/BOTIM_Video_and_Voice_Call_v2.7.9/-315433776/screenshot.png",
+        "best": [
+            "search",
+            "country"
+        ],
+        "properties": {
+            "index": "0",
+            "package": "im.thebot.messenger",
+            "class": "android.widget.EditText",
+            "text": "8",
+            "resource-id": "search_box",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "true",
+            "long-clickable": "false",
+            "password": "false",
+            "scrollable": "false",
+            "selected": "false",
+            "bounds": "[22,242][916,319]",
+            "displayed": "true",
+            "sent_text": "82"
+        },
+        "primary_categories_ranked": [
+            [
+                "search",
+                0.46850565389419596
+            ],
+            [
+                "location",
+                0.6476996585105855
+            ],
+            [
+                "profile",
+                0.6675123759855826
+            ],
+            [
+                "description",
+                0.6745491366833448
+            ],
+            [
+                "code",
+                0.7141078407565753
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "country",
+                0.564749609058102
+            ],
+            [
+                "country_code",
+                0.5972164167712133
+            ],
+            [
+                "web",
+                0.670059969027837
+            ],
+            [
+                "storage",
+                0.7171069077448919
+            ],
+            [
+                "location",
+                0.737025992013514
+            ]
+        ],
+        "concrete_category": "country",
+        "predicted_inputs": [
+            "Korea",
+            "Algeria",
+            "Argentina"
+        ]
+    },
+    "data/OSS/textfield_contexts/org.totschnig.myexpenses_1/Comment": {
+        "app_name": "org.totschnig.myexpenses",
+        "screenshot_path": "data/OSS/snapshots/org.totschnig.myexpenses/1111865268/screenshot.png",
+        "best": [
+            "description",
+            null
+        ],
+        "properties": {
+            "index": "0",
+            "package": "org.totschnig.myexpenses",
+            "class": "android.widget.EditText",
+            "text": "",
+            "resource-id": "Comment",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "long-clickable": "true",
+            "password": "false",
+            "scrollable": "false",
+            "selected": "false",
+            "bounds": "[327,1055][904,1179]",
+            "displayed": "true",
+            "sent_text": "Receipt Lost"
+        },
+        "primary_categories_ranked": [
+            [
+                "description",
+                0.17652519692977267
+            ],
+            [
+                "tag",
+                0.5476212829351425
+            ],
+            [
+                "profile",
+                0.6112935309608777
+            ],
+            [
+                "ledger",
+                0.6173799575616915
+            ],
+            [
+                "datetime",
+                0.6249260921031237
+            ]
+        ],
+        "secondary_categories_ranked": [],
+        "concrete_category": "description",
+        "predicted_inputs": [
+            "with kaist",
+            "1201dinner",
+            "description1"
+        ]
+    },
+    "data/OSS/textfield_contexts/org.totschnig.myexpenses_1/AmountEditText": {
+        "app_name": "org.totschnig.myexpenses",
+        "screenshot_path": "data/OSS/snapshots/org.totschnig.myexpenses/-14726600/screenshot.png",
+        "best": [
+            "numerical",
+            "amount"
+        ],
+        "properties": {
+            "index": "1",
+            "package": "org.totschnig.myexpenses",
+            "class": "android.widget.EditText",
+            "text": "0",
+            "resource-id": "AmountEditText",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "long-clickable": "true",
+            "password": "false",
+            "scrollable": "false",
+            "selected": "false",
+            "bounds": "[459,499][904,623]",
+            "displayed": "true",
+            "sent_text": "2000"
+        },
+        "primary_categories_ranked": [
+            [
+                "numerical",
+                0.3491883516311645
+            ],
+            [
+                "description",
+                0.5105492266515891
+            ],
+            [
+                "ledger",
+                0.557335514575243
+            ],
+            [
+                "tag",
+                0.5576296639939148
+            ],
+            [
+                "profile",
+                0.6157982749243578
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "amount",
+                0.3400005139410496
+            ],
+            [
+                "ratio",
+                0.6232069917023182
+            ],
+            [
+                "enum",
+                0.6569175596038501
+            ]
+        ],
+        "concrete_category": "amount",
+        "predicted_inputs": [
+            "4",
+            "3000",
+            "10"
+        ]
+    },
+    "data/OSS/textfield_contexts/org.totschnig.myexpenses_1/Label": {
+        "app_name": "org.totschnig.myexpenses",
+        "screenshot_path": "data/OSS/snapshots/org.totschnig.myexpenses/-14726600/screenshot.png",
+        "best": [
+            "label",
+            null
+        ],
+        "properties": {
+            "index": "1",
+            "package": "org.totschnig.myexpenses",
+            "class": "android.widget.EditText",
+            "text": "",
+            "resource-id": "Label",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "long-clickable": "true",
+            "password": "false",
+            "scrollable": "false",
+            "selected": "false",
+            "bounds": "[327,227][1036,351]",
+            "displayed": "true",
+            "sent_text": "Emergency Fund"
+        },
+        "primary_categories_ranked": [
+            [
+                "label",
+                0.23404030427336692
+            ],
+            [
+                "tag",
+                0.4901389479637146
+            ],
+            [
+                "music",
+                0.6065507506330807
+            ],
+            [
+                "numerical",
+                0.6070339404046535
+            ],
+            [
+                "description",
+                0.6442199523250262
+            ]
+        ],
+        "secondary_categories_ranked": [],
+        "concrete_category": "label",
+        "predicted_inputs": [
+            "name1",
+            "title1",
+            "label1"
+        ]
+    },
+    "data/OSS/textfield_contexts/org.totschnig.myexpenses_1/tag_edit": {
+        "app_name": "org.totschnig.myexpenses",
+        "screenshot_path": "data/OSS/snapshots/org.totschnig.myexpenses/-1635201685/screenshot.png",
+        "best": [
+            "tag",
+            null
+        ],
+        "properties": {
+            "index": "0",
+            "package": "org.totschnig.myexpenses",
+            "class": "android.widget.EditText",
+            "text": "Enter new tag",
+            "resource-id": "tag_edit",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "long-clickable": "true",
+            "password": "false",
+            "scrollable": "false",
+            "selected": "false",
+            "bounds": "[44,220][1036,344]",
+            "displayed": "true",
+            "sent_text": "shopping"
+        },
+        "primary_categories_ranked": [
+            [
+                "tag",
+                0.22592405304312704
+            ],
+            [
+                "description",
+                0.6107891785601774
+            ],
+            [
+                "auth_code",
+                0.6226773803432782
+            ],
+            [
+                "label",
+                0.6560476707915465
+            ],
+            [
+                "profile",
+                0.6587910155455271
+            ]
+        ],
+        "secondary_categories_ranked": [],
+        "concrete_category": "tag",
+        "predicted_inputs": [
+            "food",
+            "travel",
+            "music"
+        ]
+    },
+    "data/OSS/textfield_contexts/org.totschnig.myexpenses_1/Payee": {
+        "app_name": "org.totschnig.myexpenses",
+        "screenshot_path": "data/OSS/snapshots/org.totschnig.myexpenses/-1243134374/screenshot.png",
+        "best": [
+            "ledger",
+            "payee"
+        ],
+        "properties": {
+            "index": "1",
+            "package": "org.totschnig.myexpenses",
+            "class": "android.widget.AutoCompleteTextView",
+            "text": "",
+            "resource-id": "Payee",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "long-clickable": "true",
+            "password": "false",
+            "scrollable": "false",
+            "selected": "false",
+            "bounds": "[327,641][1036,765]",
+            "displayed": "true",
+            "sent_text": "Grocery Market"
+        },
+        "primary_categories_ranked": [
+            [
+                "ledger",
+                0.21694993376731872
+            ],
+            [
+                "description",
+                0.5831921809663374
+            ],
+            [
+                "numerical",
+                0.6222488994399707
+            ],
+            [
+                "datetime",
+                0.6232170268893241
+            ],
+            [
+                "profile",
+                0.6417380288243294
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "payee",
+                0.10216134289900462
+            ],
+            [
+                "balance",
+                0.682319886982441
+            ]
+        ],
+        "concrete_category": "payee",
+        "predicted_inputs": [
+            "Bob",
+            "Alice",
+            "Client1"
+        ]
+    },
+    "data/OSS/textfield_contexts/Podcast_Player_v7.0.0-220308033.rd0a0ae8_1/zk": {
+        "app_name": "Podcast_Player_v7.0.0-220308033.rd0a0ae8",
+        "screenshot_path": "data/OSS/snapshots/Podcast_Player_v7.0.0-220308033.rd0a0ae8/-1405221607/screenshot.png",
+        "best": [
+            "search",
+            "podcast"
+        ],
+        "properties": {
+            "index": "0",
+            "package": "com.podcast.podcasts",
+            "class": "android.widget.AutoCompleteTextView",
+            "text": "Search",
+            "resource-id": "zk",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "long-clickable": "true",
+            "password": "false",
+            "scrollable": "false",
+            "selected": "false",
+            "bounds": "[220,93][1056,192]",
+            "displayed": "true",
+            "sent_text": "\uceec\ud22c\uc1fc"
+        },
+        "primary_categories_ranked": [
+            [
+                "search",
+                0.40775956933697066
+            ],
+            [
+                "description",
+                0.6893381496891379
+            ],
+            [
+                "auth_code",
+                0.7019863201926152
+            ],
+            [
+                "code",
+                0.7117710643758376
+            ],
+            [
+                "numerical",
+                0.7327048584818839
+            ]
+        ],
+        "secondary_categories_ranked": [
+            [
+                "podcast",
+                0.6197788181404273
+            ],
+            [
+                "tv_show",
+                0.6890353634953499
+            ],
+            [
+                "web",
+                0.6979072572042544
+            ],
+            [
+                "news",
+                0.7238828573996822
+            ],
+            [
+                "video",
+                0.7392919388269851
+            ]
+        ],
+        "concrete_category": "podcast",
+        "predicted_inputs": [
+            "The Joe Rogan Experience",
+            "The Daily",
+            "This American Life"
+        ]
+    }
+}

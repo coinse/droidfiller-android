@@ -1,0 +1,20 @@
+{
+  "index": "2",
+  "package": "org.mozilla.firefox",
+  "class": "android.widget.EditText",
+  "text": "Search or enter address",
+  "resource-id": "org.mozilla.firefox:id/mozac_browser_toolbar_edit_url_view",
+  "checkable": "false",
+  "checked": "false",
+  "clickable": "true",
+  "enabled": "true",
+  "focusable": "true",
+  "focused": "true",
+  "long-clickable": "true",
+  "password": "false",
+  "scrollable": "false",
+  "selected": "false",
+  "bounds": "[154,1331][948,1441]",
+  "displayed": "true",
+  "sent_text": "www.google.com"
+}

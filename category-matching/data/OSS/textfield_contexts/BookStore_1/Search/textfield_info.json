@@ -1,0 +1,14 @@
+{
+  "type": "XCUIElementTypeSearchField",
+  "name": "Search",
+  "label": "Search",
+  "enabled": "true",
+  "visible": "true",
+  "accessible": "true",
+  "x": "8",
+  "y": "57",
+  "width": "310",
+  "height": "36",
+  "index": "0",
+  "sent_text": "Microsoft"
+}

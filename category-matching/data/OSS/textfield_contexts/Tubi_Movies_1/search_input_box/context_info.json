@@ -1,0 +1,251 @@
+{
+  "previous_actions": [
+    [
+      {
+        "index": "0",
+        "package": "com.tubitv",
+        "class": "android.widget.Button",
+        "text": "Register with Email",
+        "resource-id": "com.tubitv:id/view_sign_button",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[63,1468][1017,1594]",
+        "displayed": "true"
+      },
+      "-1738806443"
+    ],
+    [
+      {
+        "index": "0",
+        "package": "com.tubitv",
+        "class": "android.widget.EditText",
+        "text": "First Name",
+        "resource-id": "com.tubitv:id/name",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "true",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[53,486][1027,608]",
+        "displayed": "true",
+        "sent_text": "Jane Doe"
+      },
+      "-1563197355"
+    ],
+    [
+      {
+        "index": "0",
+        "package": "com.tubitv",
+        "class": "android.widget.EditText",
+        "text": "Age",
+        "resource-id": "com.tubitv:id/text_year_or_age",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[53,674][487,793]",
+        "displayed": "true",
+        "sent_text": "27"
+      },
+      "-1563197355"
+    ],
+    [
+      {
+        "index": "0",
+        "package": "com.tubitv",
+        "class": "android.widget.EditText",
+        "text": "Gender",
+        "resource-id": "com.tubitv:id/gender",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "false",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[593,674][1027,793]",
+        "displayed": "true"
+      },
+      "-1563197355"
+    ],
+    [
+      {
+        "index": "0",
+        "package": "com.tubitv",
+        "class": "android.widget.CheckedTextView",
+        "text": "Female",
+        "resource-id": "android:id/text1",
+        "checkable": "true",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "false",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[72,887][1008,1019]",
+        "displayed": "true"
+      },
+      "-1040301534"
+    ],
+    [
+      {
+        "index": "0",
+        "package": "com.tubitv",
+        "class": "android.widget.Button",
+        "text": "DONE",
+        "resource-id": "android:id/button1",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[733,1294][975,1426]",
+        "displayed": "true"
+      },
+      "-1040301534"
+    ],
+    [
+      {
+        "index": "0",
+        "package": "com.tubitv",
+        "class": "android.widget.EditText",
+        "text": "Email",
+        "resource-id": "com.tubitv:id/email",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "true",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[53,859][1027,981]",
+        "displayed": "true",
+        "sent_text": "anony10170mous@gmail.com"
+      },
+      "-1563197355"
+    ],
+    [
+      {
+        "index": "0",
+        "package": "com.tubitv",
+        "class": "android.widget.EditText",
+        "text": "Password",
+        "resource-id": "com.tubitv:id/password",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "true",
+        "password": "true",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[53,1047][1027,1179]",
+        "displayed": "true",
+        "sent_text": "eyedrop$4forsale"
+      },
+      "-1563197355"
+    ],
+    [
+      {
+        "index": "4",
+        "package": "com.tubitv",
+        "class": "android.widget.Button",
+        "text": "Register",
+        "resource-id": "com.tubitv:id/sign_up_button",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[64,1211][1016,1316]",
+        "displayed": "true"
+      },
+      "-1563197355"
+    ],
+    [
+      {
+        "index": "0",
+        "package": "com.tubitv",
+        "class": "android.view.View",
+        "text": "",
+        "resource-id": "com.tubitv:id/pulse_view",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "false",
+        "enabled": "true",
+        "focusable": "false",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[360,2088][720,2236]",
+        "displayed": "true"
+      },
+      "-898683942"
+    ],
+    [
+      {
+        "index": "1",
+        "package": "com.tubitv",
+        "class": "android.widget.EditText",
+        "text": "Find movies, TV shows & more",
+        "resource-id": "com.tubitv:id/search_input_box",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "true",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[50,214][1030,304]",
+        "displayed": "true"
+      },
+      "-49495642"
+    ]
+  ],
+  "current_screen": "-73242223"
+}

@@ -1,0 +1,50 @@
+{
+  "previous_actions": [
+    [
+      {
+        "index": "1",
+        "package": "com.plexapp.android",
+        "class": "android.widget.Button",
+        "text": "Skip Sign Up",
+        "resource-id": "com.plexapp.android:id/upsell_continue_as_guest_button",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[176,1774][904,1917]",
+        "displayed": "true"
+      },
+      "-1877379327"
+    ],
+    [
+      {
+        "index": "0",
+        "package": "com.plexapp.android",
+        "class": "android.widget.TextView",
+        "text": "",
+        "content-desc": "Search",
+        "resource-id": "com.plexapp.android:id/search",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[695,77][827,209]",
+        "displayed": "true"
+      },
+      "711921443"
+    ]
+  ],
+  "current_screen": "2009846125"
+}

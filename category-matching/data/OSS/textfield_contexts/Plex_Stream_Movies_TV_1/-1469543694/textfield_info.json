@@ -1,0 +1,19 @@
+{
+  "index": "0",
+  "package": "com.plexapp.android",
+  "class": "android.widget.EditText",
+  "text": "",
+  "checkable": "false",
+  "checked": "false",
+  "clickable": "true",
+  "enabled": "true",
+  "focusable": "true",
+  "focused": "true",
+  "long-clickable": "true",
+  "password": "false",
+  "scrollable": "false",
+  "selected": "false",
+  "bounds": "[0,66][939,220]",
+  "displayed": "true",
+  "sent_text": "Drama"
+}

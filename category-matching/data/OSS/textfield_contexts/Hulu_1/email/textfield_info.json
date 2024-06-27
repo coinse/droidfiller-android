@@ -1,0 +1,20 @@
+{
+  "index": "0",
+  "package": "com.hulu.plus",
+  "class": "android.widget.EditText",
+  "text": "email",
+  "resource-id": "com.hulu.plus:id/email",
+  "checkable": "false",
+  "checked": "false",
+  "clickable": "true",
+  "enabled": "true",
+  "focusable": "true",
+  "focused": "false",
+  "long-clickable": "true",
+  "password": "false",
+  "scrollable": "false",
+  "selected": "false",
+  "bounds": "[66,653][1014,790]",
+  "displayed": "true",
+  "sent_text": "anony1017mous@gmail.com"
+}

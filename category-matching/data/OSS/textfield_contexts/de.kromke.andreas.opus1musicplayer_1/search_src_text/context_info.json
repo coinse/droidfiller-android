@@ -1,0 +1,118 @@
+{
+  "previous_actions": [
+    [
+      {
+        "index": "0",
+        "package": "de.kromke.andreas.opus1musicplayer",
+        "class": "android.widget.ImageView",
+        "text": "",
+        "content-desc": "Search",
+        "resource-id": "de.kromke.andreas.opus1musicplayer:id/search_button",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[837,66][969,176]",
+        "displayed": "true"
+      },
+      "-113013468"
+    ],
+    [
+      {
+        "index": "0",
+        "package": "de.kromke.andreas.opus1musicplayer",
+        "class": "android.widget.AutoCompleteTextView",
+        "text": "Search\u2026",
+        "resource-id": "de.kromke.andreas.opus1musicplayer:id/search_src_text",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "true",
+        "long-clickable": "true",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[111,71][837,170]",
+        "displayed": "true",
+        "sent_text": "download"
+      },
+      "-1001575858"
+    ],
+    [
+      {
+        "index": "1",
+        "package": "de.kromke.andreas.opus1musicplayer",
+        "class": "android.widget.TextView",
+        "text": "Download",
+        "resource-id": "de.kromke.andreas.opus1musicplayer:id/album_title",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "false",
+        "enabled": "true",
+        "focusable": "false",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[174,190][1066,257]",
+        "displayed": "true"
+      },
+      "-1001575858"
+    ],
+    [
+      {
+        "index": "0",
+        "package": "de.kromke.andreas.opus1musicplayer",
+        "class": "android.widget.TextView",
+        "text": "Lofi Study [02:28]",
+        "resource-id": "de.kromke.andreas.opus1musicplayer:id/track_composer_and_work",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "false",
+        "enabled": "true",
+        "focusable": "false",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[14,1030][1066,1097]",
+        "displayed": "true"
+      },
+      "-1828461257"
+    ],
+    [
+      {
+        "index": "0",
+        "package": "de.kromke.andreas.opus1musicplayer",
+        "class": "android.widget.ImageView",
+        "text": "",
+        "content-desc": "Search",
+        "resource-id": "de.kromke.andreas.opus1musicplayer:id/search_button",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[837,66][969,176]",
+        "displayed": "true"
+      },
+      "-1340343644"
+    ]
+  ],
+  "current_screen": "1643267838"
+}

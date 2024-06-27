@@ -1,0 +1,27 @@
+{
+  "previous_actions": [
+    [
+      {
+        "index": "6",
+        "package": "com.whatsapp",
+        "class": "android.widget.Button",
+        "text": "AGREE AND CONTINUE",
+        "resource-id": "com.whatsapp:id/eula_accept",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[138,1935][941,2067]",
+        "displayed": "true"
+      },
+      "1149387745"
+    ]
+  ],
+  "current_screen": "-960371024"
+}

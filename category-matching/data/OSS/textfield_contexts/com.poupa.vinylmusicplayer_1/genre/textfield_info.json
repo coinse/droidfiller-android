@@ -1,0 +1,20 @@
+{
+  "index": "0",
+  "package": "com.poupa.vinylmusicplayer",
+  "class": "android.widget.EditText",
+  "text": "Jazz",
+  "resource-id": "com.poupa.vinylmusicplayer:id/genre",
+  "checkable": "false",
+  "checked": "false",
+  "clickable": "true",
+  "enabled": "true",
+  "focusable": "true",
+  "focused": "false",
+  "long-clickable": "true",
+  "password": "false",
+  "scrollable": "false",
+  "selected": "false",
+  "bounds": "[44,821][1036,952]",
+  "displayed": "true",
+  "sent_text": "Jazz"
+}

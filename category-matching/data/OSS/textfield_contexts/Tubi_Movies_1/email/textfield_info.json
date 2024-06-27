@@ -1,0 +1,20 @@
+{
+  "index": "0",
+  "package": "com.tubitv",
+  "class": "android.widget.EditText",
+  "text": "Email",
+  "resource-id": "com.tubitv:id/email",
+  "checkable": "false",
+  "checked": "false",
+  "clickable": "true",
+  "enabled": "true",
+  "focusable": "true",
+  "focused": "false",
+  "long-clickable": "true",
+  "password": "false",
+  "scrollable": "false",
+  "selected": "false",
+  "bounds": "[53,859][1027,981]",
+  "displayed": "true",
+  "sent_text": "anony10170mous@gmail.com"
+}

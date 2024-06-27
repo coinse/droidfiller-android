@@ -1,0 +1,20 @@
+{
+  "index": "0",
+  "package": "org.y20k.escapepod",
+  "class": "android.widget.AutoCompleteTextView",
+  "text": "Name or feed address",
+  "resource-id": "org.y20k.escapepod:id/search_src_text",
+  "checkable": "false",
+  "checked": "false",
+  "clickable": "true",
+  "enabled": "true",
+  "focusable": "true",
+  "focused": "false",
+  "long-clickable": "true",
+  "password": "false",
+  "scrollable": "false",
+  "selected": "false",
+  "bounds": "[248,1053][942,1152]",
+  "displayed": "true",
+  "sent_text": "http://feeds.feedburner.com/TEDTalks_audio"
+}

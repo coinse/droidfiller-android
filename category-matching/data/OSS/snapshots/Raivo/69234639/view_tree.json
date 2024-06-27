@@ -1,0 +1,429 @@
+{
+  "AppiumAUT": {
+    "XCUIElementTypeApplication": {
+      "@type": "XCUIElementTypeApplication",
+      "@name": "Raivo Debug",
+      "@label": "Raivo Debug",
+      "@enabled": "true",
+      "@visible": "true",
+      "@accessible": "false",
+      "@x": "0",
+      "@y": "0",
+      "@width": "390",
+      "@height": "844",
+      "@index": "0",
+      "XCUIElementTypeWindow": {
+        "@type": "XCUIElementTypeWindow",
+        "@enabled": "true",
+        "@visible": "true",
+        "@accessible": "false",
+        "@x": "0",
+        "@y": "0",
+        "@width": "390",
+        "@height": "844",
+        "@index": "0",
+        "XCUIElementTypeOther": {
+          "@type": "XCUIElementTypeOther",
+          "@enabled": "true",
+          "@visible": "true",
+          "@accessible": "false",
+          "@x": "0",
+          "@y": "0",
+          "@width": "390",
+          "@height": "844",
+          "@index": "0",
+          "XCUIElementTypeOther": {
+            "@type": "XCUIElementTypeOther",
+            "@enabled": "true",
+            "@visible": "true",
+            "@accessible": "false",
+            "@x": "0",
+            "@y": "0",
+            "@width": "390",
+            "@height": "844",
+            "@index": "0",
+            "XCUIElementTypeOther": {
+              "@type": "XCUIElementTypeOther",
+              "@enabled": "true",
+              "@visible": "true",
+              "@accessible": "false",
+              "@x": "0",
+              "@y": "0",
+              "@width": "390",
+              "@height": "844",
+              "@index": "0",
+              "XCUIElementTypeNavigationBar": {
+                "@type": "XCUIElementTypeNavigationBar",
+                "@name": "Storage",
+                "@enabled": "true",
+                "@visible": "true",
+                "@accessible": "false",
+                "@x": "0",
+                "@y": "47",
+                "@width": "390",
+                "@height": "96",
+                "@index": "0",
+                "XCUIElementTypeButton": [
+                  {
+                    "@type": "XCUIElementTypeButton",
+                    "@name": "Welcome",
+                    "@label": "Welcome",
+                    "@enabled": "true",
+                    "@visible": "true",
+                    "@accessible": "true",
+                    "@x": "0",
+                    "@y": "47",
+                    "@width": "102",
+                    "@height": "44",
+                    "@index": "0"
+                  },
+                  {
+                    "@type": "XCUIElementTypeButton",
+                    "@name": "Settings",
+                    "@label": "Settings",
+                    "@enabled": "true",
+                    "@visible": "true",
+                    "@accessible": "true",
+                    "@x": "333",
+                    "@y": "47",
+                    "@width": "49",
+                    "@height": "44",
+                    "@index": "1"
+                  }
+                ],
+                "XCUIElementTypeStaticText": {
+                  "@type": "XCUIElementTypeStaticText",
+                  "@value": "Storage",
+                  "@name": "Storage",
+                  "@label": "Storage",
+                  "@enabled": "true",
+                  "@visible": "true",
+                  "@accessible": "true",
+                  "@x": "16",
+                  "@y": "94",
+                  "@width": "126",
+                  "@height": "42",
+                  "@index": "2"
+                }
+              },
+              "XCUIElementTypeOther": {
+                "@type": "XCUIElementTypeOther",
+                "@enabled": "true",
+                "@visible": "true",
+                "@accessible": "false",
+                "@x": "0",
+                "@y": "0",
+                "@width": "390",
+                "@height": "844",
+                "@index": "1",
+                "XCUIElementTypeOther": {
+                  "@type": "XCUIElementTypeOther",
+                  "@enabled": "true",
+                  "@visible": "true",
+                  "@accessible": "false",
+                  "@x": "0",
+                  "@y": "0",
+                  "@width": "390",
+                  "@height": "844",
+                  "@index": "0",
+                  "XCUIElementTypeOther": {
+                    "@type": "XCUIElementTypeOther",
+                    "@name": "setupStorage",
+                    "@enabled": "true",
+                    "@visible": "true",
+                    "@accessible": "false",
+                    "@x": "0",
+                    "@y": "0",
+                    "@width": "390",
+                    "@height": "844",
+                    "@index": "0",
+                    "XCUIElementTypeImage": {
+                      "@type": "XCUIElementTypeImage",
+                      "@enabled": "true",
+                      "@visible": "true",
+                      "@accessible": "false",
+                      "@x": "0",
+                      "@y": "0",
+                      "@width": "390",
+                      "@height": "844",
+                      "@index": "0"
+                    },
+                    "XCUIElementTypeOther": {
+                      "@type": "XCUIElementTypeOther",
+                      "@enabled": "true",
+                      "@visible": "true",
+                      "@accessible": "false",
+                      "@x": "0",
+                      "@y": "143",
+                      "@width": "390",
+                      "@height": "667",
+                      "@index": "1",
+                      "XCUIElementTypeOther": {
+                        "@type": "XCUIElementTypeOther",
+                        "@enabled": "true",
+                        "@visible": "true",
+                        "@accessible": "false",
+                        "@x": "0",
+                        "@y": "143",
+                        "@width": "390",
+                        "@height": "599",
+                        "@index": "0",
+                        "XCUIElementTypeOther": {
+                          "@type": "XCUIElementTypeOther",
+                          "@enabled": "true",
+                          "@visible": "true",
+                          "@accessible": "false",
+                          "@x": "0",
+                          "@y": "359",
+                          "@width": "390",
+                          "@height": "167",
+                          "@index": "0",
+                          "XCUIElementTypeOther": {
+                            "@type": "XCUIElementTypeOther",
+                            "@enabled": "true",
+                            "@visible": "true",
+                            "@accessible": "false",
+                            "@x": "8",
+                            "@y": "359",
+                            "@width": "374",
+                            "@height": "69",
+                            "@index": "0",
+                            "XCUIElementTypeStaticText": [
+                              {
+                                "@type": "XCUIElementTypeStaticText",
+                                "@value": "Available storage providers.",
+                                "@name": "Available storage providers.",
+                                "@label": "Available storage providers.",
+                                "@enabled": "true",
+                                "@visible": "true",
+                                "@accessible": "true",
+                                "@x": "85",
+                                "@y": "359",
+                                "@width": "221",
+                                "@height": "21",
+                                "@index": "0"
+                              },
+                              {
+                                "@type": "XCUIElementTypeStaticText",
+                                "@value": "Choose a storage provider that you want to synchronize and backup your tokens to.",
+                                "@name": "Choose a storage provider that you want to synchronize and backup your tokens to.",
+                                "@label": "Choose a storage provider that you want to synchronize and backup your tokens to.",
+                                "@enabled": "true",
+                                "@visible": "true",
+                                "@accessible": "true",
+                                "@x": "29",
+                                "@y": "387",
+                                "@width": "333",
+                                "@height": "41",
+                                "@index": "1"
+                              }
+                            ]
+                          },
+                          "XCUIElementTypeTable": {
+                            "@type": "XCUIElementTypeTable",
+                            "@enabled": "true",
+                            "@visible": "true",
+                            "@accessible": "false",
+                            "@x": "0",
+                            "@y": "436",
+                            "@width": "390",
+                            "@height": "90",
+                            "@index": "1",
+                            "XCUIElementTypeOther": {
+                              "@type": "XCUIElementTypeOther",
+                              "@enabled": "true",
+                              "@visible": "true",
+                              "@accessible": "false",
+                              "@x": "0",
+                              "@y": "436",
+                              "@width": "390",
+                              "@height": "1",
+                              "@index": "0"
+                            },
+                            "XCUIElementTypeCell": [
+                              {
+                                "@type": "XCUIElementTypeCell",
+                                "@enabled": "true",
+                                "@visible": "true",
+                                "@accessible": "false",
+                                "@x": "0",
+                                "@y": "437",
+                                "@width": "390",
+                                "@height": "45",
+                                "@index": "1",
+                                "XCUIElementTypeOther": [
+                                  {
+                                    "@type": "XCUIElementTypeOther",
+                                    "@enabled": "true",
+                                    "@visible": "true",
+                                    "@accessible": "false",
+                                    "@x": "0",
+                                    "@y": "437",
+                                    "@width": "390",
+                                    "@height": "1",
+                                    "@index": "0"
+                                  },
+                                  {
+                                    "@type": "XCUIElementTypeOther",
+                                    "@enabled": "true",
+                                    "@visible": "true",
+                                    "@accessible": "false",
+                                    "@x": "0",
+                                    "@y": "437",
+                                    "@width": "390",
+                                    "@height": "45",
+                                    "@index": "1",
+                                    "XCUIElementTypeOther": {
+                                      "@type": "XCUIElementTypeOther",
+                                      "@enabled": "true",
+                                      "@visible": "true",
+                                      "@accessible": "false",
+                                      "@x": "0",
+                                      "@y": "437",
+                                      "@width": "390",
+                                      "@height": "45",
+                                      "@index": "0"
+                                    }
+                                  },
+                                  {
+                                    "@type": "XCUIElementTypeOther",
+                                    "@enabled": "true",
+                                    "@visible": "true",
+                                    "@accessible": "false",
+                                    "@x": "0",
+                                    "@y": "481",
+                                    "@width": "390",
+                                    "@height": "1",
+                                    "@index": "2"
+                                  }
+                                ],
+                                "XCUIElementTypeStaticText": {
+                                  "@type": "XCUIElementTypeStaticText",
+                                  "@value": "None (offline)",
+                                  "@name": "None (offline)",
+                                  "@label": "None (offline)",
+                                  "@enabled": "true",
+                                  "@visible": "true",
+                                  "@accessible": "true",
+                                  "@x": "19",
+                                  "@y": "450",
+                                  "@width": "106",
+                                  "@height": "21",
+                                  "@index": "3"
+                                },
+                                "XCUIElementTypeButton": {
+                                  "@type": "XCUIElementTypeButton",
+                                  "@name": "checkmark",
+                                  "@label": "checkmark",
+                                  "@enabled": "false",
+                                  "@visible": "true",
+                                  "@accessible": "false",
+                                  "@x": "348",
+                                  "@y": "451",
+                                  "@width": "20",
+                                  "@height": "18",
+                                  "@index": "4"
+                                }
+                              },
+                              {
+                                "@type": "XCUIElementTypeCell",
+                                "@enabled": "true",
+                                "@visible": "true",
+                                "@accessible": "false",
+                                "@x": "0",
+                                "@y": "482",
+                                "@width": "390",
+                                "@height": "45",
+                                "@index": "2",
+                                "XCUIElementTypeOther": [
+                                  {
+                                    "@type": "XCUIElementTypeOther",
+                                    "@enabled": "true",
+                                    "@visible": "true",
+                                    "@accessible": "false",
+                                    "@x": "0",
+                                    "@y": "482",
+                                    "@width": "390",
+                                    "@height": "45",
+                                    "@index": "0",
+                                    "XCUIElementTypeOther": {
+                                      "@type": "XCUIElementTypeOther",
+                                      "@enabled": "true",
+                                      "@visible": "true",
+                                      "@accessible": "false",
+                                      "@x": "0",
+                                      "@y": "482",
+                                      "@width": "390",
+                                      "@height": "45",
+                                      "@index": "0"
+                                    }
+                                  },
+                                  {
+                                    "@type": "XCUIElementTypeOther",
+                                    "@enabled": "true",
+                                    "@visible": "false",
+                                    "@accessible": "false",
+                                    "@x": "0",
+                                    "@y": "526",
+                                    "@width": "390",
+                                    "@height": "1",
+                                    "@index": "1"
+                                  }
+                                ],
+                                "XCUIElementTypeStaticText": {
+                                  "@type": "XCUIElementTypeStaticText",
+                                  "@value": "Personal iCloud",
+                                  "@name": "Personal iCloud",
+                                  "@label": "Personal iCloud",
+                                  "@enabled": "true",
+                                  "@visible": "true",
+                                  "@accessible": "true",
+                                  "@x": "20",
+                                  "@y": "495",
+                                  "@width": "119",
+                                  "@height": "21",
+                                  "@index": "2"
+                                }
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      "XCUIElementTypeButton": {
+                        "@type": "XCUIElementTypeButton",
+                        "@name": "continue",
+                        "@label": "Continue",
+                        "@enabled": "true",
+                        "@visible": "true",
+                        "@accessible": "false",
+                        "@x": "16",
+                        "@y": "742",
+                        "@width": "358",
+                        "@height": "52",
+                        "@index": "1",
+                        "XCUIElementTypeStaticText": {
+                          "@type": "XCUIElementTypeStaticText",
+                          "@value": "Continue",
+                          "@name": "Continue",
+                          "@label": "Continue",
+                          "@enabled": "true",
+                          "@visible": "true",
+                          "@accessible": "false",
+                          "@x": "157",
+                          "@y": "757",
+                          "@width": "76",
+                          "@height": "22",
+                          "@index": "0"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

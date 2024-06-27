@@ -1,0 +1,28 @@
+{
+  "previous_actions": [
+    [
+      {
+        "index": "0",
+        "package": "ru.ok.android",
+        "class": "android.widget.EditText",
+        "text": "Password",
+        "resource-id": "ru.ok.android:id/password_text",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "true",
+        "password": "true",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[66,607][1014,739]",
+        "displayed": "true",
+        "sent_text": "coinse3457"
+      },
+      "-1550987636"
+    ]
+  ],
+  "current_screen": "-711716765"
+}

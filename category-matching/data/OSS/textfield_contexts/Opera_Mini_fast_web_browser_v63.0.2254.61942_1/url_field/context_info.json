@@ -1,0 +1,49 @@
+{
+  "previous_actions": [
+    [
+      {
+        "index": "1",
+        "package": "com.opera.mini.native",
+        "class": "android.widget.TextView",
+        "text": "Allow",
+        "resource-id": "com.opera.mini.native:id/allow_button",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[265,1695][815,1816]",
+        "displayed": "true"
+      },
+      "-240516524"
+    ],
+    [
+      {
+        "index": "2",
+        "package": "com.opera.mini.native",
+        "class": "android.widget.TextView",
+        "text": "Continue",
+        "resource-id": "com.opera.mini.native:id/continue_button",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[265,2071][815,2192]",
+        "displayed": "true"
+      },
+      "-1371252229"
+    ]
+  ],
+  "current_screen": "70984969"
+}

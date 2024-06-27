@@ -1,0 +1,20 @@
+{
+  "index": "0",
+  "package": "de.chaosdorf.meteroid",
+  "class": "android.widget.EditText",
+  "text": "https://mete.chaosdorf.space/api/v1",
+  "resource-id": "de.chaosdorf.meteroid:id/hostname",
+  "checkable": "false",
+  "checked": "false",
+  "clickable": "true",
+  "enabled": "true",
+  "focusable": "true",
+  "focused": "true",
+  "long-clickable": "true",
+  "password": "false",
+  "scrollable": "false",
+  "selected": "false",
+  "bounds": "[44,360][1036,513]",
+  "displayed": "true",
+  "sent_text": "https://mete.chaosdorf.space/api/v1"
+}

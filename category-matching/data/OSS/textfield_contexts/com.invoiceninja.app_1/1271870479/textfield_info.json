@@ -1,0 +1,20 @@
+{
+  "index": "5",
+  "package": "com.invoiceninja.app",
+  "class": "android.widget.EditText",
+  "text": "Password",
+  "resource-id": "",
+  "checkable": "false",
+  "checked": "false",
+  "clickable": "true",
+  "enabled": "true",
+  "focusable": "true",
+  "focused": "false",
+  "long-clickable": "false",
+  "password": "true",
+  "scrollable": "false",
+  "selected": "false",
+  "bounds": "[88,1106][992,1268]",
+  "displayed": "true",
+  "sent_text": "abcd!4321"
+}

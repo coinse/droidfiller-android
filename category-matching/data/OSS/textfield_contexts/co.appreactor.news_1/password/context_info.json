@@ -1,0 +1,73 @@
+{
+  "previous_actions": [
+    [
+      {
+        "index": "0",
+        "package": "co.appreactor.news",
+        "class": "android.widget.Button",
+        "text": "Login with Miniflux",
+        "resource-id": "co.appreactor.news:id/loginWithMiniflux",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[110,1320][970,1452]",
+        "displayed": "true"
+      },
+      "955722716"
+    ],
+    [
+      {
+        "index": "0",
+        "package": "co.appreactor.news",
+        "class": "android.widget.EditText",
+        "text": "https://example.com",
+        "resource-id": "co.appreactor.news:id/serverUrl",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "true",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[44,301][1036,454]",
+        "displayed": "true",
+        "sent_text": "https://example.com"
+      },
+      "-1160844204"
+    ],
+    [
+      {
+        "index": "0",
+        "package": "co.appreactor.news",
+        "class": "android.widget.EditText",
+        "text": "Username",
+        "resource-id": "co.appreactor.news:id/username",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "long-clickable": "true",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[44,654][1036,807]",
+        "displayed": "true",
+        "sent_text": "anony1017mous"
+      },
+      "-1160844204"
+    ]
+  ],
+  "current_screen": "-1160844204"
+}

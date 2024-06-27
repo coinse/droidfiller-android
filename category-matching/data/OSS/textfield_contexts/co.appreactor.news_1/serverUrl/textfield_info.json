@@ -1,0 +1,20 @@
+{
+  "index": "0",
+  "package": "co.appreactor.news",
+  "class": "android.widget.EditText",
+  "text": "https://example.com",
+  "resource-id": "co.appreactor.news:id/serverUrl",
+  "checkable": "false",
+  "checked": "false",
+  "clickable": "true",
+  "enabled": "true",
+  "focusable": "true",
+  "focused": "false",
+  "long-clickable": "true",
+  "password": "false",
+  "scrollable": "false",
+  "selected": "false",
+  "bounds": "[44,301][1036,454]",
+  "displayed": "true",
+  "sent_text": "https://example.com"
+}

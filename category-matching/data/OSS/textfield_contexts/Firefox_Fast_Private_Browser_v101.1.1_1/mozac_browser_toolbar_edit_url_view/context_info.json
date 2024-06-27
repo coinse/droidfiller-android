@@ -1,0 +1,50 @@
+{
+  "previous_actions": [
+    [
+      {
+        "index": "0",
+        "package": "org.mozilla.firefox",
+        "class": "android.widget.ImageView",
+        "text": "",
+        "content-desc": "Firefox logo - change the wallpaper, button",
+        "resource-id": "org.mozilla.firefox:id/wordmark",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "false",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[44,116][641,226]",
+        "displayed": "true"
+      },
+      "-1588025648"
+    ],
+    [
+      {
+        "index": "1",
+        "package": "org.mozilla.firefox",
+        "class": "android.widget.TextView",
+        "text": "Search or enter address",
+        "resource-id": "org.mozilla.firefox:id/toolbar",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "false",
+        "enabled": "true",
+        "focusable": "false",
+        "focused": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "scrollable": "false",
+        "selected": "false",
+        "bounds": "[143,2131][576,2187]",
+        "displayed": "true"
+      },
+      "364225788"
+    ]
+  ],
+  "current_screen": "1018090987"
+}

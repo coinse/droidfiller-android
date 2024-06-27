@@ -1,0 +1,20 @@
+{
+  "index": "0",
+  "package": "com.autoscout24",
+  "class": "android.widget.EditText",
+  "text": "Search",
+  "resource-id": "com.autoscout24:id/textinput_filter_edittext",
+  "checkable": "false",
+  "checked": "false",
+  "clickable": "true",
+  "enabled": "true",
+  "focusable": "true",
+  "focused": "false",
+  "long-clickable": "true",
+  "password": "false",
+  "scrollable": "false",
+  "selected": "false",
+  "bounds": "[188,301][892,433]",
+  "displayed": "true",
+  "sent_text": "3 series"
+}

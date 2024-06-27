@@ -1,0 +1,20 @@
+{
+  "index": "0",
+  "package": "com.poupa.vinylmusicplayer",
+  "class": "android.widget.EditText",
+  "text": "2022",
+  "resource-id": "com.poupa.vinylmusicplayer:id/year",
+  "checkable": "false",
+  "checked": "false",
+  "clickable": "true",
+  "enabled": "true",
+  "focusable": "true",
+  "focused": "false",
+  "long-clickable": "true",
+  "password": "false",
+  "scrollable": "false",
+  "selected": "false",
+  "bounds": "[44,982][1036,1113]",
+  "displayed": "true",
+  "sent_text": "2022"
+}
