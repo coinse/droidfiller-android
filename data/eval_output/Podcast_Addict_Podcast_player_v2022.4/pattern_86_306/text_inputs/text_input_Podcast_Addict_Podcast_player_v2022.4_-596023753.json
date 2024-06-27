@@ -1,0 +1,12 @@
+{
+  "8d82e05e2c3891b4bca8c4710dcf7e8e_86_306": {
+    "widget_description": "a textview that has text \"Podcast name / Keywords\" and resource_id \"pattern\"",
+    "default_tester": [
+      "true crime",
+      "comedy podcasts",
+      "friendship",
+      "comedy podcasts",
+      "friendship"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "41b60dd63a1c06fa2e35683801704b67_47_303": {
+    "widget_description": "a textfield that has text \"Name your location\" and resource_id \"edit_text_name\"",
+    "default_tester": [
+      "Green Oasis",
+      "Sunset Retreat",
+      "Social Hub",
+      "Jade's Haven",
+      "Green Retreat"
+    ]
+  }
+}

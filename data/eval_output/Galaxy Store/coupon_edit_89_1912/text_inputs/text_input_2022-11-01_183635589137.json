@@ -1,0 +1,12 @@
+{
+  "8f70160ffc8e1249dbd54475deac8c99_89_1912": {
+    "widget_description": "a textfield that has text \"Enter code\" and resource_id \"coupon_edit\"",
+    "default_tester": [
+      "ref-gf8ff4",
+      "ref-3iwi87",
+      "ref-d5nzrs",
+      "ref-gf8ff4",
+      "ref-g9e5ft"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "38630166a007456070c399cbd40fbe46_140_231": {
+    "widget_description": "a textfield that has text \"Search or enter address\" and resource_id \"url_field\"",
+    "default_tester": [
+      "www.opera.com",
+      "bbc.co.uk",
+      "samsung.com",
+      "www.samsung.com/galaxy-s21-sm-g991uzvaxaa",
+      "www.amazon.com"
+    ]
+  }
+}

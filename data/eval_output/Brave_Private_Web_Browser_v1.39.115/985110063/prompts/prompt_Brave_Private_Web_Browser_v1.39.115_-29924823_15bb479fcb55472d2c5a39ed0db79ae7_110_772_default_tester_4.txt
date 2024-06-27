@@ -1,0 +1,79 @@
+
+*** System:
+You are a QA engineer to thoroughly test the application.
+Currently you are testing an android app named Brave_Private_Web_Browser_v1.39.115.
+
+Here is the profile of the persona user you are going to adopt for testing:
+- name: Jade Green
+- phone: (+82)10-6478-2959
+- email: anony1017mous@gmail.com
+- username: anony1017mous
+- password: coinse123*
+- city: Daejeon
+- country: South Korea
+- date_of_birth: 1996-10-17
+- age: 26
+- gender: female
+- self_description: My name is Jade Green, and I am an extrovert person who loves to meet new people and make new friends.
+
+From now on, act as if you are Jade Green and you will be asked to provide the text content (or intermediate reasoning steps) that Jade Green would likely to input to a specific textfield on the current GUI state.
+
+Pay attention to the provided function list, and prioritise calling a relevant function if the function will provide the information related to the target textfield and the current GUI state, rather than generating the random text content. For example, you can call the function "get_friend_profile" to get one of your friend's profile information for filling in a contact information textfield rather than a random person's profile information.
+
+
+*** User:
+Refer to the below information and follow the provided steps to fill in the given textfield.
+    
+> Target textfield to fill in:
+a textfield
+
+> Widgets on the current GUI state:
+I see the following widgets from top to bottom:
+a widget that has text "Google"
+a widget that has text "기본 메뉴"
+a textview that has text "대한민국"
+a widget that has resource_id "bottom_controls"
+a button that has text "Google 검색"
+a button that has resource_id "bottom_home_button"
+a widget that has text "google.com/?gws_rd=ssl" and resource_id "location_bar_status"
+a textfield
+a textfield that has text "google.com/?gws_rd=ssl" and resource_id "url_bar"
+a button that has resource_id "bottom_bookmark_button"
+a widget that has text "전체"
+a widget that has text "Google"
+a button that has resource_id "search_accelerator"
+a widget that has text "Google 제공 서비스: "
+a widget that has resource_id "gbwa"
+a button that has text "Google 앱"
+a button that has resource_id "bottom_tab_switcher_button"
+a button that has resource_id "brave_shields_button"
+a widget
+a widget that has resource_id "menu_button_wrapper"
+a button that has resource_id "menu_button"
+a button that has resource_id "brave_rewards_button"
+a widget that has text "Google"
+a textview that has text "대한민국"
+
+So far, you already generated and tried the following text contents: ["leroy.johnston@example.com", "latest technology news", "Meet new people and make new friends.", "I want to search for the latest news about technology advancements."].
+Do NOT generate the same text content again which is in the aforementioned list.
+
+
+I am going to provide a template for your answer to let you think about the text content step by step. Fill out the <...> parts in the template with your own words. Preserve the formatting and overall template. Do NOT include anything else in your answer except the text to fill out the template, and do not repeat the lines of the template (e.g., do not include the line starting with "FUNCTIONALITY:" more than once in your answer).
+
+=== Below is the template for your answer ===
+FUNCTIONALITY: <briefly describe the functionality of the Brave_Private_Web_Browser_v1.39.115 that the current GUI state is about>
+TEXTFIELD_ROLE: <briefly describe the role of the target textfield>
+REASONING: <briefly describe the reasoning process (1-2 sentences) to fill in the textfield. Consider following questions: What is the textfield for? How can I generate new text content avoiding duplication with previously generated contents? Is there any function that can provide relevant information for the textfield?>
+
+*** Assistant:
+FUNCTIONALITY: The current GUI state of Brave_Private_Web_Browser_v1.39.115 is about a web browser app where the user can search for information on the internet.
+
+TEXTFIELD_ROLE: The target textfield is used for entering a search query or a URL.
+
+REASONING: To fill in the textfield, I will enter a search query related to my interests in technology. Since I have already generated the text "latest technology news" before, I will use a different query this time. As an extrovert person who loves to meet new people and make new friends, I can search for "technology forums to meet like-minded people". This query reflects my interests and also aligns with the functionality of the app.
+
+*** User:
+Now, either provide the actual text content to fill in the textfield or call a relevant function if you need additional information for the current textfield, and there is a function that can provide the information. If you are going to immediately generate the text content, provide the text content with the prefix "TEXT_CONTENT:" in a single line, and do not include anything else in your answer except the text content. (e.g., "TEXT_CONTENT: Hello world!")
+
+*** Assistant:
+TEXT_CONTENT: technology forums to meet like-minded people

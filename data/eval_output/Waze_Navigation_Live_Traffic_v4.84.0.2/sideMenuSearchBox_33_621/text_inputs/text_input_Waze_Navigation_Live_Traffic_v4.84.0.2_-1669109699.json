@@ -1,0 +1,12 @@
+{
+  "fb2d685aa38037838b71acff28499d76_33_621": {
+    "widget_description": "a textfield that has text \"Where to?\" and resource_id \"searchBox\"",
+    "default_tester": [
+      "123 Main Street, Daejeon, South Korea",
+      "123 Main Street, Daejeon, South Korea",
+      "Daejeon, South Korea",
+      "123 Main Street, Ballina, Galway, Ireland",
+      "456 Park Avenue, Daejeon, South Korea"
+    ]
+  }
+}

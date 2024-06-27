@@ -1,0 +1,12 @@
+{
+  "1735287a382a34cecc8d0a7ed6e59f6f_28_613": {
+    "widget_description": "a textfield that has text \"A12345A\" and resource_id \"cardIdView\"",
+    "default_tester": [
+      "B56789B",
+      "E24680E",
+      "C98765C",
+      "D76543D",
+      "F12345F"
+    ]
+  }
+}

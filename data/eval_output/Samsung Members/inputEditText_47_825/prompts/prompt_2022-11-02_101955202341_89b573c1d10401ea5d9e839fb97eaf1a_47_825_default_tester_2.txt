@@ -1,0 +1,86 @@
+
+*** System:
+You are a QA engineer to thoroughly test the application.
+Currently you are testing an android app named Samsung Members.
+
+Here is the profile of the persona user you are going to adopt for testing:
+- name: Jade Green
+- phone: (+82)10-6478-2959
+- email: anony1017mous@gmail.com
+- username: anony1017mous
+- password: coinse123*
+- city: Daejeon
+- country: South Korea
+- date_of_birth: 1996-10-17
+- age: 26
+- gender: female
+- self_description: My name is Jade Green, and I am an extrovert person who loves to meet new people and make new friends.
+
+From now on, act as if you are Jade Green and you will be asked to provide the text content (or intermediate reasoning steps) that Jade Green would likely to input to a specific textfield on the current GUI state.
+
+Pay attention to the provided function list, and prioritise calling a relevant function if the function will provide the information related to the target textfield and the current GUI state, rather than generating the random text content. For example, you can call the function "get_friend_profile" to get one of your friend's profile information for filling in a contact information textfield rather than a random person's profile information.
+
+
+*** User:
+Refer to the below information and follow the provided steps to fill in the given textfield.
+    
+> Target textfield to fill in:
+a textfield that has resource_id "inputEditText"
+
+> Widgets on the current GUI state:
+I see the following widgets from top to bottom:
+a button that has text "Register product"
+a button that has text "Finding your serial number" and resource_id "serialGuideTextButton"
+a textfield that has resource_id "inputEditText"
+a textfield that has resource_id "inputEditText"
+a textview that has text "Product type"
+a textview that has text "Monitor"
+a textview that has text "Model name *"
+a textview that has text "Serial number *"
+a button that has resource_id "menu_product_register"
+a textview that has text "Register"
+a button that has resource_id "barcodeButton"
+a button that has resource_id "barcodeButton"
+a textview that has text "Product type"
+a textview that has text "Monitor"
+a textview that has text "Model name *"
+a textview that has text "Serial number *"
+a textview that has text "Register"
+
+So far, you already generated and tried the following text contents: ["XYZ5678", "ABCD1234"].
+Do NOT generate the same text content again which is in the aforementioned list.
+
+
+I am going to provide a template for your answer to let you think about the text content step by step. Fill out the <...> parts in the template with your own words. Preserve the formatting and overall template. Do NOT include anything else in your answer except the text to fill out the template, and do not repeat the lines of the template (e.g., do not include the line starting with "FUNCTIONALITY:" more than once in your answer).
+
+=== Below is the template for your answer ===
+FUNCTIONALITY: <briefly describe the functionality of the Samsung Members that the current GUI state is about>
+TEXTFIELD_ROLE: <briefly describe the role of the target textfield>
+REASONING: <briefly describe the reasoning process (1-2 sentences) to fill in the textfield. Consider following questions: What is the textfield for? How can I generate new text content avoiding duplication with previously generated contents? Is there any function that can provide relevant information for the textfield?>
+
+*** Assistant:
+FUNCTIONALITY: The Samsung Members app allows users to register their Samsung products by entering the model name and serial number.
+
+TEXTFIELD_ROLE: The target textfield is used to enter the serial number of the Samsung product.
+
+REASONING: Since the textfield is for entering the serial number, I need to provide a unique and valid serial number. To avoid duplication with previously generated contents, I can use a function to get the Samsung product information, specifically the serial number, of a random Samsung product. I will call the function "get_samsung_product_info" with the product type as "monitor" to get the serial number of a Samsung monitor.
+
+*** User:
+Now, either provide the actual text content to fill in the textfield or call a relevant function if you need additional information for the current textfield, and there is a function that can provide the information. If you are going to immediately generate the text content, provide the text content with the prefix "TEXT_CONTENT:" in a single line, and do not include anything else in your answer except the text content. (e.g., "TEXT_CONTENT: Hello world!")
+
+*** Assistant:
+{
+  "name": "get_samsung_product_info",
+  "arguments": "{\n  \"product_type\": \"monitor\"\n}"
+}
+
+*** User:
+Here is the response from the function call:
+```json
+{"model_name": "Odyssey G7", "serial_number": "LC27G55TQWNXZA"}
+```
+
+Now, provide the actual text content for the textfield. Provide the text content with the prefix "TEXT_CONTENT:" in a single line, and do not include anything else in your answer except the text content. (e.g., "TEXT_CONTENT: Hello world!")
+
+*** Assistant:
+TEXT_CONTENT: LC27G55TQWNXZA

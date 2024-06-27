@@ -1,0 +1,12 @@
+{
+  "b370d2bd6d49e4de0c206ac4ddd54aff_137_106": {
+    "widget_description": "a textfield that has text \"Search\" and resource_id \"search_src_text\"",
+    "default_tester": [
+      "Nature",
+      "Landscapes",
+      "Family",
+      "Mountains",
+      "Samsung Galaxy S21 trendy"
+    ]
+  }
+}

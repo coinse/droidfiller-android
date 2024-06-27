@@ -1,0 +1,12 @@
+{
+  "42eb9233ffb167eb402cdc273845767a_158_1408": {
+    "widget_description": "a textfield that has text \"Phone\" and resource_id \"forCursorEdit\"",
+    "default_tester": [
+      "010-6478-2959",
+      "(+82)10-6478-2959",
+      "(+82)10-1234-5678",
+      "+821012345678",
+      "(+82)10-8765-4321"
+    ]
+  }
+}

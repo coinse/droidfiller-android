@@ -1,0 +1,12 @@
+{
+  "e8dc874106a4bc21b1902c4a775a3a48_44_301": {
+    "widget_description": "a textfield that has text \"https://example.com\" and resource_id \"serverUrl\"",
+    "default_tester": [
+      "https://www.myserver.com",
+      "https://j.myserver.com",
+      "<call the function to generate a new server URL>",
+      "https://example.com",
+      "https://example.com"
+    ]
+  }
+}

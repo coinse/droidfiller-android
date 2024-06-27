@@ -1,0 +1,12 @@
+{
+  "4fdd32ef25f705552bf5b933316b8bba_220_93": {
+    "widget_description": "a textview that has text \"Search your library…\" and resource_id \"search_src_text\"",
+    "default_tester": [
+      "Pop music",
+      "Jazz music",
+      "Rock music",
+      "R&B music",
+      "Jamie Obrien"
+    ]
+  }
+}

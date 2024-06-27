@@ -1,0 +1,12 @@
+{
+  "ecb9f9f70cc4d3d0bbc2d412eb339af6_327_1055": {
+    "widget_description": "a textfield that has resource_id \"Comment\"",
+    "default_tester": [
+      "This expense was for groceries and household items.",
+      "I had a great time shopping with my friends at the mall today. We bought some new clothes and accessories.",
+      "I had a great time shopping with my friends at the mall today. We bought some new clothes and accessories.",
+      "This expense was for a dinner with friends at a restaurant.",
+      "I had a productive day at work today. Completed all my tasks and had a successful meeting with the team."
+    ]
+  }
+}

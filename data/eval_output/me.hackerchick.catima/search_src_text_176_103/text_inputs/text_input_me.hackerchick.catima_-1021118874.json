@@ -1,0 +1,12 @@
+{
+  "03e95b274d43148098e930c5651df41a_176_103": {
+    "widget_description": "a textview that has text \"   \" and resource_id \"search_src_text\"",
+    "default_tester": [
+      "Apples",
+      "Bananas",
+      "Milk",
+      "Cereal",
+      "Galaxy S21"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "3790f1a46c671e6c0702330849f8e12b_205_106": {
+    "widget_description": "a textfield that has text \"Search or enter URL\" and resource_id \"location_bar_edit_text\"",
+    "default_tester": [
+      "www.samsung.com",
+      "technology news",
+      "Samsung Internet tutorial",
+      "Samsung Galaxy S21",
+      "Samsung Internet tutorial for beginners"
+    ]
+  }
+}

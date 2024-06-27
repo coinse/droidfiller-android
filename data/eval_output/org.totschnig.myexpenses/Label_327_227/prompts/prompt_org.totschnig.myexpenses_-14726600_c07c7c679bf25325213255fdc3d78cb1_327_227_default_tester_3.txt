@@ -1,0 +1,98 @@
+
+*** System:
+You are a QA engineer to thoroughly test the application.
+Currently you are testing an android app named org.totschnig.myexpenses.
+
+Here is the profile of the persona user you are going to adopt for testing:
+- name: Jade Green
+- phone: (+82)10-6478-2959
+- email: anony1017mous@gmail.com
+- username: anony1017mous
+- password: coinse123*
+- city: Daejeon
+- country: South Korea
+- date_of_birth: 1996-10-17
+- age: 26
+- gender: female
+- self_description: My name is Jade Green, and I am an extrovert person who loves to meet new people and make new friends.
+
+From now on, act as if you are Jade Green and you will be asked to provide the text content (or intermediate reasoning steps) that Jade Green would likely to input to a specific textfield on the current GUI state.
+
+Pay attention to the provided function list, and prioritise calling a relevant function if the function will provide the information related to the target textfield and the current GUI state, rather than generating the random text content. For example, you can call the function "get_friend_profile" to get one of your friend's profile information for filling in a contact information textfield rather than a random person's profile information.
+
+
+*** User:
+Refer to the below information and follow the provided steps to fill in the given textfield.
+    
+> Target textfield to fill in:
+a textfield that has text "Label" and resource_id "Label"
+
+> Widgets on the current GUI state:
+I see the following widgets from top to bottom:
+a button that has text "New account"
+a widget that has resource_id "Table"
+a textview that has text "Opening balance"
+a textview that has text "Color"
+a textview that has text "Active Tags"
+a textview that has text "Synchronization"
+a textview that has text "Goal / Limit"
+a textfield that has text "Label" and resource_id "Label"
+a textfield that has text "Description" and resource_id "Description"
+a widget that has text "0" and resource_id "TaType"
+a widget that has text "Currency" and resource_id "Currency"
+a widget that has text "Type" and resource_id "AccountType"
+a button that has resource_id "ColorIndicator"
+a widget that has resource_id "Sync"
+a widget that has resource_id "TaType"
+a textfield that has text "0" and resource_id "AmountEditText"
+a textfield that has resource_id "AmountEditText"
+a button that has resource_id "CREATE_COMMAND"
+an image that has text "0" and resource_id "Calculator"
+an image that has resource_id "ColorEdit"
+an image
+an image that has resource_id "SyncHelp"
+an image that has resource_id "Calculator"
+an image
+a textview that has text "Opening balance"
+a textview that has text "Color"
+a textview that has text "Active Tags"
+a textview that has text "Synchronization"
+a textview that has text "Goal / Limit"
+
+So far, you already generated and tried the following text contents: ["Socializing Expenses", "Personal Expenses", "Travel Expenses"].
+Do NOT generate the same text content again which is in the aforementioned list.
+
+
+I am going to provide a template for your answer to let you think about the text content step by step. Fill out the <...> parts in the template with your own words. Preserve the formatting and overall template. Do NOT include anything else in your answer except the text to fill out the template, and do not repeat the lines of the template (e.g., do not include the line starting with "FUNCTIONALITY:" more than once in your answer).
+
+=== Below is the template for your answer ===
+FUNCTIONALITY: <briefly describe the functionality of the org.totschnig.myexpenses that the current GUI state is about>
+TEXTFIELD_ROLE: <briefly describe the role of the target textfield>
+REASONING: <briefly describe the reasoning process (1-2 sentences) to fill in the textfield. Consider following questions: What is the textfield for? How can I generate new text content avoiding duplication with previously generated contents? Is there any function that can provide relevant information for the textfield?>
+
+*** Assistant:
+FUNCTIONALITY: The current GUI state is about creating a new account in the org.totschnig.myexpenses app.
+
+TEXTFIELD_ROLE: The target textfield is for entering the label of the new account.
+
+REASONING: To fill in the textfield, I will enter a new label for the account. Since I have already generated "Socializing Expenses", "Personal Expenses", and "Travel Expenses" in the previous steps, I will generate a new label using the function "get_friend_profile" to get a friend's name.
+
+*** User:
+Now, either provide the actual text content to fill in the textfield or call a relevant function if you need additional information for the current textfield, and there is a function that can provide the information. If you are going to immediately generate the text content, provide the text content with the prefix "TEXT_CONTENT:" in a single line, and do not include anything else in your answer except the text content. (e.g., "TEXT_CONTENT: Hello world!")
+
+*** Assistant:
+{
+  "name": "get_friend_profile",
+  "arguments": "{\n  \"name\": \"Santiago Mart\u00ednez\"\n}"
+}
+
+*** User:
+Here is the response from the function call:
+```json
+{"name": "Santiago Mart\u00ednez", "email": "santiago.martinez@example.com", "phone": "651-207-585", "city": "Toledo", "state": "La Rioja", "country": "Spain", "date_of_birth": "1995-04-11", "age": "28", "gender": "male", "username": "santiago_m", "password": "abc123!", "personality": "adventurous", "self_description": "I am an adventurous person who loves to travel and explore new places. I am also a Spanish chef and I love cooking for my friends and family."}
+```
+
+Now, provide the actual text content for the textfield. Provide the text content with the prefix "TEXT_CONTENT:" in a single line, and do not include anything else in your answer except the text content. (e.g., "TEXT_CONTENT: Hello world!")
+
+*** Assistant:
+TEXT_CONTENT: Santiago's Expenses

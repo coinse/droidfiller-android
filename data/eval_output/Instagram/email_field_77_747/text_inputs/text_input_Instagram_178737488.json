@@ -1,0 +1,12 @@
+{
+  "d531bac408940e5b896aaedc9976a53c_77_747": {
+    "widget_description": "a textview that has text \"Email\" and resource_id \"email_field\"",
+    "default_tester": [
+      "anony1017mous@gmail.com",
+      "jade.green@gmail.com",
+      "anony1017mous@gmail.com",
+      "oscar.turner@example.com",
+      "michelle.sanders@example.com"
+    ]
+  }
+}

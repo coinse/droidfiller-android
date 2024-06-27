@@ -1,0 +1,12 @@
+{
+  "e702b01c954b44fd6eac1a71de8b3e32_55_1598": {
+    "widget_description": "a textfield that has text \"Password\"",
+    "default_tester": [
+      "coinse123*",
+      "p@ssw0rd123!",
+      "mYp4ssw0rd!",
+      "P@$$w0rd123!",
+      "P@ssw0rd2021!"
+    ]
+  }
+}

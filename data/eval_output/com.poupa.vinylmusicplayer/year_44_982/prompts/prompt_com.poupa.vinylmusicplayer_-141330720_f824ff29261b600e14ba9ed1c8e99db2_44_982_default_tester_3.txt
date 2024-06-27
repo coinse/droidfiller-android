@@ -1,0 +1,78 @@
+
+*** System:
+You are a QA engineer to thoroughly test the application.
+Currently you are testing an android app named com.poupa.vinylmusicplayer.
+
+Here is the profile of the persona user you are going to adopt for testing:
+- name: Jade Green
+- phone: (+82)10-6478-2959
+- email: anony1017mous@gmail.com
+- username: anony1017mous
+- password: coinse123*
+- city: Daejeon
+- country: South Korea
+- date_of_birth: 1996-10-17
+- age: 26
+- gender: female
+- self_description: My name is Jade Green, and I am an extrovert person who loves to meet new people and make new friends.
+
+From now on, act as if you are Jade Green and you will be asked to provide the text content (or intermediate reasoning steps) that Jade Green would likely to input to a specific textfield on the current GUI state.
+
+Pay attention to the provided function list, and prioritise calling a relevant function if the function will provide the information related to the target textfield and the current GUI state, rather than generating the random text content. For example, you can call the function "get_friend_profile" to get one of your friend's profile information for filling in a contact information textfield rather than a random person's profile information.
+
+
+*** User:
+Refer to the below information and follow the provided steps to fill in the given textfield.
+    
+> Target textfield to fill in:
+a textfield that has text "2022" and resource_id "year"
+
+> Widgets on the current GUI state:
+I see the following widgets from top to bottom:
+a widget that has resource_id "observableScrollView"
+a button that has text "Tag editor"
+a textfield that has text "Lofi Study" and resource_id "title1"
+a textfield that has text "Album" and resource_id "title2"
+a textfield that has text "FASSounds" and resource_id "artist"
+a textfield that has text "Jazz" and resource_id "genre"
+a textfield that has text "2022" and resource_id "year"
+a textfield that has text "1" and resource_id "track_number"
+a textfield that has text "1" and resource_id "disc_number"
+
+So far, you already generated and tried the following text contents: ["2022", "1998", "2023"].
+Do NOT generate the same text content again which is in the aforementioned list.
+
+
+I am going to provide a template for your answer to let you think about the text content step by step. Fill out the <...> parts in the template with your own words. Preserve the formatting and overall template. Do NOT include anything else in your answer except the text to fill out the template, and do not repeat the lines of the template (e.g., do not include the line starting with "FUNCTIONALITY:" more than once in your answer).
+
+=== Below is the template for your answer ===
+FUNCTIONALITY: <briefly describe the functionality of the com.poupa.vinylmusicplayer that the current GUI state is about>
+TEXTFIELD_ROLE: <briefly describe the role of the target textfield>
+REASONING: <briefly describe the reasoning process (1-2 sentences) to fill in the textfield. Consider following questions: What is the textfield for? How can I generate new text content avoiding duplication with previously generated contents? Is there any function that can provide relevant information for the textfield?>
+
+*** Assistant:
+FUNCTIONALITY: The com.poupa.vinylmusicplayer app allows users to edit and customize the details of a music album, such as the title, artist, genre, year, track number, and disc number.
+
+TEXTFIELD_ROLE: The target textfield with the text "2022" and resource_id "year" is used to enter the release year of the album.
+
+REASONING: To fill in the textfield, I will input the text "2022" as it matches the current value displayed in the textfield. Since "2022" has already been generated and tried before, I will try a different year. To avoid duplication, I will use the function "get_samsung_product_info" with the product_type set to "phone" to get a new and random Samsung phone model. I will then extract the release year of the phone model and use it to fill in the textfield.
+
+*** User:
+Now, either provide the actual text content to fill in the textfield or call a relevant function if you need additional information for the current textfield, and there is a function that can provide the information. If you are going to immediately generate the text content, provide the text content with the prefix "TEXT_CONTENT:" in a single line, and do not include anything else in your answer except the text content. (e.g., "TEXT_CONTENT: Hello world!")
+
+*** Assistant:
+{
+  "name": "get_samsung_product_info",
+  "arguments": "{\n  \"product_type\": \"phone\"\n}"
+}
+
+*** User:
+Here is the response from the function call:
+```json
+{"model_name": "Galaxy S21", "serial_number": "SM-G991UZVAXAA"}
+```
+
+Now, provide the actual text content for the textfield. Provide the text content with the prefix "TEXT_CONTENT:" in a single line, and do not include anything else in your answer except the text content. (e.g., "TEXT_CONTENT: Hello world!")
+
+*** Assistant:
+TEXT_CONTENT: 2021

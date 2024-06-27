@@ -1,0 +1,9 @@
+{
+    "state_path": "data/sample/Calendar/state_2022-11-01_172842215734.json",
+    "app_name": "Calendar",
+    "package_name": "com.samsung.android.calendar",
+    "tester_type": "default_tester",
+    "profile": "jade",
+    "llm_model": "gpt-3.5-turbo-0613",
+    "output_dir": "output_sample"
+}

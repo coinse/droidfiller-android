@@ -1,0 +1,12 @@
+{
+  "7f2444263fd0c330e616a2d3bdca0dbd_44_220": {
+    "widget_description": "a textfield that has text \"Enter new tag\" and resource_id \"tag_edit\"",
+    "default_tester": [
+      "Shopping Expenses",
+      "Travel Expenses",
+      "Socializing Expenses",
+      "Food Expenses",
+      "Socializing Expenses"
+    ]
+  }
+}

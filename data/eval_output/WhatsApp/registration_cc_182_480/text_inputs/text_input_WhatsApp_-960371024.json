@@ -1,0 +1,12 @@
+{
+  "e403019d59104a7494659eb201a6ef3c_182_480": {
+    "widget_description": "a textfield that has text \"1\" and resource_id \"registration_cc\"",
+    "default_tester": [
+      "1",
+      "82",
+      "+64",
+      "1",
+      "+82"
+    ]
+  }
+}

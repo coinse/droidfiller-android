@@ -1,0 +1,12 @@
+{
+  "7d5ee70fd732d31e04cad9f494e86921_77_508": {
+    "widget_description": "a textfield that has text \"Confirmation code\" and resource_id \"confirmation_field\"",
+    "default_tester": [
+      "[Enter the confirmation code received on the phone]",
+      "123456",
+      "CONF2959",
+      "987654",
+      "987654"
+    ]
+  }
+}

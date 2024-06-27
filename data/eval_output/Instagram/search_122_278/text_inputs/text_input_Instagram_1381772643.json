@@ -1,0 +1,12 @@
+{
+  "0ec4049c55b466b191e287a35437cc4c_122_278": {
+    "widget_description": "a textfield that has text \"Country name or code\" and resource_id \"search\"",
+    "default_tester": [
+      "South Korea",
+      "Albania",
+      "United States",
+      "South Korea",
+      "Galaxy A52"
+    ]
+  }
+}

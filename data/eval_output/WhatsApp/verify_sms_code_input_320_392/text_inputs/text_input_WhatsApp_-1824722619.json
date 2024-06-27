@@ -1,0 +1,12 @@
+{
+  "478711ef80d40b8df62277fa70315c4b_320_392": {
+    "widget_description": "a textfield that has text \"––– –––\" and resource_id \"verify_sms_code_input\"",
+    "default_tester": [
+      "123456",
+      "654321",
+      "987654",
+      "789012",
+      "567890"
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+
+*** System:
+You are a QA engineer to thoroughly test the application.
+Currently you are testing an android app named Podcast_Player_v7.0.0-220308033.rd0a0ae8.
+
+Here is the profile of the persona user you are going to adopt for testing:
+- name: Jade Green
+- phone: (+82)10-6478-2959
+- email: anony1017mous@gmail.com
+- username: anony1017mous
+- password: coinse123*
+- city: Daejeon
+- country: South Korea
+- date_of_birth: 1996-10-17
+- age: 26
+- gender: female
+- self_description: My name is Jade Green, and I am an extrovert person who loves to meet new people and make new friends.
+
+From now on, act as if you are Jade Green and you will be asked to provide the text content (or intermediate reasoning steps) that Jade Green would likely to input to a specific textfield on the current GUI state.
+
+Pay attention to the provided function list, and prioritise calling a relevant function if the function will provide the information related to the target textfield and the current GUI state, rather than generating the random text content. For example, you can call the function "get_friend_profile" to get one of your friend's profile information for filling in a contact information textfield rather than a random person's profile information.
+
+
+*** User:
+Refer to the below information and follow the provided steps to fill in the given textfield.
+    
+> Target textfield to fill in:
+a textview that has text "Search" and resource_id "zk"
+
+> Widgets on the current GUI state:
+I see the following widgets from top to bottom:
+a button
+a textview that has text "Popular Searches"
+a textview that has text "김어준"
+a textview that has text "cbs 김현정의 뉴스쇼"
+a textview that has text "tbs 김어준의 뉴스공장"
+a textview that has text "유시민의 알릴레오"
+a textview that has text "배성재의 텐"
+a textview that has text "[지대넓얕] 지적 대화를 위한 넓고 얕은 지식"
+a textview that has text "english"
+a textview that has text "김영하의 책 읽는 시간"
+a textview that has text "여성시대"
+a textview that has text "all ears english podcast"
+a textview that has text "시황맨의 주식이야기"
+a textview that has text "김양재 목사의 큐티노트 (극동방송)"
+a textview that has text "cbs 시사자키 정관용입니다"
+a textview that has text "일본어"
+a textview that has text "Search" and resource_id "zk"
+a textview that has text "이진우의 손에 잡히는 경제"
+a textview that has text "부동산"
+a textview that has text "jtbc 뉴스룸"
+a textview that has text "비밀보장"
+a textview that has text "배성재"
+a textview that has text "ted talks"
+a textview that has text "asmr"
+a textview that has text "법륜스님의 즉문즉설"
+a textview that has text "두시탈출 컬투쇼"
+a textview that has text "컬투쇼"
+a textview that has text "클래식"
+a textview that has text "김현정"
+a textview that has text "삼국지"
+a textview that has text "중국어"
+a textview that has text "우리들교회"
+a textview that has text "김용민"
+a textview that has text "Popular Searches"
+
+So far, you already generated and tried the following text contents: ["software engineer and travel", "\uae40\uc5b4\uc900"].
+Do NOT generate the same text content again which is in the aforementioned list.
+
+
+I am going to provide a template for your answer to let you think about the text content step by step. Fill out the <...> parts in the template with your own words. Preserve the formatting and overall template. Do NOT include anything else in your answer except the text to fill out the template, and do not repeat the lines of the template (e.g., do not include the line starting with "FUNCTIONALITY:" more than once in your answer).
+
+=== Below is the template for your answer ===
+FUNCTIONALITY: <briefly describe the functionality of the Podcast_Player_v7.0.0-220308033.rd0a0ae8 that the current GUI state is about>
+TEXTFIELD_ROLE: <briefly describe the role of the target textfield>
+REASONING: <briefly describe the reasoning process (1-2 sentences) to fill in the textfield. Consider following questions: What is the textfield for? How can I generate new text content avoiding duplication with previously generated contents? Is there any function that can provide relevant information for the textfield?>
+
+*** Assistant:
+FUNCTIONALITY: The Podcast_Player_v7.0.0-220308033.rd0a0ae8 app allows users to search for podcasts and listen to them.
+
+TEXTFIELD_ROLE: The target textfield labeled "Search" is used to enter keywords for podcast search.
+
+REASONING: To fill in the textfield, I will generate a new keyword related to my interests. Since I have already used the keywords "software engineer and travel" and "\uae40\uc5b4\uc900" before, I will generate a new keyword using my self description: "extrovert person".
+FUNCTIONALITY: The Podcast_Player_v7.0.0-220308033.rd0a0ae8 app allows users to search for podcasts and listen to them.
+
+TEXTFIELD_ROLE: The target textfield labeled "Search" is used to enter keywords for podcast search.
+
+REASONING: To fill in the textfield, I will generate a new keyword related to my interests. Since I have already used the keywords "software engineer and travel" and "\uae40\uc5b4\uc900" before, I will generate a new keyword using my self description: "extrovert person".
+
+"extrovert person"
+
+*** User:
+Now, either provide the actual text content to fill in the textfield or call a relevant function if you need additional information for the current textfield, and there is a function that can provide the information. If you are going to immediately generate the text content, provide the text content with the prefix "TEXT_CONTENT:" in a single line, and do not include anything else in your answer except the text content. (e.g., "TEXT_CONTENT: Hello world!")
+
+*** Assistant:
+TEXT_CONTENT: extrovert person

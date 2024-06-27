@@ -1,0 +1,73 @@
+
+*** System:
+You are a QA engineer to thoroughly test the application.
+Currently you are testing an android app named com.poupa.vinylmusicplayer.
+
+Here is the profile of the persona user you are going to adopt for testing:
+- name: Jade Green
+- phone: (+82)10-6478-2959
+- email: anony1017mous@gmail.com
+- username: anony1017mous
+- password: coinse123*
+- city: Daejeon
+- country: South Korea
+- date_of_birth: 1996-10-17
+- age: 26
+- gender: female
+- self_description: My name is Jade Green, and I am an extrovert person who loves to meet new people and make new friends.
+
+From now on, act as if you are Jade Green and you will be asked to provide the text content (or intermediate reasoning steps) that Jade Green would likely to input to a specific textfield on the current GUI state.
+
+Pay attention to the provided function list, and prioritise calling a relevant function if the function will provide the information related to the target textfield and the current GUI state, rather than generating the random text content. For example, you can call the function "get_friend_profile" to get one of your friend's profile information for filling in a contact information textfield rather than a random person's profile information.
+
+
+*** User:
+Refer to the below information and follow the provided steps to fill in the given textfield.
+    
+> Target textfield to fill in:
+a textview that has text "Search your library…" and resource_id "search_src_text"
+
+> Widgets on the current GUI state:
+I see the following widgets from top to bottom:
+a button
+a textview that has text "Search your library…" and resource_id "search_src_text"
+a textview that has text "No results"
+a textview that has text "No results"
+
+So far, you already generated and tried the following text contents: ["R&B music", "Pop music", "Jazz music", "Rock music"].
+Do NOT generate the same text content again which is in the aforementioned list.
+
+
+I am going to provide a template for your answer to let you think about the text content step by step. Fill out the <...> parts in the template with your own words. Preserve the formatting and overall template. Do NOT include anything else in your answer except the text to fill out the template, and do not repeat the lines of the template (e.g., do not include the line starting with "FUNCTIONALITY:" more than once in your answer).
+
+=== Below is the template for your answer ===
+FUNCTIONALITY: <briefly describe the functionality of the com.poupa.vinylmusicplayer that the current GUI state is about>
+TEXTFIELD_ROLE: <briefly describe the role of the target textfield>
+REASONING: <briefly describe the reasoning process (1-2 sentences) to fill in the textfield. Consider following questions: What is the textfield for? How can I generate new text content avoiding duplication with previously generated contents? Is there any function that can provide relevant information for the textfield?>
+
+*** Assistant:
+FUNCTIONALITY: The com.poupa.vinylmusicplayer app allows users to search their music library.
+
+TEXTFIELD_ROLE: The target textfield is used for searching music in the user's library.
+
+REASONING: To fill in the textfield, I can generate a new text content related to music genres. However, I need to avoid duplicating the previously generated contents ["R&B music", "Pop music", "Jazz music", "Rock music"]. Since the textfield is for searching music, I can use the function "get_friend_profile" to get the name of one of my friends who has a music-related profile. This will provide a unique and relevant text content for the textfield.
+
+*** User:
+Now, either provide the actual text content to fill in the textfield or call a relevant function if you need additional information for the current textfield, and there is a function that can provide the information. If you are going to immediately generate the text content, provide the text content with the prefix "TEXT_CONTENT:" in a single line, and do not include anything else in your answer except the text content. (e.g., "TEXT_CONTENT: Hello world!")
+
+*** Assistant:
+{
+  "name": "get_friend_profile",
+  "arguments": "{\n  \"name\": \"Jamie Obrien\"\n}"
+}
+
+*** User:
+Here is the response from the function call:
+```json
+{"name": "Jamie Obrien", "email": "jamie.obrien@example.com", "phone": "081-827-7650", "city": "Ballina", "state": "Galway", "country": "Ireland", "date_of_birth": "1979-04-18", "age": "44", "gender": "male", "username": "jamieobrien", "password": "v1.9kQPw%$", "personality": "Outgoing and friendly", "self_description": "I am a software engineer and I love to travel and explore new places."}
+```
+
+Now, provide the actual text content for the textfield. Provide the text content with the prefix "TEXT_CONTENT:" in a single line, and do not include anything else in your answer except the text content. (e.g., "TEXT_CONTENT: Hello world!")
+
+*** Assistant:
+TEXT_CONTENT: Jamie Obrien

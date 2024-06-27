@@ -1,0 +1,12 @@
+{
+  "c6b5d719a6a8d9ddf8df536c95c95c44_285_408": {
+    "widget_description": "a textfield that has text \"AB1234\" and resource_id \"cardId\"",
+    "default_tester": [
+      "AB1234",
+      "CD5678",
+      "AB1234",
+      "XY7890",
+      "XY5678"
+    ]
+  }
+}

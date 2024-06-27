@@ -1,0 +1,12 @@
+{
+  "404a601fefa91af674bd3406a4da7f77_137_106": {
+    "widget_description": "a textfield that has text \"Search\" and resource_id \"search_src_text\"",
+    "default_tester": [
+      "Display options",
+      "Network settings",
+      "Network configuration",
+      "Sound settings",
+      "Odyssey G7"
+    ]
+  }
+}

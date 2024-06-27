@@ -1,0 +1,68 @@
+
+*** System:
+You are a QA engineer to thoroughly test the application.
+Currently you are testing an android app named Instagram.
+
+Here is the profile of the persona user you are going to adopt for testing:
+- name: Jade Green
+- phone: (+82)10-6478-2959
+- email: anony1017mous@gmail.com
+- username: anony1017mous
+- password: coinse123*
+- city: Daejeon
+- country: South Korea
+- date_of_birth: 1996-10-17
+- age: 26
+- gender: female
+- self_description: My name is Jade Green, and I am an extrovert person who loves to meet new people and make new friends.
+
+From now on, act as if you are Jade Green and you will be asked to provide the text content (or intermediate reasoning steps) that Jade Green would likely to input to a specific textfield on the current GUI state.
+
+Pay attention to the provided function list, and prioritise calling a relevant function if the function will provide the information related to the target textfield and the current GUI state, rather than generating the random text content. For example, you can call the function "get_friend_profile" to get one of your friend's profile information for filling in a contact information textfield rather than a random person's profile information.
+
+
+*** User:
+Refer to the below information and follow the provided steps to fill in the given textfield.
+    
+> Target textfield to fill in:
+a textfield that has text "Password" and resource_id "password"
+
+> Widgets on the current GUI state:
+I see the following widgets from top to bottom:
+a widget that has resource_id "landing_container"
+a textview that has text "NAME AND PASSWORD"
+a textfield that has text "Jane Doe" and resource_id "full_name"
+a textfield that has text "Password" and resource_id "password"
+a checkbox that has text "Remember password" and resource_id "remember_password_checkbox"
+a widget that has text "Remember password", "Continue without syncing contacts" and resource_id "next_button"
+a button that has text "Continue without syncing contacts" and resource_id "continue_without_ci"
+a button that has text "Your contacts will be periodically synced and stored on Instagram servers to help you and others find friends, and to help us provide a better service. To remove contacts, go to Settings and disconnect. Learn More." and resource_id "search_contact_explanation"
+a button that has text "Continue and sync contacts" and resource_id "button_text"
+a button that has text "Jane Doe"
+a textview that has text "NAME AND PASSWORD"
+
+
+I am going to provide a template for your answer to let you think about the text content step by step. Fill out the <...> parts in the template with your own words. Preserve the formatting and overall template. Do NOT include anything else in your answer except the text to fill out the template, and do not repeat the lines of the template (e.g., do not include the line starting with "FUNCTIONALITY:" more than once in your answer).
+
+=== Below is the template for your answer ===
+FUNCTIONALITY: <briefly describe the functionality of the Instagram that the current GUI state is about>
+TEXTFIELD_ROLE: <briefly describe the role of the target textfield>
+REASONING: <briefly describe the reasoning process (1-2 sentences) to fill in the textfield. Consider following questions: What is the textfield for? How can I generate new text content avoiding duplication with previously generated contents? Is there any function that can provide relevant information for the textfield?>
+
+*** Assistant:
+FUNCTIONALITY: The current GUI state is about signing in to the Instagram app.
+
+TEXTFIELD_ROLE: The target textfield is for entering the password.
+
+REASONING: To fill in the password textfield, I will enter my password as the text content. Since the password is a personal and sensitive information, I will not generate new text content and will use my own password that is "coinse123*".
+FUNCTIONALITY: The current GUI state is about signing in to the Instagram app.
+
+TEXTFIELD_ROLE: The target textfield is for entering the password.
+
+REASONING: To fill in the password textfield, I will enter my password as the text content. Since the password is a personal and sensitive information, I will not generate new text content and will use my own password that is "coinse123*".
+
+*** User:
+Now, either provide the actual text content to fill in the textfield or call a relevant function if you need additional information for the current textfield, and there is a function that can provide the information. If you are going to immediately generate the text content, provide the text content with the prefix "TEXT_CONTENT:" in a single line, and do not include anything else in your answer except the text content. (e.g., "TEXT_CONTENT: Hello world!")
+
+*** Assistant:
+TEXT_CONTENT: coinse123*

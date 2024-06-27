@@ -1,0 +1,12 @@
+{
+  "24f7ef53a2c42687df1356c59117d7d5_53_859": {
+    "widget_description": "a textfield that has text \"Email\" and resource_id \"email\"",
+    "default_tester": [
+      "anony1017mous@gmail.com",
+      "jade.green@example.com",
+      "functions.generate_random_email()",
+      "anony1017mous@gmail.com",
+      "anony1017mous@gmail.com"
+    ]
+  }
+}

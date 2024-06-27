@@ -1,0 +1,12 @@
+{
+  "fb0c6997270766a7cfb6c87368cd6736_612_408": {
+    "widget_description": "a textfield that has text \"00\" and resource_id \"numberpicker_input\"",
+    "default_tester": [
+      "25",
+      "01",
+      "00",
+      "05",
+      "29"
+    ]
+  }
+}

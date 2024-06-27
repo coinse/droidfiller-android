@@ -1,0 +1,12 @@
+{
+  "5ebb3c532d425a3af0f2331845308e85_0_66": {
+    "widget_description": "a textfield that has text \"Search\"",
+    "default_tester": [
+      "Action movies",
+      "Romantic comedies",
+      "Sci-fi movies",
+      "Thriller movies",
+      "Comedy movies"
+    ]
+  }
+}

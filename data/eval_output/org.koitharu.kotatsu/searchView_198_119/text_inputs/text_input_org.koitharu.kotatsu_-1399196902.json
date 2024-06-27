@@ -1,0 +1,12 @@
+{
+  "2b3c7e1667bb047ea965ec54ab355fed_198_119": {
+    "widget_description": "a textfield that has text \"Search manga\" and resource_id \"searchView\"",
+    "default_tester": [
+      "Naruto",
+      "One Piece",
+      "Tokyo Ghoul",
+      "Comedy",
+      "Attack on Titan"
+    ]
+  }
+}

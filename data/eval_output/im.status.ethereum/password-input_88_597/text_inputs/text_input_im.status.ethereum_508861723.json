@@ -1,0 +1,12 @@
+{
+  "88ebcb38c0ab25ae7323e03d1daf9097_88_597": {
+    "widget_description": "a textfield that has text \"Password...\"",
+    "default_tester": [
+      "P@ssw0rd",
+      "Secure123",
+      "Green2021!",
+      "P@ssw0rd123!",
+      "Status@2022!"
+    ]
+  }
+}

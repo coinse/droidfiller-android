@@ -1,0 +1,12 @@
+{
+  "e28d5811117e03f6137269ea3c22c6cc_154_1331": {
+    "widget_description": "a textfield that has text \"Search or enter address\" and resource_id \"mozac_browser_toolbar_edit_url_view\"",
+    "default_tester": [
+      "TEXT_CONTENT: cats and dogs",
+      "meet new people and make new friends",
+      "social events in Daejeon",
+      "moz://a",
+      "social events in Daejeon"
+    ]
+  }
+}

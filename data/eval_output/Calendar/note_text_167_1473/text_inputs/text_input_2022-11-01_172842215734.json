@@ -1,0 +1,12 @@
+{
+  "12bd04673b59081e282e5d3620eadc4c_167_1473": {
+    "widget_description": "a textfield that has text \"Notes\" and resource_id \"note_text\"",
+    "default_tester": [
+      "This is an important meeting to discuss the project updates and next steps.",
+      "Looking forward to meeting new attendees at the event.",
+      "Remember to invite Michelle Sanders to the event. Her phone number is 081-176-3177.",
+      "Please bring your laptops and any necessary documents for the meeting.",
+      "Meeting agenda: Discuss project updates and next steps. Date: November 1, 6:00 PM - 7:00 PM."
+    ]
+  }
+}

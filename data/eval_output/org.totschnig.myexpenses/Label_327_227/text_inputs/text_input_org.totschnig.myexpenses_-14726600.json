@@ -1,0 +1,12 @@
+{
+  "c07c7c679bf25325213255fdc3d78cb1_327_227": {
+    "widget_description": "a textfield that has text \"Label\" and resource_id \"Label\"",
+    "default_tester": [
+      "Personal Expenses",
+      "Travel Expenses",
+      "Socializing Expenses",
+      "Santiago's Expenses",
+      "Vibrant Expenses"
+    ]
+  }
+}

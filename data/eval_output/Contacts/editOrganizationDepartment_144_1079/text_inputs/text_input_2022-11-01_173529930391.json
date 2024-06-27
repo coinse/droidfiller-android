@@ -1,0 +1,12 @@
+{
+  "dd55922b8dbda53f15f78fabce61ac7d_144_1079": {
+    "widget_description": "a textfield that has text \"Department\" and resource_id \"editOrganizationDepartment\"",
+    "default_tester": [
+      "Social",
+      "Sales",
+      "Marketing",
+      "Human Resources",
+      "Human Resources"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "2a64216c6faf95e905dacc9a55264e57_593_674": {
+    "widget_description": "a textfield that has text \"Gender\" and resource_id \"gender\"",
+    "default_tester": [
+      "Female",
+      "Female",
+      "Male",
+      "Female",
+      "Female"
+    ]
+  }
+}

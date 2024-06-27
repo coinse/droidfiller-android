@@ -1,0 +1,80 @@
+
+*** System:
+You are a QA engineer to thoroughly test the application.
+Currently you are testing an android app named Instagram.
+
+Here is the profile of the persona user you are going to adopt for testing:
+- name: Jade Green
+- phone: (+82)10-6478-2959
+- email: anony1017mous@gmail.com
+- username: anony1017mous
+- password: coinse123*
+- city: Daejeon
+- country: South Korea
+- date_of_birth: 1996-10-17
+- age: 26
+- gender: female
+- self_description: My name is Jade Green, and I am an extrovert person who loves to meet new people and make new friends.
+
+From now on, act as if you are Jade Green and you will be asked to provide the text content (or intermediate reasoning steps) that Jade Green would likely to input to a specific textfield on the current GUI state.
+
+Pay attention to the provided function list, and prioritise calling a relevant function if the function will provide the information related to the target textfield and the current GUI state, rather than generating the random text content. For example, you can call the function "get_friend_profile" to get one of your friend's profile information for filling in a contact information textfield rather than a random person's profile information.
+
+
+*** User:
+Refer to the below information and follow the provided steps to fill in the given textfield.
+    
+> Target textfield to fill in:
+a textfield that has text "Country name or code" and resource_id "search"
+
+> Widgets on the current GUI state:
+I see the following widgets from top to bottom:
+a textview that has text "SELECT YOUR COUNTRY"
+a textfield that has text "Country name or code" and resource_id "search"
+a widget that has text "Country name or code" and resource_id "country_code_list"
+a widget that has text "Afghanistan (+93)" and resource_id "['row_simple_text_textview', 'row_divider', 'row_simple_text_end']"
+a widget that has text "Albania (+355)" and resource_id "['row_simple_text_textview', 'row_divider', 'row_simple_text_end']"
+a widget that has text "Algeria (+213)" and resource_id "['row_simple_text_textview', 'row_divider', 'row_simple_text_end']"
+a widget that has text "American Samoa (+1)" and resource_id "['row_simple_text_textview', 'row_divider', 'row_simple_text_end']"
+a widget that has text "Andorra (+376)" and resource_id "['row_simple_text_textview', 'row_divider', 'row_simple_text_end']"
+a widget that has text "Angola (+244)" and resource_id "['row_simple_text_textview', 'row_divider', 'row_simple_text_end']"
+a widget that has text "Anguilla (+1)" and resource_id "['row_simple_text_textview', 'row_divider', 'row_simple_text_end']"
+a widget that has text "Antigua & Barbuda (+1)" and resource_id "['row_simple_text_textview', 'row_simple_text_end']"
+a textview that has text "Afghanistan (+93)"
+a textview that has text "Albania (+355)"
+a textview that has text "Algeria (+213)"
+a textview that has text "American Samoa (+1)"
+a textview that has text "Andorra (+376)"
+a textview that has text "Angola (+244)"
+a textview that has text "Anguilla (+1)"
+a textview that has text "Antigua & Barbuda (+1)"
+a textview that has text "SELECT YOUR COUNTRY"
+a textview that has text "Afghanistan (+93)"
+a textview that has text "Albania (+355)"
+a textview that has text "Algeria (+213)"
+a textview that has text "American Samoa (+1)"
+a textview that has text "Andorra (+376)"
+a textview that has text "Angola (+244)"
+a textview that has text "Anguilla (+1)"
+a textview that has text "Antigua & Barbuda (+1)"
+
+
+I am going to provide a template for your answer to let you think about the text content step by step. Fill out the <...> parts in the template with your own words. Preserve the formatting and overall template. Do NOT include anything else in your answer except the text to fill out the template, and do not repeat the lines of the template (e.g., do not include the line starting with "FUNCTIONALITY:" more than once in your answer).
+
+=== Below is the template for your answer ===
+FUNCTIONALITY: <briefly describe the functionality of the Instagram that the current GUI state is about>
+TEXTFIELD_ROLE: <briefly describe the role of the target textfield>
+REASONING: <briefly describe the reasoning process (1-2 sentences) to fill in the textfield. Consider following questions: What is the textfield for? How can I generate new text content avoiding duplication with previously generated contents? Is there any function that can provide relevant information for the textfield?>
+
+*** Assistant:
+FUNCTIONALITY: The current GUI state is about selecting the country in the Instagram app.
+
+TEXTFIELD_ROLE: The target textfield is for entering the country name or code.
+
+REASONING: To fill in the textfield, I will input the country name or code "South Korea" as the text content.
+
+*** User:
+Now, either provide the actual text content to fill in the textfield or call a relevant function if you need additional information for the current textfield, and there is a function that can provide the information. If you are going to immediately generate the text content, provide the text content with the prefix "TEXT_CONTENT:" in a single line, and do not include anything else in your answer except the text content. (e.g., "TEXT_CONTENT: Hello world!")
+
+*** Assistant:
+TEXT_CONTENT: South Korea

@@ -1,0 +1,12 @@
+{
+  "16adb8c6527f4412ad75dc214239b2dd_158_140": {
+    "widget_description": "a textfield that has text \"City/country/region\" and resource_id \"worldclock_search_map_txt_find\"",
+    "default_tester": [
+      "Daejeon",
+      "Seoul",
+      "Portarlington, Ireland",
+      "Tokyo, Japan",
+      "Portarlington, Ireland"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "484d3e7feca69f9d55d8788cb4159dff_354_1787": {
+    "widget_description": "a textfield that has text \"00\" and resource_id \"second\"",
+    "default_tester": [
+      "30",
+      "45",
+      "15",
+      "50",
+      "25"
+    ]
+  }
+}

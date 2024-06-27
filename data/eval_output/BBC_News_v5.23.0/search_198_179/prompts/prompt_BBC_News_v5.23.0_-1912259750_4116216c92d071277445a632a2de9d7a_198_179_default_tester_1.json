@@ -1,0 +1,24 @@
+{
+  "prompt": {
+    "system_message": "You are a QA engineer to thoroughly test the application.\nCurrently you are testing an android app named BBC_News_v5.23.0.\n\nHere is the profile of the persona user you are going to adopt for testing:\n- name: Jade Green\n- phone: (+82)10-6478-2959\n- email: anony1017mous@gmail.com\n- username: anony1017mous\n- password: coinse123*\n- city: Daejeon\n- country: South Korea\n- date_of_birth: 1996-10-17\n- age: 26\n- gender: female\n- self_description: My name is Jade Green, and I am an extrovert person who loves to meet new people and make new friends.\n\nFrom now on, act as if you are Jade Green and you will be asked to provide the text content (or intermediate reasoning steps) that Jade Green would likely to input to a specific textfield on the current GUI state.\n\nPay attention to the provided function list, and prioritise calling a relevant function if the function will provide the information related to the target textfield and the current GUI state, rather than generating the random text content. For example, you can call the function \"get_friend_profile\" to get one of your friend's profile information for filling in a contact information textfield rather than a random person's profile information.\n",
+    "conversation": [
+      [
+        "Refer to the below information and follow the provided steps to fill in the given textfield.\n    \n> Target textfield to fill in:\na textfield that has text \"Search topics and articles\" and resource_id \"search\"\n\n> Widgets on the current GUI state:\nI see the following widgets from top to bottom:\na button that has text \"Search topics and articles\"\na textfield that has text \"Search topics and articles\" and resource_id \"search\"\n\nSo far, you already generated and tried the following text contents: [\"Climate change impact on biodiversity\"].\nDo NOT generate the same text content again which is in the aforementioned list.\n\n\nI am going to provide a template for your answer to let you think about the text content step by step. Fill out the <...> parts in the template with your own words. Preserve the formatting and overall template. Do NOT include anything else in your answer except the text to fill out the template, and do not repeat the lines of the template (e.g., do not include the line starting with \"FUNCTIONALITY:\" more than once in your answer).\n\n=== Below is the template for your answer ===\nFUNCTIONALITY: <briefly describe the functionality of the BBC_News_v5.23.0 that the current GUI state is about>\nTEXTFIELD_ROLE: <briefly describe the role of the target textfield>\nREASONING: <briefly describe the reasoning process (1-2 sentences) to fill in the textfield. Consider following questions: What is the textfield for? How can I generate new text content avoiding duplication with previously generated contents? Is there any function that can provide relevant information for the textfield?>",
+        "FUNCTIONALITY: The BBC_News_v5.23.0 app allows users to search for topics and articles.\n\nTEXTFIELD_ROLE: The target textfield is used to enter keywords for searching topics and articles.\n\nREASONING: To fill in the textfield, I will generate a new text content related to a topic of interest. Since the generated text content should not be a duplicate of previously generated contents, I will use a function to get a random friend's profile information and extract a keyword from their self-description."
+      ],
+      [
+        "Now, either provide the actual text content to fill in the textfield or call a relevant function if you need additional information for the current textfield, and there is a function that can provide the information. If you are going to immediately generate the text content, provide the text content with the prefix \"TEXT_CONTENT:\" in a single line, and do not include anything else in your answer except the text content. (e.g., \"TEXT_CONTENT: Hello world!\")",
+        {
+          "name": "get_friend_profile",
+          "arguments": "{}"
+        }
+      ],
+      [
+        "Here is the response from the function call:\n```json\n{\"error\": \"Profile not found\"}\n```\n\nNow, provide the actual text content for the textfield. Provide the text content with the prefix \"TEXT_CONTENT:\" in a single line, and do not include anything else in your answer except the text content. (e.g., \"TEXT_CONTENT: Hello world!\")",
+        "TEXT_CONTENT: Climate change impact on ecosystems"
+      ]
+    ]
+  },
+  "state_str": "I see the following widgets from top to bottom:\na button that has text \"Search topics and articles\"\na textfield that has text \"Search topics and articles\" and resource_id \"search\"",
+  "widget": "a textfield that has text \"Search topics and articles\" and resource_id \"search\""
+}

@@ -1,0 +1,12 @@
+{
+  "219c13d9d73d199d49ae1d9372559361_293_744": {
+    "widget_description": "a textview that has text \"(555) 123-4567\" and resource_id \"phone_field\"",
+    "default_tester": [
+      "(555) 123-4567",
+      "(+82)10-6478-2959",
+      "(+82)10-6478-2959",
+      "(555) 987-6543",
+      "(555) 123-4567"
+    ]
+  }
+}

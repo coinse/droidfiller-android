@@ -1,0 +1,12 @@
+{
+  "6770a5ba9f19fbebf74b03bdbb9b9398_121_74": {
+    "widget_description": "a textfield that has text \"google.com/?gws_rd=ssl\" and resource_id \"url_bar\"",
+    "default_tester": [
+      "https://www.instagram.com",
+      "https://www.facebook.com",
+      "Jamie Obrien Brave_Private_Web_Browser_v1.39.115",
+      "applestore.com",
+      "I am a software engineer and I love to travel and explore new places."
+    ]
+  }
+}

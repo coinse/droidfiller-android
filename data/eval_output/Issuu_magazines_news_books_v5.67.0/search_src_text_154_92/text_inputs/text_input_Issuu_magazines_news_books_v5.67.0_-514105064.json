@@ -1,0 +1,12 @@
+{
+  "deab1786e67151db00699a85d0d75875_154_92": {
+    "widget_description": "a textview that has text \"Search on Issuu\" and resource_id \"search_src_text\"",
+    "default_tester": [
+      "technology",
+      "Galaxy S21",
+      "Odyssey G7",
+      "Galaxy S21",
+      "Samsung watch"
+    ]
+  }
+}

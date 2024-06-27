@@ -1,0 +1,12 @@
+{
+  "0a36bfd707bd1452c2bf78ffdc771e02_22_242": {
+    "widget_description": "a textfield that has text \"korea\" and resource_id \"search_box\"",
+    "default_tester": [
+      "South Korea",
+      "Korea",
+      "South Korea",
+      "Korea Galaxy S21",
+      "Galaxy S21"
+    ]
+  }
+}

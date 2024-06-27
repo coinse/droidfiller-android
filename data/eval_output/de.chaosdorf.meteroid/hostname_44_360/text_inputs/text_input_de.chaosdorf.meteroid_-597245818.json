@@ -1,0 +1,12 @@
+{
+  "318862f1aa69150b74ec8ecffb28cfd9_44_360": {
+    "widget_description": "a textfield that has text \"https://mete.chaosdorf.space/api/v1\" and resource_id \"hostname\"",
+    "default_tester": [
+      "https://mete.chaosdorf.space/api/v1",
+      "https://mete.chaosdorf.space/api/v1",
+      "https://mete.chaosdorf.space/api/v1",
+      "https://mete.chaosdorf.space/api/v1",
+      "https://mete.chaosdorf.space/api/v1"
+    ]
+  }
+}

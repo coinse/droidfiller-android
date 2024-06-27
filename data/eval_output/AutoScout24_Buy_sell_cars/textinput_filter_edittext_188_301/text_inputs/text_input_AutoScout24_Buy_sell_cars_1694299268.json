@@ -1,0 +1,12 @@
+{
+  "3ba91d845b351d0a1526a5070339ead5_188_301": {
+    "widget_description": "a textfield that has text \"Search\" and resource_id \"textinput_filter_edittext\"",
+    "default_tester": [
+      "BMW 3 Series",
+      "Samsung Galaxy S21",
+      "Mercedes-Benz C-Class",
+      "Audi A4",
+      "Toyota Camry"
+    ]
+  }
+}

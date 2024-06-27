@@ -1,0 +1,12 @@
+{
+  "d9d7303fd591839abd5cc24824fe3217_327_641": {
+    "widget_description": "a textview that has text \"Grocery Market\" and resource_id \"Payee\"",
+    "default_tester": [
+      "Grocery Market",
+      "SuperMart",
+      "SuperMarket",
+      "Grocery Market",
+      "Grocery Market Store"
+    ]
+  }
+}

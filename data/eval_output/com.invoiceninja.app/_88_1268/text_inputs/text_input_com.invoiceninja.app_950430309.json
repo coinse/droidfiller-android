@@ -1,0 +1,12 @@
+{
+  "0335bf93b7b9a6bae278ad42f1196a7a_88_1268": {
+    "widget_description": "a textfield that has text \"2FA - One Time Password (Optional)\" and resource_id \"\"",
+    "default_tester": [
+      "",
+      "123456",
+      "123456",
+      "891023",
+      "123abc456"
+    ]
+  }
+}

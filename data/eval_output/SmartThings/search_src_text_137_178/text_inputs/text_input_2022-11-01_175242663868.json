@@ -1,0 +1,12 @@
+{
+  "e44212ea8efc951ef178e24a7e8d0684_137_178": {
+    "widget_description": "a textfield that has text \"Search for a device or brand\" and resource_id \"search_src_text\"",
+    "default_tester": [
+      "Samsung SmartThings Hub",
+      "Galaxy S21",
+      "Galaxy Watch3",
+      "Odyssey G7",
+      "Smart TV"
+    ]
+  }
+}

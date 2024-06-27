@@ -1,0 +1,12 @@
+{
+  "56cbd3edc5d5ea53ffe4d861c0b25089_48_1944": {
+    "widget_description": "a textfield that has text \"Preset timer name\" and resource_id \"preset_name\"",
+    "default_tester": [
+      "Jade's Timer",
+      "Morning Alarm",
+      "Study Break Timer",
+      "Jade's Timer",
+      "Jamie's Timer"
+    ]
+  }
+}

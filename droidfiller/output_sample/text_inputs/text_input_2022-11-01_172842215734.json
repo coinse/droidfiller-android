@@ -1,0 +1,26 @@
+{
+  "b8c38a0b2e5438f6c58c9256b982a28b_63_238_906_343": {
+    "widget_description": "a textfield that has text \"Title\" and resource_id \"title\" (Widget ID: 14)",
+    "default_tester": [
+      "Meeting"
+    ]
+  },
+  "5c6f07d83d9b5fa70a7e128d51d7b237_167_907_996_1044": {
+    "widget_description": "a textfield that has text \"Location\" and resource_id \"location\" (Widget ID: 43)",
+    "default_tester": [
+      "Daejeon"
+    ]
+  },
+  "12bd04673b59081e282e5d3620eadc4c_167_1473_1017_1610": {
+    "widget_description": "a textfield that has text \"Notes\" and resource_id \"note_text\" (Widget ID: 71)",
+    "default_tester": [
+      "This is a reminder for the team meeting tomorrow. Please make sure to bring your progress reports and any updates you have."
+    ]
+  },
+  "385ff4c593b4efd6d2edfb41b5dcef86_167_1616_761_1753": {
+    "widget_description": "a textview that has text \"Enter name or email\" and resource_id \"attendees\" (Widget ID: 82)",
+    "default_tester": [
+      "michelle.sanders@example.com"
+    ]
+  }
+}

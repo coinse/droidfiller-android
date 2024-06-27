@@ -1,0 +1,12 @@
+{
+  "f634889482bd3cca22de8039217d21ef_459_499": {
+    "widget_description": "a textfield that has text \"0\" and resource_id \"AmountEditText\"",
+    "default_tester": [
+      "25.50",
+      "100.00",
+      "50.75",
+      "72.35",
+      "12.34"
+    ]
+  }
+}

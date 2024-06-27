@@ -1,0 +1,12 @@
+{
+  "5331e810968eb09e5e2b399615b25e55_144_1195": {
+    "widget_description": "a textfield that has text \"Company\" and resource_id \"editOrganizationCompany\"",
+    "default_tester": [
+      "Samsung Electronics",
+      "Galaxy S21",
+      "Acme Corporation",
+      "Samsung Corporation",
+      "Samsung Electronics"
+    ]
+  }
+}

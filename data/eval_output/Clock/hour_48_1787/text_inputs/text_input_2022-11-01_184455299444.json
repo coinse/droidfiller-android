@@ -1,0 +1,12 @@
+{
+  "787a173ee52daf26bec91c7c87282150_48_1787": {
+    "widget_description": "a textfield that has text \"00\" and resource_id \"hour\"",
+    "default_tester": [
+      "14",
+      "09",
+      "10",
+      "03",
+      "18"
+    ]
+  }
+}

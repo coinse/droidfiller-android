@@ -1,0 +1,12 @@
+{
+  "ff21c2a5e869b76da62a35fbbc49dc18_400_480": {
+    "widget_description": "a textfield that has text \"phone number\" and resource_id \"registration_phone\"",
+    "default_tester": [
+      "(+82)10-6478-2959",
+      "(+1)555-123-4567",
+      "(+1)555-987-6543",
+      "(+82)10-6478-2959",
+      "(+82)10-6478-2959"
+    ]
+  }
+}

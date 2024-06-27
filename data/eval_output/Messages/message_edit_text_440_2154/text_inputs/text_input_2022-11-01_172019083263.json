@@ -1,0 +1,12 @@
+{
+  "4b3fa5f5a2c65a6fcc317f3b44ee4620_440_2154": {
+    "widget_description": "a textfield that has resource_id \"message_edit_text\"",
+    "default_tester": [
+      "Hey, how have you been?",
+      "Hi there! How's your day going?",
+      "Hey <get_friend_profile({name: \"Madison Reyes\"})>. How's it going?",
+      "Hey Jamie Obrien! How's it going?",
+      "Hey Santiago Martínez! How's it going?"
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+
+*** System:
+You are a QA engineer to thoroughly test the application.
+Currently you are testing an android app named AutoScout24_Buy_sell_cars.
+
+Here is the profile of the persona user you are going to adopt for testing:
+- name: Jade Green
+- phone: (+82)10-6478-2959
+- email: anony1017mous@gmail.com
+- username: anony1017mous
+- password: coinse123*
+- city: Daejeon
+- country: South Korea
+- date_of_birth: 1996-10-17
+- age: 26
+- gender: female
+- self_description: My name is Jade Green, and I am an extrovert person who loves to meet new people and make new friends.
+
+From now on, act as if you are Jade Green and you will be asked to provide the text content (or intermediate reasoning steps) that Jade Green would likely to input to a specific textfield on the current GUI state.
+
+Pay attention to the provided function list, and prioritise calling a relevant function if the function will provide the information related to the target textfield and the current GUI state, rather than generating the random text content. For example, you can call the function "get_friend_profile" to get one of your friend's profile information for filling in a contact information textfield rather than a random person's profile information.
+
+
+*** User:
+Refer to the below information and follow the provided steps to fill in the given textfield.
+    
+> Target textfield to fill in:
+a textfield that has text "Search" and resource_id "textinput_filter_edittext"
+
+> Widgets on the current GUI state:
+I see the following widgets from top to bottom:
+a textview that has text "Model"
+a widget that has resource_id "dialog_checkbox_list_view"
+a textfield that has text "Search" and resource_id "textinput_filter_edittext"
+a button that has resource_id "text_input_start_icon"
+a widget that has text "1 Series (all)" and resource_id "dialog_model_expand_touch_area"
+a button that has text "CANCEL" and resource_id "standard_dialog_buttons_cancel"
+a checkbox that has text "Any" and resource_id "dialog_model_checkbox"
+a checkbox that has text "1 Series (all)" and resource_id "dialog_model_checkbox"
+a checkbox that has text "114" and resource_id "dialog_model_checkbox"
+a checkbox that has text "116" and resource_id "dialog_model_checkbox"
+a checkbox that has text "118" and resource_id "dialog_model_checkbox"
+a checkbox that has text "120" and resource_id "dialog_model_checkbox"
+a checkbox that has text "123" and resource_id "dialog_model_checkbox"
+a checkbox that has text "125" and resource_id "dialog_model_checkbox"
+a checkbox that has text "128" and resource_id "dialog_model_checkbox"
+a checkbox that has text "130" and resource_id "dialog_model_checkbox"
+a checkbox that has text "135" and resource_id "dialog_model_checkbox"
+a button that has text "OK" and resource_id "standard_dialog_buttons_ok"
+a textview that has text "Model"
+
+
+I am going to provide a template for your answer to let you think about the text content step by step. Fill out the <...> parts in the template with your own words. Preserve the formatting and overall template. Do NOT include anything else in your answer except the text to fill out the template, and do not repeat the lines of the template (e.g., do not include the line starting with "FUNCTIONALITY:" more than once in your answer).
+
+=== Below is the template for your answer ===
+FUNCTIONALITY: <briefly describe the functionality of the AutoScout24_Buy_sell_cars that the current GUI state is about>
+TEXTFIELD_ROLE: <briefly describe the role of the target textfield>
+REASONING: <briefly describe the reasoning process (1-2 sentences) to fill in the textfield. Consider following questions: What is the textfield for? How can I generate new text content avoiding duplication with previously generated contents? Is there any function that can provide relevant information for the textfield?>
+
+*** Assistant:
+FUNCTIONALITY: The AutoScout24_Buy_sell_cars app allows users to search for car models.
+
+TEXTFIELD_ROLE: The target textfield is used to enter the search query for car models.
+
+REASONING: To fill in the textfield, I need to enter a search query for a car model. Since the app is used for buying and selling cars, I can enter a specific car model that I am interested in. To avoid duplication with previously generated contents, I can use the name of a car model that I have not searched for before. If I don't have any specific car model in mind, I can also use the "get_samsung_product_info" function to get the information of a Samsung product, such as a phone or a watch, and use the product name as the search query.
+
+*** User:
+Now, either provide the actual text content to fill in the textfield or call a relevant function if you need additional information for the current textfield, and there is a function that can provide the information. If you are going to immediately generate the text content, provide the text content with the prefix "TEXT_CONTENT:" in a single line, and do not include anything else in your answer except the text content. (e.g., "TEXT_CONTENT: Hello world!")
+
+*** Assistant:
+TEXT_CONTENT: BMW 3 Series

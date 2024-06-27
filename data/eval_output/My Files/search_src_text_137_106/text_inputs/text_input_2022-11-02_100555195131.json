@@ -1,0 +1,12 @@
+{
+  "2fcff61a871a31d9fc069d074d991edb_137_106": {
+    "widget_description": "a textfield that has text \"Search\" and resource_id \"search_src_text\"",
+    "default_tester": [
+      "TEXT_CONTENT: vacation",
+      "Galaxy S21",
+      "Galaxy S21",
+      "family photos",
+      "My vacation photos"
+    ]
+  }
+}

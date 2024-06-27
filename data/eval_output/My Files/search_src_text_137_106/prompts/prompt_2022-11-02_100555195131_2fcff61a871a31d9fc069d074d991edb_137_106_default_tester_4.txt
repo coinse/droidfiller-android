@@ -1,0 +1,122 @@
+
+*** System:
+You are a QA engineer to thoroughly test the application.
+Currently you are testing an android app named My Files.
+
+Here is the profile of the persona user you are going to adopt for testing:
+- name: Jade Green
+- phone: (+82)10-6478-2959
+- email: anony1017mous@gmail.com
+- username: anony1017mous
+- password: coinse123*
+- city: Daejeon
+- country: South Korea
+- date_of_birth: 1996-10-17
+- age: 26
+- gender: female
+- self_description: My name is Jade Green, and I am an extrovert person who loves to meet new people and make new friends.
+
+From now on, act as if you are Jade Green and you will be asked to provide the text content (or intermediate reasoning steps) that Jade Green would likely to input to a specific textfield on the current GUI state.
+
+Pay attention to the provided function list, and prioritise calling a relevant function if the function will provide the information related to the target textfield and the current GUI state, rather than generating the random text content. For example, you can call the function "get_friend_profile" to get one of your friend's profile information for filling in a contact information textfield rather than a random person's profile information.
+
+
+*** User:
+Refer to the below information and follow the provided steps to fill in the given textfield.
+    
+> Target textfield to fill in:
+a textfield that has text "Search" and resource_id "search_src_text"
+
+> Widgets on the current GUI state:
+I see the following widgets from top to bottom:
+a widget that has resource_id "search_filter_layout_header"
+a widget that has resource_id "recycler_view"
+a widget that has resource_id "group_header_layout"
+a widget that has resource_id "contents_container"
+a widget that has resource_id "contents_container"
+a widget that has resource_id "contents_container"
+a widget that has resource_id "contents_container"
+a widget that has resource_id "contents_container"
+a widget that has resource_id "contents_container"
+an image that has text "Search" and resource_id "search_back_btn"
+a textview that has text "Yesterday" and resource_id "filter_time_yesterday"
+a textview that has text "Image" and resource_id "filter_content_images"
+a textview that has text "Installation file" and resource_id "filter_content_apks"
+a textview that has text "JPG" and resource_id "search_filter_name"
+a textview that has text "Time"
+a textview that has text "Type"
+a textview that has text "Format"
+a textfield that has text "Search" and resource_id "search_src_text"
+a textview that has text "PNG" and resource_id "search_filter_name"
+a textview that has text "20221005_142631.jpg"
+a textview that has text "Oct 5 ‎2:26 PM"
+a textview that has text "20221005_142642.jpg"
+a textview that has text "Oct 5 ‎2:26 PM"
+a textview that has text "20221005_143711.jpg"
+a textview that has text "Oct 5 ‎2:37 PM"
+a textview that has text "20212014052010.png"
+a textview that has text "May 14, 2021 ‎5:20 PM"
+a textview that has text "20212714052722.png"
+a textview that has text "May 14, 2021 ‎5:27 PM"
+a textview that has text "bm1.png"
+a textview that has text "Oct 1, 2021 ‎7:27 PM"
+a textview that has text "Video" and resource_id "filter_content_videos"
+a textview that has text "Past 7 days" and resource_id "filter_time_7days"
+a textview that has text "GIF" and resource_id "search_filter_name"
+a textview that has text "Audio" and resource_id "filter_content_audio"
+a textview that has text "BMP" and resource_id "search_filter_name"
+a textview that has text "Past 30 days" and resource_id "filter_time_30days"
+a textview that has text "Document" and resource_id "filter_content_documents"
+a textview that has text "HEIF" and resource_id "search_filter_name"
+a textview that has text "25.25 KB"
+a textview that has text "23.46 KB"
+a textview that has text "3.07 MB"
+a textview that has text "3.46 MB"
+a textview that has text "1.68 MB"
+a textview that has text "416 KB"
+an image that has text "Search" and resource_id "search_voice_btn"
+a textview that has text "Time"
+a textview that has text "Type"
+a textview that has text "Format"
+a textview that has text "20221005_142631.jpg"
+a textview that has text "Oct 5 ‎2:26 PM"
+a textview that has text "3.07 MB"
+a textview that has text "20221005_142642.jpg"
+a textview that has text "Oct 5 ‎2:26 PM"
+a textview that has text "3.46 MB"
+a textview that has text "20221005_143711.jpg"
+a textview that has text "Oct 5 ‎2:37 PM"
+a textview that has text "1.68 MB"
+a textview that has text "20212014052010.png"
+a textview that has text "May 14, 2021 ‎5:20 PM"
+a textview that has text "25.25 KB"
+a textview that has text "20212714052722.png"
+a textview that has text "May 14, 2021 ‎5:27 PM"
+a textview that has text "23.46 KB"
+a textview that has text "bm1.png"
+a textview that has text "Oct 1, 2021 ‎7:27 PM"
+a textview that has text "416 KB"
+
+So far, you already generated and tried the following text contents: ["Galaxy S21", "family photos", "TEXT_CONTENT: vacation"].
+Do NOT generate the same text content again which is in the aforementioned list.
+
+
+I am going to provide a template for your answer to let you think about the text content step by step. Fill out the <...> parts in the template with your own words. Preserve the formatting and overall template. Do NOT include anything else in your answer except the text to fill out the template, and do not repeat the lines of the template (e.g., do not include the line starting with "FUNCTIONALITY:" more than once in your answer).
+
+=== Below is the template for your answer ===
+FUNCTIONALITY: <briefly describe the functionality of the My Files that the current GUI state is about>
+TEXTFIELD_ROLE: <briefly describe the role of the target textfield>
+REASONING: <briefly describe the reasoning process (1-2 sentences) to fill in the textfield. Consider following questions: What is the textfield for? How can I generate new text content avoiding duplication with previously generated contents? Is there any function that can provide relevant information for the textfield?>
+
+*** Assistant:
+FUNCTIONALITY: The current GUI state of the My Files app displays a list of files and folders, along with various filter options and search functionalities.
+
+TEXTFIELD_ROLE: The target textfield with the text "Search" and resource_id "search_src_text" is used for entering search queries to filter the displayed files and folders.
+
+REASONING: To fill in the search textfield, I will generate a new search query that is different from the previously generated contents. Since the search textfield is used for entering search queries, I can generate a random search query based on my preferences or use a function to get a friend's profile information and use their name or any other relevant details as the search query.
+
+*** User:
+Now, either provide the actual text content to fill in the textfield or call a relevant function if you need additional information for the current textfield, and there is a function that can provide the information. If you are going to immediately generate the text content, provide the text content with the prefix "TEXT_CONTENT:" in a single line, and do not include anything else in your answer except the text content. (e.g., "TEXT_CONTENT: Hello world!")
+
+*** Assistant:
+TEXT_CONTENT: My vacation photos

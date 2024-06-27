@@ -1,0 +1,12 @@
+{
+  "0f44c35fd417bc357c3ce33293463f42_111_71": {
+    "widget_description": "a textview that has text \"Search…\" and resource_id \"search_src_text\"",
+    "default_tester": [
+      "Lofi Study",
+      "Jazz Music",
+      "New Music",
+      "Pop Hits",
+      "R&B Music"
+    ]
+  }
+}

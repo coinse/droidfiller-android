@@ -1,0 +1,104 @@
+
+*** System:
+You are a QA engineer to thoroughly test the application.
+Currently you are testing an android app named Clock.
+
+Here is the profile of the persona user you are going to adopt for testing:
+- name: Jade Green
+- phone: (+82)10-6478-2959
+- email: anony1017mous@gmail.com
+- username: anony1017mous
+- password: coinse123*
+- city: Daejeon
+- country: South Korea
+- date_of_birth: 1996-10-17
+- age: 26
+- gender: female
+- self_description: My name is Jade Green, and I am an extrovert person who loves to meet new people and make new friends.
+
+From now on, act as if you are Jade Green and you will be asked to provide the text content (or intermediate reasoning steps) that Jade Green would likely to input to a specific textfield on the current GUI state.
+
+Pay attention to the provided function list, and prioritise calling a relevant function if the function will provide the information related to the target textfield and the current GUI state, rather than generating the random text content. For example, you can call the function "get_friend_profile" to get one of your friend's profile information for filling in a contact information textfield rather than a random person's profile information.
+
+
+*** User:
+Refer to the below information and follow the provided steps to fill in the given textfield.
+    
+> Target textfield to fill in:
+a textfield that has text "00" and resource_id "numberpicker_input"
+
+> Widgets on the current GUI state:
+I see the following widgets from top to bottom:
+a widget that has resource_id "nestedscrollview"
+a widget that has resource_id "alarm_sound_box"
+a widget that has resource_id "alarm_pattern_boz"
+a widget that has resource_id "alarm_snooze_boz"
+a textfield that has text "Alarm name" and resource_id "alarm_name"
+a checkbox that has text "Sunday" and resource_id "repeat_0"
+a textview that has text "Alarm sound"
+a textview that has text "Homecoming"
+a textview that has text "Vibration"
+a textview that has text "Basic call"
+a textview that has text "Snooze"
+a textview that has text "5 minutes, 3 times"
+a button that has resource_id "menu_cancel"
+a widget that has text "05", "06", "07" and resource_id "numberpicker_input"
+a button that has text "05"
+a textfield that has text "06" and resource_id "numberpicker_input"
+a button that has text "07"
+a checkbox that has text "Monday" and resource_id "repeat_1"
+a textview that has text "Cancel"
+a checkbox that has text "Tuesday" and resource_id "repeat_2"
+a textview that has text ":"
+a checkbox that has text "Wednesday" and resource_id "repeat_3"
+a button that has resource_id "menu_done"
+a widget that has text "59", "00", "01" and resource_id "numberpicker_input"
+a button that has text "59"
+a textfield that has text "00" and resource_id "numberpicker_input"
+a button that has text "01"
+a checkbox that has text "Thursday" and resource_id "repeat_4"
+a textview that has text "Save"
+a checkbox that has text "Friday" and resource_id "repeat_5"
+a widget that has text "On" and resource_id "alarm_sound_switch"
+a widget that has text "On" and resource_id "alarm_vibrate_switch"
+a widget that has text "On" and resource_id "alarm_snooze_switch"
+a widget that has text "Tomorrow-Wed, Nov 2" and resource_id "alarm_datepicker"
+a checkbox that has text "Saturday" and resource_id "repeat_6"
+a textview that has text ":"
+a textview that has text "Alarm sound"
+a textview that has text "Homecoming"
+a textview that has text "Vibration"
+a textview that has text "Basic call"
+a textview that has text "Snooze"
+a textview that has text "5 minutes, 3 times"
+a textview that has text "Cancel"
+a textview that has text "Save"
+
+So far, you already generated and tried the following text contents: ["01", "25", "00"].
+Do NOT generate the same text content again which is in the aforementioned list.
+
+
+I am going to provide a template for your answer to let you think about the text content step by step. Fill out the <...> parts in the template with your own words. Preserve the formatting and overall template. Do NOT include anything else in your answer except the text to fill out the template, and do not repeat the lines of the template (e.g., do not include the line starting with "FUNCTIONALITY:" more than once in your answer).
+
+=== Below is the template for your answer ===
+FUNCTIONALITY: <briefly describe the functionality of the Clock that the current GUI state is about>
+TEXTFIELD_ROLE: <briefly describe the role of the target textfield>
+REASONING: <briefly describe the reasoning process (1-2 sentences) to fill in the textfield. Consider following questions: What is the textfield for? How can I generate new text content avoiding duplication with previously generated contents? Is there any function that can provide relevant information for the textfield?>
+
+*** Assistant:
+FUNCTIONALITY: The current GUI state is about setting an alarm in the Clock app.
+
+TEXTFIELD_ROLE: The target textfield is used to input the minutes for the alarm time.
+
+REASONING: To fill in the textfield, I will input the text "05" to set the minutes for the alarm time. This value has not been used in the previously generated text contents.
+FUNCTIONALITY: The Clock app allows users to set alarms.
+
+TEXTFIELD_ROLE: The target textfield is used to input the minutes for the alarm time.
+
+REASONING: To fill in the textfield, I will input the text "05" to set the alarm time to 5 minutes. This value has not been used in the previously generated text contents.
+
+*** User:
+Now, either provide the actual text content to fill in the textfield or call a relevant function if you need additional information for the current textfield, and there is a function that can provide the information. If you are going to immediately generate the text content, provide the text content with the prefix "TEXT_CONTENT:" in a single line, and do not include anything else in your answer except the text content. (e.g., "TEXT_CONTENT: Hello world!")
+
+*** Assistant:
+TEXT_CONTENT: 05

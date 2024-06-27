@@ -1,0 +1,12 @@
+{
+  "c025c4a1159390587d3365c4022d4d75_86_1846": {
+    "widget_description": "a textfield that has text \"Phone number\" and resource_id \"phoneNumber\"",
+    "default_tester": [
+      "(+82)10-6478-2959",
+      "(+82)10-1234-5678",
+      "(+82)10-9876-5432",
+      "(+82)10-6478-2959",
+      "(+82)10-7654-3210"
+    ]
+  }
+}

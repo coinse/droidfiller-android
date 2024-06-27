@@ -1,0 +1,12 @@
+{
+  "3a9ffe3da5e33c81ff4caa702e94d9c5_155_1041": {
+    "widget_description": "a textfield that has text \"Youtube Playlist URL\" and resource_id \"\"",
+    "default_tester": [
+      "<Enter a valid Youtube playlist URL>",
+      "[Enter a valid Youtube playlist URL]",
+      "https://www.youtube.com/playlist?list=PLuNFWGZvQFSX6nY3EwfLcJZvF2XqzQ3AX",
+      "https://www.youtube.com/playlist?list=PLuNFWGZvQFSX6nY3EwfLcJZvF2XqzQ3AX",
+      "https://www.youtube.com/playlist?list=PLuNFWGZvQFSX6nY3EwfLcJZvF2XqzQ3AX"
+    ]
+  }
+}

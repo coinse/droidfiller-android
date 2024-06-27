@@ -1,0 +1,12 @@
+{
+  "e1e8d29cf80ab7a716f5e2aff1bf5c53_459_361": {
+    "widget_description": "a textfield that has resource_id \"AmountEditText\"",
+    "default_tester": [
+      "$42.50",
+      "$25.75",
+      "$39.99",
+      "$15.00",
+      "$87.50"
+    ]
+  }
+}

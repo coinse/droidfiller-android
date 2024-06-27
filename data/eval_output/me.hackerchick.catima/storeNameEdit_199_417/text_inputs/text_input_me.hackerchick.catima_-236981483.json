@@ -1,0 +1,12 @@
+{
+  "ca7014426e4b9285677dfe1726ec65a5_199_417": {
+    "widget_description": "a textfield that has text \"Name\" and resource_id \"storeNameEdit\"",
+    "default_tester": [
+      "My Store",
+      "Jade's Store",
+      "Green's Clothing Store",
+      "Green's Electronics",
+      "Green's Supermarket"
+    ]
+  }
+}

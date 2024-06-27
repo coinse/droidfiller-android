@@ -1,0 +1,12 @@
+{
+  "3f0ae891e6a7cde4594e18eebc9f227a_0_220": {
+    "widget_description": "a textfield that has text \"Search…\" and resource_id \"search_text\"",
+    "default_tester": [
+      "Friends",
+      "Game of Thrones",
+      "The Big Bang Theory",
+      "Stranger Things",
+      "The Office"
+    ]
+  }
+}

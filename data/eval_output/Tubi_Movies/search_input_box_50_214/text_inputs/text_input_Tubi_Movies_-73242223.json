@@ -1,0 +1,12 @@
+{
+  "8f0292277afadb7b15f86b5f71ee4308_50_214": {
+    "widget_description": "a textfield that has text \"Find movies, TV shows & more\" and resource_id \"search_input_box\"",
+    "default_tester": [
+      "Avengers: Endgame",
+      "Spider-Man: Into the Spider-Verse",
+      "The Lord of the Rings: The Fellowship of the Ring",
+      "Inception",
+      "The Great Gatsby"
+    ]
+  }
+}

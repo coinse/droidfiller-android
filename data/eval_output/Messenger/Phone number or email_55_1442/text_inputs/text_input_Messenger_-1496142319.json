@@ -1,0 +1,12 @@
+{
+  "d3f7c01a388d9defc4fa63d390737d6c_55_1442": {
+    "widget_description": "a textfield that has text \"Phone number or email\"",
+    "default_tester": [
+      "(+82)10-6478-2959",
+      "081-176-3177",
+      "anony1017mous@gmail.com",
+      "(+82)10-6478-2959",
+      "anony1017mous@gmail.com"
+    ]
+  }
+}

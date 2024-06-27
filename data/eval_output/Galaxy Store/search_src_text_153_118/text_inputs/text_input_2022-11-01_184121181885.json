@@ -1,0 +1,12 @@
+{
+  "038c2a2aad1d2ed292ae09d0dc1903c3_153_118": {
+    "widget_description": "a textfield that has text \"Search\" and resource_id \"search_src_text\"",
+    "default_tester": [
+      "Galaxy S21 Ultra",
+      "Fashion trends",
+      "Music streaming",
+      "get_samsung_product_info({ \"product_type\": \"watch\" })",
+      "검은사막 모바일 for samsung"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "ecb9f9f70cc4d3d0bbc2d412eb339af6_327_1055": {
+    "widget_description": "a textfield that has resource_id \"Comment\"",
+    "default_tester": [
+      "This expense was for groceries and household items.",
+      "This purchase was for a birthday gift for my friend.",
+      "Bought groceries for the week's meals.",
+      "This expense was for a dinner with friends to celebrate a special occasion.",
+      "This expense was for a lunch with my colleagues to celebrate a project milestone."
+    ]
+  }
+}

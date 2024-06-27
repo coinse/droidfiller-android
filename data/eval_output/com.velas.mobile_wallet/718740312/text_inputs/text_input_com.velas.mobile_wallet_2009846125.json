@@ -1,0 +1,12 @@
+{
+  "37989bd6485848e26ea99136386877d5_0_1530": {
+    "widget_description": "a textfield that has text \"🇺🇸 English\"",
+    "default_tester": [
+      "🇺🇸 English",
+      "🇰🇷 Korean",
+      "🇯🇵 Japanese",
+      "🇰🇷 Korean",
+      "🇰🇷 Korean"
+    ]
+  }
+}

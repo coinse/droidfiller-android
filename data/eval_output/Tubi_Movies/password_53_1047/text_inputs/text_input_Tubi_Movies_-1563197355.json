@@ -1,0 +1,12 @@
+{
+  "b91e8d457cd199444cff5a29b51a3468_53_1047": {
+    "widget_description": "a textfield that has text \"Password\" and resource_id \"password\"",
+    "default_tester": [
+      "Tubi@123!",
+      "Tubi@456!",
+      "Tubi@789!",
+      "Tubi@246!",
+      "Tubi@987*"
+    ]
+  }
+}

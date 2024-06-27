@@ -1,0 +1,12 @@
+{
+  "51b277ef37ca87d253df4b9606b9c310_47_1388": {
+    "widget_description": "a textfield that has text \"Alarm name\" and resource_id \"alarm_name\"",
+    "default_tester": [
+      "Alarm for Meeting",
+      "Jamie's Birthday Alarm",
+      "Morning Yoga Alarm",
+      "Jack's Adventure Alarm",
+      "Galaxy Watch Alarm"
+    ]
+  }
+}

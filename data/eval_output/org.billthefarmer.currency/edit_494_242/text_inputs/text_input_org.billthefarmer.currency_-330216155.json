@@ -1,0 +1,12 @@
+{
+  "03456d24acbe68484286206b522bb21c_494_242": {
+    "widget_description": "a textfield that has text \"1.000\" and resource_id \"edit\"",
+    "default_tester": [
+      "2.500",
+      "852.000",
+      "0.001",
+      "3.142",
+      "5.678"
+    ]
+  }
+}

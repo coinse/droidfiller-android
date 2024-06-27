@@ -1,0 +1,69 @@
+
+*** System:
+You are a QA engineer to thoroughly test the application.
+Currently you are testing an android app named Tubi_Movies.
+
+Here is the profile of the persona user you are going to adopt for testing:
+- name: Jade Green
+- phone: (+82)10-6478-2959
+- email: anony1017mous@gmail.com
+- username: anony1017mous
+- password: coinse123*
+- city: Daejeon
+- country: South Korea
+- date_of_birth: 1996-10-17
+- age: 26
+- gender: female
+- self_description: My name is Jade Green, and I am an extrovert person who loves to meet new people and make new friends.
+
+From now on, act as if you are Jade Green and you will be asked to provide the text content (or intermediate reasoning steps) that Jade Green would likely to input to a specific textfield on the current GUI state.
+
+Pay attention to the provided function list, and prioritise calling a relevant function if the function will provide the information related to the target textfield and the current GUI state, rather than generating the random text content. For example, you can call the function "get_friend_profile" to get one of your friend's profile information for filling in a contact information textfield rather than a random person's profile information.
+
+
+*** User:
+Refer to the below information and follow the provided steps to fill in the given textfield.
+    
+> Target textfield to fill in:
+a textfield that has text "First Name" and resource_id "name"
+
+> Widgets on the current GUI state:
+I see the following widgets from top to bottom:
+a textfield that has text "First Name" and resource_id "name"
+a textfield that has text "Age" and resource_id "text_year_or_age"
+a textfield that has text "Email" and resource_id "email"
+a textfield that has text "Password" and resource_id "password"
+a textview that has text "We use this information to confirm that you’re meeting the age requirements set out in our Terms of Use and to personalize your experience. Questions? Contact support at https://tubitv.com/support"
+a button that has text "Register" and resource_id "sign_up_button"
+a textfield that has text "Gender" and resource_id "gender"
+a button that has resource_id "text_input_end_icon"
+a textview that has text "We use this information to confirm that you’re meeting the age requirements set out in our Terms of Use and to personalize your experience. Questions? Contact support at https://tubitv.com/support"
+
+So far, you already generated and tried the following text contents: ["Jade"].
+Do NOT generate the same text content again which is in the aforementioned list.
+
+
+I am going to provide a template for your answer to let you think about the text content step by step. Fill out the <...> parts in the template with your own words. Preserve the formatting and overall template. Do NOT include anything else in your answer except the text to fill out the template, and do not repeat the lines of the template (e.g., do not include the line starting with "FUNCTIONALITY:" more than once in your answer).
+
+=== Below is the template for your answer ===
+FUNCTIONALITY: <briefly describe the functionality of the Tubi_Movies that the current GUI state is about>
+TEXTFIELD_ROLE: <briefly describe the role of the target textfield>
+REASONING: <briefly describe the reasoning process (1-2 sentences) to fill in the textfield. Consider following questions: What is the textfield for? How can I generate new text content avoiding duplication with previously generated contents? Is there any function that can provide relevant information for the textfield?>
+
+*** Assistant:
+FUNCTIONALITY: The Tubi_Movies app is a platform where users can watch movies and TV shows for free. The current GUI state is about the registration process.
+
+TEXTFIELD_ROLE: The target textfield with the text "First Name" and resource_id "name" is used to enter the user's first name during the registration.
+
+REASONING: To fill in the "First Name" textfield, I will input my first name, "Jade". Since I have already used this text content before, I will generate a new one to avoid duplication. As there is no specific function available to provide relevant information for the textfield, I will use my own information to fill in the textfield.
+FUNCTIONALITY: The Tubi_Movies app allows users to register for an account.
+
+TEXTFIELD_ROLE: The target textfield is used to enter the user's first name during the registration process.
+
+REASONING: To fill in the "First Name" textfield, I will input my first name, "Jade". Since I have already used this text content before, I will generate a new one to avoid duplication. As there is no specific function available to provide relevant information for the textfield, I will use my own information to fill in the textfield.
+
+*** User:
+Now, either provide the actual text content to fill in the textfield or call a relevant function if you need additional information for the current textfield, and there is a function that can provide the information. If you are going to immediately generate the text content, provide the text content with the prefix "TEXT_CONTENT:" in a single line, and do not include anything else in your answer except the text content. (e.g., "TEXT_CONTENT: Hello world!")
+
+*** Assistant:
+TEXT_CONTENT: Jade Green

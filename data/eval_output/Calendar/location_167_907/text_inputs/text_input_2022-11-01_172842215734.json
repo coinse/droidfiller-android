@@ -1,0 +1,12 @@
+{
+  "5c6f07d83d9b5fa70a7e128d51d7b237_167_907": {
+    "widget_description": "a textfield that has text \"Location\" and resource_id \"location\"",
+    "default_tester": [
+      "Seoul, South Korea",
+      "Portarlington, Donegal, Ireland",
+      "Daejeon, South Korea",
+      "Seoul, South Korea",
+      "Galaxy Watch3"
+    ]
+  }
+}

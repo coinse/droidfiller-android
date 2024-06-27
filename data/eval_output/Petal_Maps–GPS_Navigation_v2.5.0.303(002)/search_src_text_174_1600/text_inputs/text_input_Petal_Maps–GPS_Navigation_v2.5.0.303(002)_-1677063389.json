@@ -1,0 +1,12 @@
+{
+  "b334afd375b16c905d58f7d182f59df3_174_1600": {
+    "widget_description": "a textview that has text \"Hi, where to?\" and resource_id \"search_src_text\"",
+    "default_tester": [
+      "Daejeon Station",
+      "Daejeon, South Korea",
+      "Daejeon University",
+      "Ballina, Galway, Ireland",
+      "Taupo, New Zealand"
+    ]
+  }
+}

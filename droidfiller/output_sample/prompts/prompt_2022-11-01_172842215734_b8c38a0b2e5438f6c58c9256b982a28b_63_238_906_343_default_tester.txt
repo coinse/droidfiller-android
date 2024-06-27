@@ -1,0 +1,81 @@
+
+*** System:
+You are a QA engineer to thoroughly test the application.
+Currently you are testing an android app named Calendar.
+
+Here is the profile of the persona user you are going to adopt for testing:
+- name: Jade Green
+- phone: 010-3081-8129
+- email: anony1016mous@gmail.com
+- username: anony1016mous
+- password: Coinse713612@
+- PIN code: 612713
+- city: Daejeon
+- country: South Korea
+- date_of_birth: 1996-10-16
+- age: 26
+- gender: female
+- self_description: My name is Jade Green, and I am an extrovert person who loves to meet new people and make new friends.
+
+From now on, act as if you are Jade Green and you will be asked to provide the text content (or intermediate reasoning steps) that Jade Green would likely to input to a specific textfield on the current GUI state.
+
+Pay attention to the provided function list, and prioritise calling a relevant function if the function will provide the information related to the target textfield and the current GUI state, rather than generating the random text content. For example, you can call the function "get_friend_profile" to get one of your friend's profile information for filling in a contact information textfield rather than a random person's profile information.
+
+
+*** User:
+Refer to the below information and follow the provided steps to fill in the given textfield.
+    
+> Target textfield to fill in:
+a textfield that has text "Title" and resource_id "title" (Widget ID: 14)
+
+> Widgets on the current GUI state:
+I see the following widgets from top to bottom:
+a textfield that has text "Title" and resource_id "title" (Widget ID: 14)
+a button that has content description "Default calendar color, Select color" and resource_id "event_color_button" (Widget ID: 16)
+a widget that has content description "Start, Tuesday, November 1, 6:00 PM" and resource_id "start_date_container" (Widget ID: 20)
+a textview that has text "Start" (Widget ID: 22)
+a textview that has text "Tue, Nov 1   6:00 PM" (Widget ID: 24)
+a widget that has content description "End,  Tuesday, November 1, 7:00 PM" and resource_id "end_date_container" (Widget ID: 27)
+a textview that has text "End" (Widget ID: 29)
+a textview that has text "   7:00 PM" (Widget ID: 31)
+a textview that has text "Time" and content description "Time selected" and resource_id "date_time_view_holder_time_button" (Widget ID: 35)
+a textview that has text "All day" and content description "All day not selected" and resource_id "date_time_view_holder_all_day_button" (Widget ID: 37)
+a textfield that has text "Location" and resource_id "location" (Widget ID: 43)
+a widget that has resource_id "calendar_selector_group" (Widget ID: 47)
+a textview that has text "suhee.yoo.test@gmail..." (Widget ID: 50)
+a widget that has resource_id "reminder_item" (Widget ID: 57)
+a textview that has text "10 minutes before" (Widget ID: 58)
+a widget that has resource_id "reminders_row" (Widget ID: 53)
+a button that has content description "Alert" and resource_id "reminder_add" (Widget ID: 60)
+a widget that has resource_id "repeats_container" (Widget ID: 62)
+a textview that has text "Don't repeat" (Widget ID: 65)
+a textfield that has text "Notes" and resource_id "note_text" (Widget ID: 71)
+a textview that has text "Enter name or email" and resource_id "attendees" (Widget ID: 82)
+a button that has text "Contacts" and content description "Contacts" and resource_id "contact_button" (Widget ID: 85)
+a widget that has content description "Time zone (GMT+09:00) Korean Standard Time" and resource_id "timezone_row" (Widget ID: 90)
+a textview that has text "(GMT+09:00) Korean S..." and content description "(GMT+09:00) Korean Standard Time" (Widget ID: 94)
+a button that has content description "Cancel" and resource_id "add_app_bar_menu_cancel" (Widget ID: 97)
+a button that has content description "Save" and resource_id "add_app_bar_menu_done" (Widget ID: 100)
+a textview that has text "Cancel" (Widget ID: 99)
+a textview that has text "Save" (Widget ID: 102)
+
+
+I am going to provide a template for your answer to let you think about the text content step by step. Fill out the <...> parts in the template with your own words. Preserve the formatting and overall template. Do NOT include anything else in your answer except the text to fill out the template, and do not repeat the lines of the template (e.g., do not include the line starting with "FUNCTIONALITY:" more than once in your answer).
+
+=== Below is the template for your answer ===
+FUNCTIONALITY: <briefly describe the functionality of the Calendar that the current GUI state is about>
+TEXTFIELD_ROLE: <briefly describe the role of the target textfield>
+REASONING: <briefly describe the reasoning process (1-2 sentences) to fill in the textfield. Consider following questions: What is the textfield for? In what language the textfield should be filled? Is there any function that can provide relevant information for the textfield?>
+
+*** Assistant:
+FUNCTIONALITY: The current GUI state is about creating a new event in the Calendar app.
+
+TEXTFIELD_ROLE: The target textfield is used to enter the title of the event.
+
+REASONING: To fill in the textfield, I will input the title of the event. The title should be a descriptive and concise summary of the event. Since there are no specific requirements mentioned, I will provide a generic title such as "Meeting" or "Appointment".
+
+*** User:
+Now, either provide the actual text content to fill in the textfield or call a relevant function if you need additional information for the current textfield, and there is a function that can provide the information. If you are going to immediately generate the text content, provide the text content with the prefix "TEXT_CONTENT:" in a single line, and do not include anything else in your answer except the text content. (e.g., "TEXT_CONTENT: Hello world!")
+
+*** Assistant:
+TEXT_CONTENT: Meeting

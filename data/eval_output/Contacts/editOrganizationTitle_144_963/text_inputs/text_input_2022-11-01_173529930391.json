@@ -1,0 +1,12 @@
+{
+  "7a1375a7d0d3888f78c52195d891e748_144_963": {
+    "widget_description": "a textfield that has text \"Job title\" and resource_id \"editOrganizationTitle\"",
+    "default_tester": [
+      "Software Engineer",
+      "Marketing Manager",
+      "Project Manager",
+      "Sales Manager",
+      "Senior Product Manager"
+    ]
+  }
+}

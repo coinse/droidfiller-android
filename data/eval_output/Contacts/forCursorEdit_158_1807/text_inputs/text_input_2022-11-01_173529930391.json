@@ -1,0 +1,12 @@
+{
+  "1e448d0258cc03c19ea0e0d4395b3c6c_158_1807": {
+    "widget_description": "a textfield that has text \"Groups\", \"Not assigned\" and resource_id \"forCursorEdit\"",
+    "default_tester": [
+      "Groups, Not assigned",
+      "Friends",
+      "Jack Walker",
+      "Jamie Obrien",
+      "Hiking Enthusiasts"
+    ]
+  }
+}

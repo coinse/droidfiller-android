@@ -1,0 +1,12 @@
+{
+  "7c5be68203edfd90d97a865a8ed73c0c_63_463": {
+    "widget_description": "a textfield that has text \"Samsung account or email address\" and resource_id \"inviteAccountText\"",
+    "default_tester": [
+      "jadegreen@example.com",
+      "jadegreen2@example.com",
+      "anony1017mous@gmail.com",
+      "jamie.obrien@example.com",
+      "leroy.johnston@example.com"
+    ]
+  }
+}

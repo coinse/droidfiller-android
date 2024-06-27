@@ -1,0 +1,12 @@
+{
+  "05e856eda7f43add0ac478733a26c24d_77_567": {
+    "widget_description": "a textfield that has text \"Password\" and resource_id \"password\"",
+    "default_tester": [
+      "coinse123*",
+      "P@ssw0rd!",
+      "9Zv#4t$W",
+      "coinse123*",
+      "7xY#9p$A"
+    ]
+  }
+}

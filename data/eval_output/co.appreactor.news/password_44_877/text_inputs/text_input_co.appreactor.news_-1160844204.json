@@ -1,0 +1,12 @@
+{
+  "dd8309fc48bee0c18c23e4b8ade3b15a_44_877": {
+    "widget_description": "a textfield that has text \"Password\" and resource_id \"password\"",
+    "default_tester": [
+      "coinse123*",
+      "GreenJade123!",
+      "Galaxy@123",
+      "TEXT_CONTENT: coinse123*",
+      "NewPass123#"
+    ]
+  }
+}

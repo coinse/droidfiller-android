@@ -1,0 +1,12 @@
+{
+  "9dcf4c2d9a8da045e11ce47b18e6e095_44_1465": {
+    "widget_description": "a textfield that has text \"Lyrics\" and resource_id \"lyrics\"",
+    "default_tester": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed gravida, velit ac vulputate pellentesque, lacus leo iaculis nulla, nec ullamcorper odio massa id tellus. Sed vel iaculis nisi, at tristique urna. Suspendisse potenti. Sed non augue ipsum. Donec nec risus vitae turpis lobortis vulputate.",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed gravida, velit ac vulputate pellentesque, lacus leo iaculis nulla, nec ullamcorper odio massa id tellus. Sed vel iaculis nisi, at tristique urna. Suspendisse potenti. Sed non augue ipsum. Donec nec risus vitae turpis lobortis vulputate.",
+      "I'm just a poor boy, I need no sympathy",
+      "I'm singing in the rain, just singing in the rain",
+      "I'm singing in the rain, just singing in the rain."
+    ]
+  }
+}

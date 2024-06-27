@@ -1,0 +1,12 @@
+{
+  "22e1ea3e7c3081c2f1b65aa411f83655_154_74": {
+    "widget_description": "a textfield that has text \"Search or type web address\" and resource_id \"url_bar\"",
+    "default_tester": [
+      "www.example.com",
+      "www.brave.com",
+      "www.amazon56789.com",
+      "www.coolwebsite123.com",
+      "www.google.com"
+    ]
+  }
+}
