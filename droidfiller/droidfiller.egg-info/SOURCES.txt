@@ -4,13 +4,13 @@ droidfiller/__init__.py
 droidfiller/action.py
 droidfiller/agent.py
 droidfiller/config.py
+droidfiller/functions.py
 droidfiller/gui_state.py
+droidfiller/gui_state_droidbot.py
+droidfiller/gui_state_stem.py
 droidfiller/memory.py
 droidfiller/model.py
-droidfiller/prompting_v1.py
-droidfiller/prompting_v2.py
-droidfiller/prompting_v3.py
-droidfiller/prompting_v4.py
+droidfiller/prompting.py
 droidfiller/util.py
 droidfiller.egg-info/PKG-INFO
 droidfiller.egg-info/SOURCES.txt

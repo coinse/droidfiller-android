@@ -1,0 +1,159 @@
+tools:
+  get_friend_profile:
+    description:
+      type: function
+      function:
+        name: get_friend_profile
+        description: Get one of your friend's profile information (including properties such as name, phone, email, username and password) when you are asked to fill in the textfield with other's profile information
+        parameters:
+          type: object
+          properties:
+            name:
+              type: string
+              enum: ['Jamie Obrien', 'Jack Walker', 'Leroy Johnston', 'Madison Reyes']
+
+          required: ['name']
+
+    implementation: |
+      def get_friend_profile(name=None):
+        target_profile = None
+        if name == 'Jamie Obrien':
+          return json.dumps({
+            "name": "Jamie Obrien",
+            "email": "jamie.obrien@example.com",
+            "phone": "081-827-7650",
+            "username": "jamieobrien",
+            "password": "v1.9kQPw%$"
+          })
+
+        elif name == 'Jack Walker':
+          return json.dumps({
+            "name": "Jack Walker",
+            "email": "jack.walker@example.com",
+            "phone": "(935)-999-9956",
+            "username": "jwalker",
+            "password": "8675309"
+          })
+
+        elif name == 'Leroy Johnston':
+          return json.dumps({
+            "name": "Leroy Johnston",
+            "email": "leroy.johnston@example.com",
+            "phone": "07767 078695",
+            "username": "leroyj",
+            "password": "8tfg2rLeroyJohnston"
+          })
+
+        elif name == 'Madison Reyes':
+          return json.dumps({
+            "name": "Madison Reyes",
+            "email": "madison.reyes@example.com",
+            "phone": "(322) 794-6840",
+            "username": "madisonreyes",
+            "password": "jhg1@#sdn"
+          })
+
+        else:
+          return json.dumps({
+              "error": "Profile not found",
+          })
+
+        return json.dumps(target_profile)
+
+
+  get_galaxy_store_coupon_code:
+    description:
+      type: function
+      function:
+        name: get_galaxy_store_coupon_code
+        description: Get an available galaxy store coupon code list when you are asked to fill in the coupon code textfield for the galaxy store app
+        parameters:
+          type: object
+          properties: {}
+
+    implementation: |
+      def get_galaxy_store_coupon_code():
+        return json.dumps({
+            "coupon_code": ["ref-gf8ff4", "ref-3iwi87", "ref-d5nzrs"],
+        })
+
+
+  get_samsung_product_info:
+    description:
+      type: function
+      function:
+        name: get_samsung_product_info
+        description: Get the Samsung product information of the given product type when you are asked to fill in the product information textfield
+        parameters:
+          type: object
+          properties:
+            product_type:
+              type: string
+              enum: ['monitor', 'phone', 'watch']
+          required: ['product_type']
+
+    implementation: |
+      def get_samsung_product_info(product_type=None):
+        product_info = {
+            "monitor": {
+                "product_name": "Odyssey G7",
+                "model_name": "LC27G55TQWNXZA",
+                "serial_number": "C32G75TQSI"
+            },
+            "phone": {
+                "product_name": "Galaxy S21",
+                "model_name": "SM-G991UZVAXAA",
+                "serial_number": "R3CT40K3FAE"
+            },
+            "watch": {
+                "product_name": "Galaxy Watch3",
+                "model_name": "SM-R840NZKAXAR",
+                "serial_number": "SMW9X20Y7K3Z"
+            },
+            
+        }
+
+        if product_type not in product_info:
+            return json.dumps({
+                "error": "Product not found",
+            })
+
+        return json.dumps(product_info[product_type])
+
+
+  get_ampache_server_info:
+    description:
+      type: function
+      function: 
+        name: get_ampache_server_info
+        description: Get dogmazic server URL, username and password when you are asked to fill in the login textfield with the server information for an ampache server
+        parameters:
+          type: object
+          properties: {}
+
+    implementation: |
+      def get_ampache_server_info():
+        return json.dumps({
+            "server_URL": "play.dogmazic.net",
+            "username": "anony1016mous",
+            "password": "Coinse713612@",
+        })
+
+
+  get_nextcloud_server_info:
+    description:
+      type: function
+      function:
+        name: get_nextcloud_server_info
+        description: Get nextcloud server URL, username and password when you are asked to fill in the login textfield with the server information for a nextcloud server
+        parameters:
+          type: object
+          properties: {}
+
+    implementation: |
+      def get_nextcloud_server_info():
+        return json.dumps({
+            "server_URL": "https://nextcloud.greenmon.dev",
+            "username": "anony1016mous",
+            "password": "Coinse713612@",
+        })

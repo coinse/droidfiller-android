@@ -55,12 +55,7 @@ def zip_messages(system_message, user_messages, assistant_messages):
         "conversation": conversation
     }
 
-def get_next_assistant_message(system_message, user_messages, assistant_messages=[], tools=[], model="gpt-3.5-turbo-0613", max_tokens=MAX_TOKENS, tool_choice=None):
-    # If model is gpt-3.5-turbo-0613 but the length sum of the prompt is more than 6k (approximately 4000 tokens), use gpt-3.5-turbo-16k-0613 instead
-    if model == "gpt-3.5-turbo-0613" and len(stringify_prompt(zip_messages(system_message, user_messages, assistant_messages))) > 8000:
-        model = "gpt-3.5-turbo-16k-0613"
-        print(f'Using 16K model due to the long prompt')
-
+def get_next_assistant_message(system_message, user_messages, assistant_messages=[], tools=[], model="gpt-4o-mini", max_tokens=MAX_TOKENS, tool_choice=None):
     start_time = time.time()
 
     messages = [{"role": "system", "content": system_message}]

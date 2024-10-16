@@ -1,4 +1,4 @@
-# gui-text-input-generator
+# Category Matching-based GUI Text Input Prediction
 
 ## Dependencies
 

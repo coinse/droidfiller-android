@@ -1,36 +1,13 @@
 
 import os
 import json
-import logging
 
 from .config import agent_config
 from .model import get_next_assistant_message
-from .functions import *
+
 
 MAX_RETRY = 10
-LLM_MODEL = agent_config.llm_model
 
-"""
-[Additional Components]
-1. Promote function call
-2. Generate N candidates
-"""
-
-appname2tools = {
-    'default': ["get_friend_profile"],
-    'luci.sixsixsix.powerampache2.fdroid_59': ["get_friend_profile", "get_ampache_server_info"],
-    'com.nextcloud.talk2_190000190': ["get_friend_profile", "get_nextcloud_server_info"],
-}
-
-tools = []
-def initialize_tools():
-    global tools
-    tools = []
-    for func_name in appname2tools.get(agent_config.app_name, appname2tools['default']):
-        tools.append(all_tools[func_name])
-
-    print(agent_config.app_name)
-    print(tools)
 
 def prompt_text_input(screen_state, target_textfield, memory=None, num_generations=1):
     previous_text_list = []
@@ -54,7 +31,7 @@ def _prompt_text_input(screen_state, target_textfield, previous_text_list=[]):
         previous_text_list_str = ''
         
     system_message = f'''{agent_config.get_tester_description()}
-Currently you are testing an android app named {agent_config.app_name}.
+Currently you are testing an Android app named {agent_config.app_name}.
 
 Here is the profile of the persona user you are going to adopt for testing:
 {agent_config.profile}
@@ -83,7 +60,7 @@ REASONING: <briefly describe the reasoning process (1-2 sentences) to fill in th
 
     user_messages = [initial_user_message]
     assistant_messages = []
-    assistant_messages.append(get_next_assistant_message(system_message, user_messages, assistant_messages, model=LLM_MODEL, tools=tools, tool_choice="none"))
+    assistant_messages.append(get_next_assistant_message(system_message, user_messages, assistant_messages, model=agent_config.llm_model, tools=agent_config.tools, tool_choice="none"))
 
     response = assistant_messages[-1]
 
@@ -92,11 +69,11 @@ REASONING: <briefly describe the reasoning process (1-2 sentences) to fill in th
     retry = 0
     while received_text is None:
         retry += 1
-        assistant_messages.append(get_next_assistant_message(system_message, user_messages, assistant_messages, model=LLM_MODEL, tools=tools))
+        assistant_messages.append(get_next_assistant_message(system_message, user_messages, assistant_messages, model=agent_config.llm_model, tools=agent_config.tools))
         response = assistant_messages[-1]
         if not isinstance(response, str): # function call
             try:
-                function_to_call = function_definitions[response['function']['name']]
+                function_to_call = agent_config.tool_functions[response['function']['name']]
                 function_args = json.loads(response['function']['arguments'])
                 function_response = function_to_call(**function_args)
                 print(function_response)

@@ -1,5 +1,3 @@
-
-
 import os
 import logging
 import json
@@ -18,6 +16,10 @@ def traverse_view_tree(node, editable_nodes):
 
 
 if __name__ == '__main__':
+    """
+    Static generation of text inputs from a captured state file
+    """
+
     parser = argparse.ArgumentParser()
     parser.add_argument('--config', type=str, default='config.json', help='Path to the config file')
     parser.add_argument('--output', '-o', type=str, default='output', help='Path to the output directory')
@@ -52,7 +54,7 @@ if __name__ == '__main__':
     generated_texts = []
 
     for parent, child_idx in editable_nodes:
-        text = agent.get_text_input(view_tree, parent['children'][child_idx])
+        text = agent.gen_text_input(view_tree, parent['children'][child_idx])
         if isinstance(text, list):
             generated_texts.extend(text)
         else:

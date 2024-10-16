@@ -19,7 +19,7 @@ def load_profile(profile_file):
     return profile, profile_dict
 
 
-class LLMConfig:
+class AgentConfig:
     def __init__(self):
         self.app_name = None
         self.app_description = None
@@ -28,16 +28,18 @@ class LLMConfig:
         self.profile_id = "jade"
         self.profile = None
         self.profile_dict = {}
-        self.llm_model = 'gpt-3.5-turbo-0613'
+        self.llm_model = 'gpt-4o-mini'
+        self.tools = []
+        self.tool_functions = {}
 
         # load all personas
         self.available_profiles = {}
 
         for profile_name in os.listdir(
-            os.path.join(file_dir, '../../personas')
+            os.path.join(file_dir, '../personas')
         ):
             if profile_name.endswith('.txt'):
-                profile, profile_dict = load_profile(os.path.join(file_dir, '../../personas', profile_name))
+                profile, profile_dict = load_profile(os.path.join(file_dir, '../personas', profile_name))
 
                 self.available_profiles[
                     profile_name.removesuffix('.txt')
@@ -47,7 +49,7 @@ class LLMConfig:
         self.profile_dict = self.available_profiles[self.profile_id][1]
 
     def set_llm_model(self, llm_model):
-        if llm_model not in ['gpt-3.5-turbo-0613', 'gpt-4-0613']:
+        if llm_model not in ['gpt-4o', 'gpt-4o-mini']:
             print(
                 f'LLM model {llm_model} not supported, using default LLM model {self.llm_model}'
             )
@@ -89,7 +91,7 @@ class LLMConfig:
 
     def load_possible_tester_types(self):
         with open(
-            os.path.join(file_dir, '../../personas/testers.json'), 'r'
+            os.path.join(file_dir, '../personas/testers.json'), 'r'
         ) as f:
             self.tester_types = json.load(f)
 
@@ -105,4 +107,4 @@ class LLMConfig:
         return self.tester_types[self.tester_type]
 
 
-agent_config = LLMConfig()
+agent_config = AgentConfig()

@@ -4,6 +4,6 @@
     "package_name": "com.samsung.android.calendar",
     "tester_type": "default_tester",
     "profile": "jade",
-    "llm_model": "gpt-3.5-turbo-0613",
+    "llm_model": "gpt-4o",
     "output_dir": "output_sample"
 }

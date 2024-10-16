@@ -2,11 +2,7 @@ Metadata-Version: 2.1
 Name: droidfiller
 Version: 1.0
 Summary: A droidfiller module for better GUI testing
-Home-page: UNKNOWN
 Author: greenmon
 Author-email: greenmon@kaist.ac.kr
-License: UNKNOWN
-Platform: UNKNOWN
-
-UNKNOWN
-
+Requires-Dist: openai
+Requires-Dist: python-dotenv

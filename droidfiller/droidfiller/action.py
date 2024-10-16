@@ -54,7 +54,7 @@ class Action:
         self.event_type = event_type
 
     def update_input_text(self, input_text):
-        assert self.event_type == 'set_text', 'Cannot update input text for non-set_text event'
+        assert self.event_type == 'set_text', 'Cannot update input text for non-SetText event'
         self.text = input_text
         self.droidbot_event.text = input_text
 
