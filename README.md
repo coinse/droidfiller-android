@@ -1,8 +1,94 @@
-# droidfiller-artifact
+# DroidFiller: Customisable LLM-based Text Generation for Automated GUI Testing
 
-This repository contains artifacts for the paper titled "Integrating LLM-based Text Generation with Dynamic Context Retrieval for GUI Testing". Note that the GUI testing tool, STEM (Scenario-learnt Test Execution Model), and the LLM-based text input generation technique, DroidFiller, remain proprietary. This repository contains some information that could not fit the paper due to the page limit (fot example, the list of apps that are studied). It also contains scripts used to analyse the empirical evaluation results.
+This repository contains artifacts for the paper titled "Integrating LLM-based Text Generation with Dynamic Context Retrieval for GUI Testing". Note that the industrial GUI testing tool, STEM (Scenario-learnt Test Execution Model), and the LLM-based text input generation technique, DroidFiller, remain proprietary.
 
-## List of subjects for text generation quality evaluation
+As STEM is not available for public use, we support to use DroidFiller with [DroidBot](https://github.com/honeynet/droidbot) as well, which is an open-source test automation tool for Android applications. You can add your custom tools for dynamic context retrieval to adapt DroidFiller to your own testing environment.
+
+## Installation
+
+### Prerequisites
+* Tested on Python 3.11.2
+* Install the required packages by running `pip install -r requirements.txt`
+* Install [DroidBot](https://github.com/honeynet/droidbot) if you want to use DroidFiller integrated with DroidBot
+
+### Install DroidFiller
+```bash
+> cd droidfiller
+> pip install -e .
+```
+
+
+## Usage Example (w/ DroidBot)
+```python
+import logging
+import time
+from pathlib import Path
+
+from droidbot.device import Device
+from droidbot.app import App
+from droidbot.input_event import SetTextEvent
+
+from droidfiller import Agent
+
+POST_EVENT_WAIT = 1
+
+logging.basicConfig(level=logging.INFO) # Adjust the log level as needed
+
+output_dir = Path('test_output_droidbot') # Directory to record the prompts/responses as well as the generated text inputs
+
+device = Device(device_serial='emulator-5554', output_dir=output_dir, grant_perm=True, is_emulator=args.is_emulator)
+device.set_up()
+device.connect()
+
+# Initialise the DroidFiller agent
+agent = Agent(app_name=args.app_name, tester_type=args.tester_type, profile_name=args.profile_name, llm_model=args.llm_model, output_dir=output_path, tool_config_file_path='./example_tool_config.yml')
+
+possible_inputs = state.get_possible_input()
+for possible_input in possible_inputs:
+    if isinstance(possible_input, SetTextEvent):
+        state = device.get_current_state()
+
+        # Set text suggested by DroidFiller
+        possible_input.text = agent.gen_text_input(state, possible_input.view, source='droidbot')  
+        device.send_event(possible_input)
+        time.sleep(POST_EVENT_WAIT)
+
+device.disconnect()
+device.tear_down()
+```
+
+### Customising Tools (for Dynamic Context Retrieval)
+You can use your own configurations for dynamic context retrieval by writing a YAML file similar to the `example_tool_config.yml` file. The path to the configuration file is passed to the DroidFiller's `Agent` class as a parameter. (e.g., `agent = Agent(app_name=args.app_name, tester_type=args.tester_type, profile_name=args.profile_name, llm_model=args.llm_model, output_dir=output_path, tool_config_file_path='./example_tool_config.yml')`)
+
+The configuration should contain the textual description of the tool (e.g., content of the returned data, required parameters, etc.) and the actual Python code that defines the tool as a function definition. Each tool should have a unique name and return a stringified JSON object that contains the dynamic context that can be referred to by the LLM model when generating text inputs.
+
+The file should be formatted as below (refer to the `example_tool_config.yml` file for the full structure):
+
+```yaml
+tools:
+[...]
+  get_galaxy_store_coupon_code:
+    description:
+      type: function
+      function:
+        name: get_galaxy_store_coupon_code
+        description: Get an available galaxy store coupon code list when you are asked to fill in the coupon code textfield for the galaxy store app
+        parameters:
+          type: object
+          properties: {}
+
+    implementation: |
+      def get_galaxy_store_coupon_code():
+        return json.dumps({
+            "coupon_code": ["ref-gf8ff4", "ref-3iwi87", "ref-d5nzrs"],
+        })
+```
+
+## Evaluation Artifact for the Paper: Integrating LLM-based Text Generation with Dynamic Context Retrieval for GUI Testing
+
+This repository contains some information that could not fit the paper due to the page limit (for example, the list of apps that are studied). It also contains scripts used to analyse the empirical evaluation results. (`RQ_*.ipynb` files)
+
+### List of subjects for text generation quality evaluation
 
 Below are the list of applications and textfield IDs used in our text generation quality evaluation (RQ1 ~ RQ4)
 

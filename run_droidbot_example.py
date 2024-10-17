@@ -12,7 +12,7 @@ import time
 
 POST_EVENT_WAIT = 1
 
-logging.basicConfig(level=logging.DEBUG)
+logging.basicConfig(level=logging.INFO)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
